@@ -1,6 +1,6 @@
 # About
 
-This is my personal [Zettelkasten](https://zettelkasten.de/), also called a [Digital Garden](https://nesslabs.com/mind-garden). My intention is to embrace learning in public and publish my hopefully growing personal knowledge base here.
+This is my personal [Zettelkasten](https://zettelkasten.de/), also called a [Digital Garden](https://nesslabs.com/mind-garden). My intention is to embrace learning in public and publish my hopefully growing personal knowledge base here. You can find the web version of this repository at [https://billludwig.me](https://billludwig.me).
 
 ## Feedback and Corrections
 
