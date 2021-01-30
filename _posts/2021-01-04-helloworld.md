@@ -12,6 +12,10 @@ I'll be using this website as a digital repository for all of the different thin
 
 So here is the obligitory `Hello World` post. Guess it's time to start moving my notes over here.
 
+## Grammer and Spelling
+
+I reject the authoritarian philosophy that there is a single "proper" method of spelling and using the written language. Creative spelling, use of punctuation, and sentence structure is part of my process. Either that or I am a crap speller and can't be bothered to fix it. I'll let you decide.
+
 ```
                 \||/
                 |  @___oo
