@@ -1,14 +1,14 @@
 ---
-title:  Google Dorking
+title:  Google Dorks
 date:   2021-01-12 20:00:00 -0700
 tags: [Search Engines]
 ---
 
-# Google Dorking
-
-Dorking is using a search engine, in this case Google, to find very specific information via advanced search operators. These can be combined.
+Dorking is using a search engine, in this case Google, to find very specific information via advanced search operators.
 
 ## Operators
+
+(These can be combined)
 
 * `"phrase"`: exact match
 * `"-phrase"`: exclusion
