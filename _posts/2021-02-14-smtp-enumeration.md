@@ -1,7 +1,7 @@
 ---
 title:  SMTP Enumeration
 date:   2021-02-14 10:50:00 -0700
-tags: [Pentesting]
+tags: [Pentesting, MetaSploit]
 ---
 
 ## [SMTP]({% post_url 2021-02-14-smtp-pop-imap %}) Username Enumeration with [MetaSploit]({% post_url 2021-02-14-metasploit %})
