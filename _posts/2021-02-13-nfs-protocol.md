@@ -1,10 +1,10 @@
 ---
-title:  NFS
+title:  NFS Protocol
 date:   2021-02-13 13:50:00 -0700
-tags: [Networking, Pentesting]
+tags: [Networking]
 ---
 
-NFS (Network File System) is a protocol for file & directory sharing across a network. Files or folders "mounted" via NFS can be accessed pretty much the same as local files. [Technical Docs](https://docs.oracle.com/cd/E19683-01/816-4882/6mb2ipq7l/index.html)
+NFS (*Network File System*) is a protocol for file & directory sharing across a network. Files or folders "mounted" via NFS can be accessed pretty much the same as local files. [Technical Docs](https://docs.oracle.com/cd/E19683-01/816-4882/6mb2ipq7l/index.html)
 
 ## Mounting On Linux
 

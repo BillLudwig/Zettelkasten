@@ -1,5 +1,5 @@
 ---
-title:  CVE
+title:  Common Vulnerabilities and Exposures
 date:   2021-01-30 13:08:30 -0700
 tags: [Cybersecurity, Vulnerabilities]
 ---
