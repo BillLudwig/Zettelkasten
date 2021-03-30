@@ -4,6 +4,10 @@ date:   2021-02-14 11:49:00 -0700
 tags: [Reading, StuffIWant]
 ---
 
+I know everybody says this but I do not read enough. I have audiobooks, podcasts, streamers, and videos feeding me information all day long. But I never actually read.
+
+Next time I have a birthday or Christmas or just to be nice buy me one of these. Hardback would be awesome but paperback is great too.
+
 ## Cybersecurity/Programming/Etc
 
 * The Pentest Blueprint by Phillip L. Wylie
@@ -13,6 +17,15 @@ tags: [Reading, StuffIWant]
 * Malware Analyst's Cookbook by Steven Adair
 * Blue Team Handbook: Incident Response Edition by Don Murdoch
 * Rtfm: Red Team Field Manual by Ben Clark
+
+## Gaming Books
+
+* The Monsters Know What They’re Doing: Combat Tactics for Dungeon Masters by Keith Ammann
+* Live to Tell the Tale: Combat Tactics for Player Characters by Keith Ammann
+* MOAR! Monsters Know What They're Doing by Keith Ammann
+* Return of the Lazy Dungeon Master by Michael E Shea
+* Robin's Laws of Good Game Mastering by Robin D. Laws
+
 
 ## Politics & History
 
