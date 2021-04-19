@@ -4,7 +4,7 @@ date:   2021-01-05 16:43:00 -0700
 tags: [OSINT]
 ---
 
-The Open Source Enterprise (OSE) is a US Intelligence orginization that is focused on gathering intelligence via [Open Source Intelligence]({% post_url 2021-01-05-osint %}) (OSINT) `1`.
+The Open Source Enterprise (OSE) is a US Intelligence orginization that is focused on gathering intelligence via Open Source Intelligence (OSINT) `1`.
 
 ## Mission
 > The mission of ADDNI/OS is "To enable all intelligence disciplines to provide timely, relevant and value-added insight to consumers via the National Open Source Enterprise.

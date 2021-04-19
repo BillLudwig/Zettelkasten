@@ -1,7 +1,7 @@
 ---
 title:  Book Wishlist
 date:   2021-02-14 11:49:00 -0700
-tags: [Reading, StuffIWant]
+tags: [Personal, StuffIWant]
 ---
 
 I know everybody says this but I do not read enough. I have audiobooks, podcasts, streamers, and videos feeding me information all day long. But I never actually read.
