@@ -1,7 +1,7 @@
 ---
 title: Maritime Choke Points
 date: 2021-04-19 17:25:00 -0700
-tags: [Transportation Intelligence]
+tags: [VATINT]
 ---
 
 ![Maritime Choke Points](/assets/img/maritime-choke-points.png)
