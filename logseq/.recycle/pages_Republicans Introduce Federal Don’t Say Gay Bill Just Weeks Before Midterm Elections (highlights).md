@@ -1,0 +1,11 @@
+title:: Republicans Introduce Federal Don’t Say Gay Bill Just Weeks Before Midterm Elections (highlights)
+author:: [[Alex Bollinger]]
+full-title:: "Republicans Introduce Federal Don’t Say Gay Bill Just Weeks Before Midterm Elections"
+category:: #articles
+url:: https://www.lgbtqnation.com/2022/10/republicans-introduce-federal-dont-say-gay-bill-just-weeks-midterm-elections/
+
+- Highlights first synced by [[Readwise]] [[Oct 25th, 2022]]
+	- House Republicans have introduced a bill that would ban any entity that receives federal money from talking about sexual orientation or gender identity to children under the age of 10, going far beyond Florida’s Don’t Say Gay law.
+	  Thirty-two House Republicans have signed on as co-sponsors of the bill introduced by Rep. Mike Johnson (R-LA), which he called the “Stop the Sexualization of Children Act.” The bill would cut federal funding to libraries, school districts, hospitals, government entities, or other organizations for “hosting or promoting any program, event, or literature involving sexually-oriented material.”
+	  The bill defines “sexually-oriented material” as “any topic involving gender identity, gender dysphoria, transgenderism, sexual orientation, or related topics,” which could include an elementary school teacher keeping a picture of their spouse on their desk or a sign at a hospital with a rainbow flag on it if kids enter the hospital.
+	- The bill’s co-sponsors are Republican Representatives Bob Good (VA), Brian Babin (TX), Jeff Duncan (SC), Vicky Hartzler (MO), Doug Lamborn (CO), Markwayne Mullin (OK), Lauren Boebert (CO), Gregory Steube (FL), Debbie Lesko (AZ), Daniel Webster (FL), Ralph Norman (SC), Randy Weber (TX), Van Taylor (TX), Mary Miller (IL), Lance Gooden (TX), Louie Gohmert (TX), Glenn Grothman (WI), William Timmons (SC), Clay Higgins (LA), Steve Womack (AR), Tracey Mann (KA), John Joyce (PA), Scott Franklin (FL), Burgess Owens (UT), Matt Rosendale (MN), Russ Fulcher (ID), Tom Tiffany (WI), Nicole Malliotakis (NY), Doug LaMalfa (CA), Andrew Clyde (GA), Michael Guest (MI), and Dan Bishop (NC).

@@ -1,0 +1,4 @@
+- ## In Progress
+	- {{query (Task DOING) }}
+- ## Not Started
+	- {{query (Task TODO)}}
