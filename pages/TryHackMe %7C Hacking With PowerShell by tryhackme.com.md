@@ -5,7 +5,7 @@ category:: #articles
 url:: https://tryhackme.com/room/powershell
 tags:: #[[powershell]]
 
-- Highlights first synced by [[Readwise]] [[November 2nd, 2022]]
+- [[Highlights]] first synced by [[Readwise]] [[November 2nd, 2022]]
 	- Powershell is the Windows Scripting Language and shell environment that is built using the .NET framework.This also allows Powershell to execute .NET functions directly from its shell. Most Powershell commands, called cmdlets, are written in .NET. Unlike otherscripting languages and shell environments, the output of these cmdlets are objects - making Powershell somewhat object oriented. This also means that running cmdlets allows you to perform actions on the output object
 	- Get-Help displays information about a cmdlet
 	- understand how exactly to use the command by passing in the -examples flag

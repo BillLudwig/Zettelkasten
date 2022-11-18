@@ -4,7 +4,7 @@ full-title:: "Tweets From Zeta Byte"
 category:: #tweets
 url:: https://twitter.com/RcHacker12
 
-- Highlights first synced by [[Readwise]] [[November 18th, 2022]]
+- [[Highlights]] first synced by [[Readwise]] [[November 18th, 2022]]
 	- cybersecurity #hacking  #technology #programing #python  #coding #cybercrime #zetabyte #kalilinux   #ethicalhacking #bugbounty #pentester #pentest #malware 
 	  Amazing website for cyber security resource especially in (digital forensic and incident response) 
 	  https://t.co/VL16kkOoD7 https://t.co/cdqifnxNwK

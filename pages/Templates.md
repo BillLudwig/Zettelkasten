@@ -5,6 +5,7 @@
 		- ## #Journal
 		- ## #Tasks
 		- ## #Training
-		- ## #Resources
+		- ## #Links
 		- ## #Tools
+		- ## #Hilights
 	-

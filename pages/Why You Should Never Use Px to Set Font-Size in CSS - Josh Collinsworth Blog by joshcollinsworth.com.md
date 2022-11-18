@@ -4,7 +4,7 @@ full-title:: "Why You Should Never Use Px to Set Font-Size in CSS - Josh Collins
 category:: #articles
 url:: https://joshcollinsworth.com/blog/never-use-px-for-font-size
 
-- Highlights first synced by [[Readwise]] [[November 16th, 2022]]
+- [[Highlights]] first synced by [[Readwise]] [[November 16th, 2022]]
 	- px is short for pixel…although it’s not literally a pixel most of the time anymore.
 	- 1px is equal to whatever the browser is treating as a single pixel (even if it’s not literally a pixel on the hardware screen).
 	- Em originally referred to the width of an “M” character, which is where the name came from. But it now refers to the current font size, rather than to the dimensions of a specific glyph.
