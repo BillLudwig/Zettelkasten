@@ -4,6 +4,5 @@
 		- [HTTP Caching](https://www.rfc-editor.org/rfc/rfc9111)
 	- ### Versions
 		- [HTTP/1.1](https://www.rfc-editor.org/rfc/rfc9112)
-		- [HTTP/2](https://t.co/JAgkJ8655R)
-		- [HTTP/3](https://t.co/oYmavgKBLy)
--
+		- [HTTP/2](https://www.rfc-editor.org/rfc/rfc9113)
+		- [HTTP/3](https://www.rfc-editor.org/rfc/rfc9114)
