@@ -3,3 +3,6 @@
 	  id:: 6373dc00-ac71-44a7-818f-015a3a05f561
 	- [The evolution of scalable CSS](https://frontendmastery.com/posts/the-evolution-of-scalable-css/): A deep dive into the problems with scaling CSS on large projects. Understand the evolution of CSS best practices. #[[November 12th, 2022]]
 	  id:: 6377ab8f-e56d-4bf1-a484-1df9a3d7791c
+	- [What should someone learn if they last boned up during CSS3](https://css-tricks.com/whats-new-since-css3/) by Chris Coyier. #August 25th, 2022
+	  id:: 6377be6b-89e0-4885-933a-9b418e9824aa
+	-
