@@ -13,6 +13,7 @@
 		-
 - ## Tools
 - [[SkipTracer]]
+- [Free Carrier Lookup](https://www.freecarrierlookup.com/): Get carrier for any given phone number
 - ## Resources
 	- [SMART](https://smart.myosint.training/) written by Micah Hoffman - Aggregates over 200 [[OSINT]] start.me sites.
 	  id:: 6373e2f1-6b8d-425b-8bba-c0cd139af592
