@@ -1,4 +1,6 @@
--
+- ## Media Queries
+	- [Personalize It!](https://css-tricks.com/personalize-it/) Using preference-query [[CSS]] for [[A11y]] by Una Kravets
+	  id:: 6377c180-d2eb-437a-919d-fd2a58ce8c02
 - ## References
 	- [Practical CSS Guide for Busy Developers](https://codefrontend.com/css-guide/) by Vincas Stonys #[[October 28th, 2022]]
 	- [Keeping Your CSS Small: scopes, containers, and other new stuff](https://www.youtube.com/watch?v=bz0sMsCiU1c) [[CSS]] [[Video]] by Tab Atkins-Bittner Sept, 9 2022
