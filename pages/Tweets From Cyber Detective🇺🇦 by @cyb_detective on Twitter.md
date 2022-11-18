@@ -4,7 +4,7 @@ full-title:: "Tweets From Cyber Detective🇺🇦"
 category:: #Tweets
 url:: https://twitter.com/cyb_detective
 
-- Highlights first synced by [[Readwise]] [[Nov 2nd, 2022]]
+- [[Highlights]] first synced by [[Readwise]] [[Nov 2nd, 2022]]
 	- I'll probably be doing a lot less Twitter threads from now on, as I now have a blog on Medium and am going to be writing articles.
 	  
 	  I've collected links to all my old 33 threads in this post:

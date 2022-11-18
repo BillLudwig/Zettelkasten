@@ -5,5 +5,5 @@ category:: #articles
 url:: https://tryhackme.com/room/windowsfundamentals2x0x
 tags:: #[[windows]]
 
-- Highlights first synced by [[Readwise]] [[November 7th, 2022]]
+- [[Highlights]] first synced by [[Readwise]] [[November 7th, 2022]]
 	- The System Configuration utility (MSConfig) is for advanced troubleshooting, and its main purpose is to help diagnose startup issues.
