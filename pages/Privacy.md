@@ -1,0 +1,2 @@
+- ## Resources
+	- [JoinDeleteMe.com DIY Guide](https://joindeleteme.com/help/diy-free-opt-out-guide/)
