@@ -1,0 +1,9 @@
+- ## Specs
+	- ### Unversioned
+		- [HTTP Semantics](https://www.rfc-editor.org/rfc/rfc9110)
+		- [HTTP Caching](https://www.rfc-editor.org/rfc/rfc9111)
+	- ### Versions
+		- [HTTP/1.1](https://www.rfc-editor.org/rfc/rfc9112)
+		- [HTTP/2](https://t.co/JAgkJ8655R)
+		- [HTTP/3](https://t.co/oYmavgKBLy)
+-
