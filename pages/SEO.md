@@ -1,0 +1,2 @@
+- ## Natural Language
+	- Instead of using the same keyword over and over use natural synonyms and related phrases.

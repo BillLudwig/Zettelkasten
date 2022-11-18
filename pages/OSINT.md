@@ -21,8 +21,8 @@
 	- ### People Search
 		- [truepeoplesearch.com](https://www.truepeoplesearch.com/)
 		- [fastpeoplesearch.com](https://www.fastpeoplesearch.com/)
-		- thatsthem.com
-		- freepeoplesearch.com
+		- [thatsthem.com](https://thatsthem.com/)
+		- [freepeoplesearch.com](https://freepeoplesearch.com/)
 	- ### Public Records
 		- [InfoTracer](https://infotracer.com/)
 	- ### Telephone Numbers
