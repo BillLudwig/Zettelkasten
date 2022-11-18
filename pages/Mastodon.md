@@ -4,6 +4,15 @@
 	- [How To Use Mastodon and the Fediverse: Basic Tips](https://fedi.tips/how-to-use-mastodon-and-the-fediverse-basic-tips/)
 	- [Mastadon User's Guide](https://github.com/felx/mastodon-documentation/blob/master/Using-Mastodon/User-guide.md)
 - ## Searching
+	- ### Fediverse
+		- https://search.noc.social/
+		- https://fediverse.space/ - Huge map of the fediverse
+		- https://mastodon.fediverse.observer/list
+		- https://the-federation.info/mastodon
+	- ### Non-Federated
+		- https://mastodon.social/about#unavailable-content - Typically hate speech and spam servers
+		- https://github.com/ashfurrow/mastodon/blob/public/README.md - Blocked instances
+	-
 - ## Tips and Tricks
 	- Find peers of non-federated (probably federated too?) instances
 		- `{mastodon instance}/api/v1/instance/peers`
