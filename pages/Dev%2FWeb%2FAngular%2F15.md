@@ -10,3 +10,5 @@
 			- Old: `providers: [importProvidersFrom(RouterModule.forRoot(appRoutes))]`
 	- [Functional Router Guards] should reduce boilerplate
 		- Can run guards in sequence. [See test code](https://github.com/angular/angular/blob/8546b17adec01de69bf314a959ef2d12f6638eb9/packages/router/test/integration.spec.ts#L5157-L5194)
+	- [Image Directive](https://developer.chrome.com/blog/angular-image-directive/) is now stable
+	-
