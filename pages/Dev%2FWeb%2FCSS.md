@@ -1,6 +1,28 @@
 - ## Media Queries
 	- [Personalize It!](https://css-tricks.com/personalize-it/) Using preference-query [[Dev/Web/CSS]] for [[Dev/A11y]] by Una Kravets
 	  id:: 6377c180-d2eb-437a-919d-fd2a58ce8c02
+- ## Tips and Tricks
+	- [Style a parent element based on its number of children using CSS :has()](https://www.bram.us/2022/11/17/style-a-parent-element-based-on-its-number-of-children-using-css-has)
+		- > /* At most 3 (3 or less, excluding 0) children */
+		  ul:has(> :nth-child(-n+3):last-child) {
+		  	outline: 1px solid red;
+		  }
+		  /* At most 3 (3 or less, including 0) children */
+		  ul:not(:has(> :nth-child(3))) {
+		  	outline: 1px solid red;
+		  }
+		  /* Exactly 5 children */
+		  ul:has(> :nth-child(5):last-child) {
+		  	outline: 1px solid blue;
+		  }
+		  /* At least 10 (10 or more) children */
+		  ul:has(> :nth-child(10)) {
+		  	outline: 1px solid green;
+		  }
+		  /* Between 7 and 9 children (boundaries inclusive) */
+		  ul:has(> :nth-child(7)):has(> :nth-child(-n+9):last-child) {
+		  	outline: 1px solid yellow;
+		  }
 - ## References
 	- [What CSS Do You Absolutely Have to Know in 2022](https://css-tricks.com/what-css-do-you-absolutely-have-to-know-in-2022/) by Geoff Graham #[[November 8th, 200]]
 	- [Practical CSS Guide for Busy Developers](https://codefrontend.com/css-guide/) by Vincas Stonys #[[October 28th, 2022]]
