@@ -1,4 +1,5 @@
 - ## Big Changes
+  collapsed:: true
 	- {{video https://www.youtube.com/watch?v=-n0WhqabSmc}}
 	- [Standalone Components](https://angular.io/guide/standalone-components) are out of developer preview
 		- {{video https://www.youtube.com/watch?v=x5PZwb4XurU}}
@@ -13,4 +14,10 @@
 		- Can run guards in sequence. [See test code](https://github.com/angular/angular/blob/8546b17adec01de69bf314a959ef2d12f6638eb9/packages/router/test/integration.spec.ts#L5157-L5194)
 	- [Image Directive](https://developer.chrome.com/blog/angular-image-directive/) is now stable and does automatic `srcset` generation
 	- [Better stack traces](https://developer.chrome.com/blog/devtools-modern-web-debugging/)
-	-
+	- [Further improvements to esbuild support](https://esbuild.github.io/)
+		- to try change the builder to: `"builder": "@angular-devkit/build-angular:browser-esbuild"`
+	- bootstrapApplication API
+		- Set default date format for DatePipe
+- ## Deprecations
+	- `providedIn: 'any'` is no longer valid
+	- `providedIn: NgModule`
