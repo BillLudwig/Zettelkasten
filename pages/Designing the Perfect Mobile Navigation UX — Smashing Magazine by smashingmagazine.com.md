@@ -2,7 +2,7 @@ title:: Designing the Perfect Mobile Navigation UX — Smashing Magazine by smas
 author:: [[smashingmagazine.com]]
 full-title:: "Designing the Perfect Mobile Navigation UX — Smashing Magazine"
 category:: #articles
-tags:: #UX 
+tags:: #Dev/UX 
 url:: https://www.smashingmagazine.com/2022/11/navigation-design-mobile-ux/
 
 - Avoid Too Many Signposts In Your Navigation

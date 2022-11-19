@@ -6,6 +6,6 @@ url:: https://dotnet.microsoft.com/download/dotnet/7.0
 		- TODO Read this
 	- [C# 11](https://devblogs.microsoft.com/dotnet/welcome-to-csharp-11/) Released
 		- TODO Read this
-	- [ASP.NET Core](https://devblogs.microsoft.com/dotnet/announcing-asp-net-core-in-dotnet-7/) with [[Blazor]] updates
+	- [ASP.NET Core](https://devblogs.microsoft.com/dotnet/announcing-asp-net-core-in-dotnet-7/) with [[Dev/.NET/Blazor]] updates
 		- TODO Read this
 	- [.NET MAUI (Multi-Platform App UI)](https://devblogs.microsoft.com/dotnet/dotnet-maui-dotnet-7/) is now a thing
