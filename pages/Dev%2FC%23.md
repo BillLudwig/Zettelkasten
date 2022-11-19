@@ -1,5 +1,3 @@
-tags:: #Development
-
 -
 - ## List<T> Performance
 	- [Performance gains when specifying a List’s capacity Part 1](https://intodot.net/performance-gains-when-specifying-a-lists-capacity/) [Part 2](https://intodot.net/performance-gains-when-specifying-a-lists-capacity-part-2/)

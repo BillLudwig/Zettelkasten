@@ -11,7 +11,7 @@ url:: https://twitter.com/cyb_detective
 	  
 	  https://t.co/ImrPcXgHmK
 	  
-	  #OSINT #SocMint #GeoInt https://t.co/KguHYmefQw
+	  #OSINT #SocMint #OSINT/Geo https://t.co/KguHYmefQw
 	  
 	  ![](https://pbs.twimg.com/media/Ffx69vYXkAA1FyR.jpg) ([View Tweet](https://twitter.com/cyb_detective/status/1584277262610100224))
 	- Create "Sock Puppet" (fake account) for making contact with the target and collecting information through dialogue

@@ -12,12 +12,12 @@ tags:: #[[powershell]]
 	- The Pipeline(|) is used to pass output from one cmdlet to another
 	- Get-Command gets all the cmdlets installed on the current Computer. The great thing about this cmdlet is that it allows for pattern matchinglikethefollowingGet-Command Verb-* or Get-Command *-Noun
 	- When a cmdlet outputs a lot of information, you may need to sort it to extract the information more efficiently. You do this by pipe lining the output of a cmdlet to the Sort-Object cmdlet.
-- [[TryHackMe | Hacking With PowerShell by tryhackme.com]] #powershell #Training
+- [[TryHackMe | Hacking With PowerShell by tryhackme.com]] #Dev/Powershell #Training
   id:: 636359b8-068f-41a7-8581-57ae12ca94d4
 	- Count Cmdlets: `Get-Command -CommandType Cmdlet`
 	- See if Path Exists `Test-Path -Path {path}`
 	- Decode Base64 encoded file `certutil -decode "C:\Users\Administrator\Desktop\b64.txt" decode.txt`
-- [[TryHackMe | Hacking With PowerShell by tryhackme.com]] #Powershell #Training
+- [[TryHackMe | Hacking With PowerShell by tryhackme.com]] #Dev/Powershell #Training
   id:: 6364aa87-9d8d-43ce-8614-ee0c6b5f899a
 	- [Comparison Operators](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_comparison_operators?view=powershell-7.2&viewFallbackFrom=powershell-6)
 	  id:: 63653393-afc5-402a-931d-4edc0c3a3e8d
