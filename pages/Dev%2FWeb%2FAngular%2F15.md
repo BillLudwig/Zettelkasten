@@ -20,4 +20,5 @@
 		- Set default date format for DatePipe
 - ## Deprecations
 	- `providedIn: 'any'` is no longer valid
-	- `providedIn: NgModule`
+	- `providedIn: NgModule` no longer valid
+		- > It does not have wide usage, and in most cases is used incorrectly, in circumstances where you should prefer  `providedIn: 'root'` . If you should truly scope providers to a specific  `NgModule` , use  `NgModule.providers`  instead.
