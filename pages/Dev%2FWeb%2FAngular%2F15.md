@@ -8,7 +8,9 @@
 		- No longer need to import RouterModule directly.
 			- New: `providers: [provideRouter(appRoutes)]`
 			- Old: `providers: [importProvidersFrom(RouterModule.forRoot(appRoutes))]`
+		- No longer need to have the `.then(m => m.Component)` boilerplate as these are unwrapped by default.
 	- [Functional Router Guards] should reduce boilerplate
 		- Can run guards in sequence. [See test code](https://github.com/angular/angular/blob/8546b17adec01de69bf314a959ef2d12f6638eb9/packages/router/test/integration.spec.ts#L5157-L5194)
-	- [Image Directive](https://developer.chrome.com/blog/angular-image-directive/) is now stable
+	- [Image Directive](https://developer.chrome.com/blog/angular-image-directive/) is now stable and does automatic `srcset` generation
+	- [Better stack traces](https://developer.chrome.com/blog/devtools-modern-web-debugging/)
 	-
