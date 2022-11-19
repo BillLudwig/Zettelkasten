@@ -225,6 +225,7 @@
  :property-pages/enabled? false
  :journal/page-title-format "MMMM do, yyyy"
  :publishing/all-pages-public? true
+ :feature/enable-timetracking? false
 
  ;; Properties to exclude from having property pages
  ;; E.g.:property-pages/excludelist #{:duration :author}
