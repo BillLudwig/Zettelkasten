@@ -1,4 +1,4 @@
-title:: Programming/.NET/7
+title:: Dev/.NET/7
 url:: https://dotnet.microsoft.com/download/dotnet/7.0
 
 - ## Changes

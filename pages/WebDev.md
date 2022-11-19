@@ -1,4 +1,4 @@
-tags:: #Programming
+tags:: #Development
 
 - ## Animation & Cool Effects
 	- [Experiments with Astro and the Shared Element Transition API](https://www.maxiferreira.com/blog/astro-page-transitions/) This is really cool. I need to play with [[Astro]] at some point. #WebDev
