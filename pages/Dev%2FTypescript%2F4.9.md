@@ -9,3 +9,5 @@ title:: Dev/Typescript/4.9
 	- [Auto-Accessors in Classes](https://devblogs.microsoft.com/typescript/announcing-typescript-4-9/#auto-accessors-in-classes) adds support for an upcoming ECMAScript feature.  See [proposal](https://github.com/tc39/proposal-grouped-and-auto-accessors)
 		- `accessor name: string` is just like a `get` and `set` with a private backing property.
 	- **New** Will throw error when doing equality checks against `NaN` instead of using `Number.isNan`
+	- [File watching improvements](https://github.com/tc39/proposal-grouped-and-auto-accessors)
+	- Finally added remove unused/sort imports command for IDEs
