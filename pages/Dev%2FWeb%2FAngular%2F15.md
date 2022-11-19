@@ -2,4 +2,10 @@
 	- {{video https://www.youtube.com/watch?v=-n0WhqabSmc}}
 	- [Standalone Components](https://angular.io/guide/standalone-components) are out of developer preview
 		- {{video https://www.youtube.com/watch?v=x5PZwb4XurU}}
-	- [Advancements in the Angular Router](https://blog.angular.io/advancements-in-the-angular-router-5d69ec4c032) This was available in 14.2 but I'll probably l
+	- [Advancements in the Angular Router](https://blog.angular.io/advancements-in-the-angular-router-5d69ec4c032) This was available in 14.2 but I'll probably look to implement with v15.
+		- Better tree-shaking in the Router removing the old `HashLocationStrategy` and SSR code if not used
+			- Saves about 11% of the router code size
+		- No longer need to import RouterModule directly.
+			- New: `providers: [provideRouter(appRoutes)]`
+			- Old: `providers: [importProvidersFrom(RouterModule.forRoot(appRoutes))]`
+	- [Functional Router Guards] should reduce boilerplate
