@@ -1,4 +1,3 @@
-tags:: #pentesting
 url:: https://www.kali.org/tools/gobuster/
 
 - Gobuster is a tool to brute force URI iteration for subdomain, directories, and file discovery.

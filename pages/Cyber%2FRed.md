@@ -1,0 +1,5 @@
+- ## Tools
+	- ### Discovery
+		- [[Gobuster]] - Brute force URI discovery tool
+		- [Subfinder](https://github.com/projectdiscovery/subfinder) - Passive subdomain discovery
+		- [Katana](https://github.com/projectdiscovery/katana) - CLI web crawler
