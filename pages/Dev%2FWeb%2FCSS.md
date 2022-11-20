@@ -25,6 +25,7 @@
 		  ul:has(> :nth-child(7)):has(> :nth-child(-n+9):last-child) {
 		  	outline: 1px solid yellow;
 		  }
+	- [Collapsible Tree Lists with CSS](https://iamkate.com/code/tree-views/) - No Javascript and fully accessible.
 - ## References
 	- [What CSS Do You Absolutely Have to Know in 2022](https://css-tricks.com/what-css-do-you-absolutely-have-to-know-in-2022/) by Geoff Graham #[[November 8th, 200]]
 	- [Practical CSS Guide for Busy Developers](https://codefrontend.com/css-guide/) by Vincas Stonys #[[October 28th, 2022]]
