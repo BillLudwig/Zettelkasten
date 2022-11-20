@@ -1,0 +1,2 @@
+- ## Tools
+	- [nuclei](https://github.com/projectdiscovery/nuclei) Template based vulnerability scanner. Supports [[TCP]], [[DNS]], [[HTTP]], [[SSL]], [[Whois]], [[Websocket]], and more.
