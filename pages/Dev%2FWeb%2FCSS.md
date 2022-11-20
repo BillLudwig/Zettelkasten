@@ -4,6 +4,7 @@
 - ## Tips and Tricks
 	- [Style a parent element based on its number of children using CSS :has()](https://www.bram.us/2022/11/17/style-a-parent-element-based-on-its-number-of-children-using-css-has)
 	  id:: 637963df-b27f-4cd6-adcc-7312ed841ca2
+	  collapsed:: true
 		- > /* At most 3 (3 or less, excluding 0) children */
 		  ul:has(> :nth-child(-n+3):last-child) {
 		  	outline: 1px solid red;
