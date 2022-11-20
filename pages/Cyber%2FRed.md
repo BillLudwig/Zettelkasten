@@ -3,4 +3,5 @@
 		- [[Gobuster]] - Brute force URI discovery tool
 		- [Subfinder](https://github.com/projectdiscovery/subfinder) - Passive subdomain discovery by ProjectDiscovery.io
 		- [Katana](https://github.com/projectdiscovery/katana) - CLI web crawler by ProjectDiscovery.io
-		- [httpx](https://github.com/projectdiscovery/httpx)
+		- [httpx](https://github.com/projectdiscovery/httpx): [[HTTP]] probing toolkit by ProjectDiscovery.io
+-
