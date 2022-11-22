@@ -4,4 +4,4 @@
 - ## References
 	- [What's new in WCAG 2.2](https://www.youtube.com/watch?v=5yhL8q8hDMA) by Allison Ravenhall #Dev/A11y #Video #[[November 9th, 2022]]
 	  id:: 63755c9d-e1a4-4370-a673-f3a981fc646f
-	- [A Guide To Keyboard Accessibility: HTML And CSS (Part 1)](https://www.smashingmagazine.com/2022/11/guide-keyboard-accessibility-html-css-part1/)
+	- [A Guide To Keyboard Accessibility: HTML And CSS (Part 1)](https://www.smashingmagazine.com/2022/11/guide-keyboard-accessibility-html-css-part1/) [Part 2](https://www.smashingmagazine.com/2022/11/guide-keyboard-accessibility-javascript-part2/)
