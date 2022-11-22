@@ -1,16 +1,9 @@
 - ## Sub-Pages
-  collapsed:: true
-	- ### Social Media (SOCMINT)
-		- ### LinkedIn
-			- {{embed [[OSINT/LinkedIn]]}}
-		- ### Mastodon
-			- {{embed [[OSINT/Mastodon]]}}
-			  id:: 637414d5-c4bb-4b26-bd59-cef9b14a3959
-	- ## Misc OSINT Topics
-		- ### COSINT - Car OSINT
-		  collapsed:: true
-			- {{embed [[OSINT/COSINT]]}}
-		-
+- {{namespace OSINT}}
+- ## Misc OSINT Topics
+	- ### COSINT - Car OSINT
+	  collapsed:: true
+		- {{embed [[OSINT/COSINT]]}}
 - ## Tools
 - [[SkipTracer]]
 - ## Resources
