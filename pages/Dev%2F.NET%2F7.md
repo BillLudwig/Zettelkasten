@@ -9,3 +9,4 @@ url:: https://dotnet.microsoft.com/download/dotnet/7.0
 	- [ASP.NET Core](https://devblogs.microsoft.com/dotnet/announcing-asp-net-core-in-dotnet-7/) with [[Dev/.NET/Blazor]] updates
 		- TODO Read this
 	- [.NET MAUI (Multi-Platform App UI)](https://devblogs.microsoft.com/dotnet/dotnet-maui-dotnet-7/) is now a thing
+	- [Profile-Guided Optimization Improvements](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7/#profile-guided-optimization-pgo)
