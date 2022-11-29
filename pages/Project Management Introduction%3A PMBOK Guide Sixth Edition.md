@@ -14,6 +14,8 @@ description:: Project Management Introduction (PMBOK® Sixth Edition). The prese
 		- Balance the competing demands of the budget, schedule, quality, and scope
 	- Project Management Competencies
 		- groups of work are classified as portfolios, programs and projects
+		- A portfolio is a collection of projects, programs and ongoing work
+		- A program is a group of related projects and ongoing work that is centrally managed.
 	- Portfolios and Programs
 	- Project Stakeholder Roles
 	- Stakeholders within the Organization
