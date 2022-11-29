@@ -5,7 +5,8 @@ description:: Project Management Introduction (PMBOK® Sixth Edition). The prese
 		- A project:
 			- work that produces a unique product, service, or result.
 			- has a temporary duration with set beginning and end point.
-		-
+		- Progressive elaboration: clarifying and refining project over time
+		- Scope creep: unwanted and uncontrolled changes to a project.
 	- Project Manager Responsibilities
 	- Project Management Competencies
 	- Portfolios and Programs
