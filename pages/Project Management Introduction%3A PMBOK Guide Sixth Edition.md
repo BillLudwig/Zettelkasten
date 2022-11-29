@@ -2,9 +2,17 @@ description:: Project Management Introduction (PMBOK® Sixth Edition). The prese
 
 - ## Project Management Introduction
 	- Project Characteristics
+		- A project:
+			- work that produces a unique product, service, or result.
+			- has a temporary duration with set beginning and end point.
+		-
 	- Project Manager Responsibilities
 	- Project Management Competencies
 	- Portfolios and Programs
 	- Project Stakeholder Roles
 	- Stakeholders within the Organization
--
+	- Organizational Culture Influence
+	- Environmental Influences and Process Assets
+	- Organizational Structure Types
+	- Agile Considerations
+	- Project Management Concepts
