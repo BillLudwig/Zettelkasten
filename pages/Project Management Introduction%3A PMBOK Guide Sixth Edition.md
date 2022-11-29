@@ -8,7 +8,12 @@ description:: Project Management Introduction (PMBOK® Sixth Edition). The prese
 		- Progressive elaboration: clarifying and refining project over time
 		- Scope creep: unwanted and uncontrolled changes to a project.
 	- Project Manager Responsibilities
+		- Accomplish project objectives
+		- Balance stakeholders' expectations
+		- Update project plans
+		- Balance the competing demands of the budget, schedule, quality, and scope
 	- Project Management Competencies
+		- groups of work are classified as portfolios, programs and projects
 	- Portfolios and Programs
 	- Project Stakeholder Roles
 	- Stakeholders within the Organization
