@@ -11,4 +11,9 @@ title:: Dev/.NET/CSharp/11
 		- Sealed classes are faster in all cases except when calling a static method from parent class
 		- "When we call overridden methods in sealed classes, this is done **directly on the memory address of the sealed class object**. In an open class, we need to call methods through virtual dispatch. **The virtual dispatch cannot use a direct call **since it has to check if the method has been overridden."
 - ## Raw String Literals
-	- Now instead of having just [string interpolation](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/tokens/interpolated) with the `$` syntax and
+	- Now instead of having just [string interpolation](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/tokens/interpolated) with the `$` syntax and [verbatim](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/tokens/verbatim) with the `@` syntax we now also have [string literals](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-11.0/raw-string-literal) with the `"""` syntax.
+		- String literals don't need to have escapes around quotes and automatically trim leading and following white space.
+		- They can be mixed for extra fun.
+			- `var location = $$"""
+			     You are at {{{Longitude}}, {{Latitude}}}
+			     """;`
