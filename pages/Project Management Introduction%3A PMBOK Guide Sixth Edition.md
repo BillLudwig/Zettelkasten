@@ -1,0 +1,26 @@
+description:: Project Management Introduction (PMBOK® Sixth Edition). The presenter is Barbara Waters | PMP. Materials in this course are based on the text A Guide to the Project Management Body of Knowledge (PMBOK® Guide)-Sixth Edition, Project Management Institute, Inc., 2017. PMBOK, PMI, PMP, CAPM are registered trademarks of the Project Management Institute, Inc.
+
+- ## Project Management Introduction
+	- Project Characteristics
+		- A project:
+			- work that produces a unique product, service, or result.
+			- has a temporary duration with set beginning and end point.
+		- Progressive elaboration: clarifying and refining project over time
+		- Scope creep: unwanted and uncontrolled changes to a project.
+	- Project Manager Responsibilities
+		- Accomplish project objectives
+		- Balance stakeholders' expectations
+		- Update project plans
+		- Balance the competing demands of the budget, schedule, quality, and scope
+	- Project Management Competencies
+		- groups of work are classified as portfolios, programs and projects
+		- A portfolio is a collection of projects, programs and ongoing work
+		- A program is a group of related projects and ongoing work that is centrally managed.
+	- Portfolios and Programs
+	- Project Stakeholder Roles
+	- Stakeholders within the Organization
+	- Organizational Culture Influence
+	- Environmental Influences and Process Assets
+	- Organizational Structure Types
+	- Agile Considerations
+	- Project Management Concepts
