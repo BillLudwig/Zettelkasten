@@ -15,5 +15,6 @@ title:: Dev/.NET/CSharp/11
 		- String literals don't need to have escapes around quotes and automatically trim leading and following white space.
 		- They can be mixed for extra fun.
 			- `var location = $$""" You are at {{{Longitude}}, {{Latitude}}}  """;`
-- ## List Pattern Matching With `is`
+- ## List Pattern Matching with discard `_` and Range `...`
+	- Using the [discard](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/functional/discards) and [range]() patterns is now allowed for [list patterns](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/functional/pattern-matching#list-patterns).
 	- [Introducing C#11: List Pattern](https://anthonygiretti.com/2022/11/29/introducing-c11-list-pattern/)
