@@ -14,6 +14,4 @@ title:: Dev/.NET/CSharp/11
 	- Now instead of having just [string interpolation](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/tokens/interpolated) with the `$` syntax and [verbatim](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/tokens/verbatim) with the `@` syntax we now also have [string literals](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-11.0/raw-string-literal) with the `"""` syntax.
 		- String literals don't need to have escapes around quotes and automatically trim leading and following white space.
 		- They can be mixed for extra fun.
-			- `var location = $$"""
-			     You are at {{{Longitude}}, {{Latitude}}}
-			     """;`
+			- `var location = $$""" You are at {{{Longitude}}, {{Latitude}}}  """;`
