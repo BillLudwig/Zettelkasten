@@ -16,5 +16,5 @@ title:: Dev/.NET/CSharp/11
 		- They can be mixed for extra fun.
 			- `var location = $$""" You are at {{{Longitude}}, {{Latitude}}}  """;`
 - ## List Pattern Matching with discard `_` and Range `...`
-	- Using the [discard](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/functional/discards) and [range]() patterns is now allowed for [list patterns](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/functional/pattern-matching#list-patterns).
+	- Using the [discard _](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/functional/discards) and [range ...]() patterns is now allowed for [list patterns](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/functional/pattern-matching#list-patterns).
 	- [Introducing C#11: List Pattern](https://anthonygiretti.com/2022/11/29/introducing-c11-list-pattern/)
