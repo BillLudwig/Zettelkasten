@@ -12,6 +12,7 @@
 	- LATER [CodeRed Ethical Hacking](https://codered.eccouncil.org/course/ethical-hacking-essentials) – the Ethical Hacking Essentials (EHE) training will allow you to learn the fundamentals of ethical hacking and penetration testing. 15h of video content.
 	- LATER [Fortinet Cybersecurity Awareness Certification](https://www.fortinet.com/training-certification) – several of the The Fortinet Network Security Expert (NSE) curriculum courses are available for free; from the most basic concepts to some more advanced stuff like zero trust or cloud security. All self paced, with an option to enroll into exams.
 	- LATER [Introduction to Cyber Security](https://www.futurelearn.com/courses/introduction-to-cyber-security) – cybersecurity essentials from Future Learn.
+	- ((63898a4f-0c22-4b2c-8c5a-f57b8735eb6b))
 	- LATER [(ISC)² Certified in Cybersecurity](https://www.isc2.org/Certifications/CC) – free training, still available but for a limited amount of time. An easy on-ramp for the CISSP certification. Some argue that this course is a clever marketing tactic and isn’t really free since you have to pay a membership fee if you want to be certified, but the access to content and materials does not require paying.
 	- LATER [Offensive Security Metasploit](https://www.offensive-security.com/metasploit-unleashed/introduction/) – a comprehensive walkthrough of one of the most popular hacking tools. No registration or sign-up required.
 	- LATER [PortSwigger Web Security Academy](https://portswigger.net/web-security) – from the people behind Burp Suite comes the whole academy full of flexible learning, great interactive materials, challenges and labs.
@@ -28,3 +29,5 @@
 	- LATER [OSINT Mini](https://courses.thecyberinst.org/courses/osintmini) – courtesy of the Cyber Institute. Taught by an experienced former law enforcement professional from South Africa.
 - # #[[Project Management]]
 	- ((6387f45f-e23d-4e98-88b7-ca17ba883bf3))
+- # #Windows
+	- ((6387f45f-c478-4f15-aa10-a28ae0268db3))
