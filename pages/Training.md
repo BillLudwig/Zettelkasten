@@ -1,11 +1,13 @@
 - # #[[Affiliate Marketing]]
 	- ((63898330-06f2-42b1-8d34-5e6119312b92))
+	- ((63898cc1-0736-45a1-a7cf-003b57078e8c))
 - # #Algorithms
 	- ((6373bfeb-a3a2-4f2f-ab41-0d6d2c3d0b9e))
 - # #Certifications
 	- LATER [Professor Messer](https://www.youtube.com/@professormesser) – this YouTube channel is a real goldmine of free content for several CompTIA certifications – CompTIA A+, Network+ and Security+.
 - # #Dev/Powershell
 	- LATER [PowerShell for Beginners](https://www.youtube.com/watch?v=UVUd9_k9C6A) – full tutorial from scratch on using PowerShell for various task management needs.
+	- ((63898d7f-fcd6-4606-92e3-e913d6b35dad))
 - # #Cyber
 	- ((6387f45f-08d1-422c-a784-2a7d4c97c77c))
 	- LATER [CISCO Introduction to Cybersecurity](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity) - beginner level; 15h of self paced content; focuses on cyber trends, threats and some recent industry developments. No prerequisites required.
