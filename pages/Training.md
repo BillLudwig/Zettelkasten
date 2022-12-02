@@ -1,8 +1,7 @@
 - # #[[Affiliate Marketing]]
 	- ((63898330-06f2-42b1-8d34-5e6119312b92))
 - # #Algorithms
-	- LATER [The Last Algorithms Course You'll Ever Need](https://frontendmasters.com/courses/algorithms/) from Frontend Masters
-	  id:: 6373bfeb-a3a2-4f2f-ab41-0d6d2c3d0b9e
+	- ((6373bfeb-a3a2-4f2f-ab41-0d6d2c3d0b9e))
 - # #Certifications
 	- LATER [Professor Messer](https://www.youtube.com/@professormesser) – this YouTube channel is a real goldmine of free content for several CompTIA certifications – CompTIA A+, Network+ and Security+.
 - # #Dev/Powershell
@@ -27,5 +26,5 @@
 	- LATER [OSINT Beginners Course](https://training.kapsuungroup.com/courses/osint-beginners-course) – basics of OSINT, Internet collection, tools, social media and more. Ran by the Kapsuun Group who have another basic course on operational security that can go hand in hand with the OSINT one – [How to Keep Safe Online](https://training.kapsuungroup.com/courses/how-to-keep-safe-online).
 	- LATER [OSINT Dojo](https://www.osintdojo.com/ranks/) – learn by doing, so not exactly a training course per se, but the hands on practice in completing tasks to achieve each rank can earn you some cool digital badges.
 	- LATER [OSINT Mini](https://courses.thecyberinst.org/courses/osintmini) – courtesy of the Cyber Institute. Taught by an experienced former law enforcement professional from South Africa.
-- # #[Project Management]
--
+- # #[[Project Management]]
+	- ((6387f45f-e23d-4e98-88b7-ca17ba883bf3))
