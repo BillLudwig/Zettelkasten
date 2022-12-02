@@ -1,14 +1,27 @@
--
-	- ## #Algorithms
-		- LATER [The Last Algorithms Course You'll Ever Need](https://frontendmasters.com/courses/algorithms/) from Frontend Masters
-		  id:: 6373bfeb-a3a2-4f2f-ab41-0d6d2c3d0b9e
-	- ## #Cyber
-		- LATER [CISCO Introduction to Cybersecurity](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity) - beginner level; 15h of self paced content; focuses on cyber trends, threats and some recent industry developments. No prerequisites required.
-		- LATER [CISCO Cybersecurity Essentials](https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials) - a more advanced version of the above training, focusing on network defence, with some practical hands on elements. Can be seen as a primer for the CCNA. 30h of self paced material.
-		- LATER [CodeRed Ethical Hacking](https://codered.eccouncil.org/course/ethical-hacking-essentials) – the Ethical Hacking Essentials (EHE) training will allow you to learn the fundamentals of ethical hacking and penetration testing. 15h of video content.
-		- LATER [Fortinet Cybersecurity Awareness Certification](https://www.fortinet.com/training-certification) – several of the The Fortinet Network Security Expert (NSE) curriculum courses are available for free; from the most basic concepts to some more advanced stuff like zero trust or cloud security. All self paced, with an option to enroll into exams.
-		- LATER [Introduction to Cyber Security](https://www.futurelearn.com/courses/introduction-to-cyber-security) – cybersecurity essentials from Future Learn.
-		- LATER [(ISC)² Certified in Cybersecurity](https://www.isc2.org/Certifications/CC) – free training, still available but for a limited amount of time. An easy on-ramp for the CISSP certification. Some argue that this course is a clever marketing tactic and isn’t really free since you have to pay a membership fee if you want to be certified, but the access to content and materials does not require paying.
-		- LATER [Offensive Security Metasploit](https://www.offensive-security.com/metasploit-unleashed/introduction/) – a comprehensive walkthrough of one of the most popular hacking tools. No registration or sign-up required.
-		- LATER [PortSwigger Web Security Academy](https://portswigger.net/web-security) – from the people behind Burp Suite comes the whole academy full of flexible learning, great interactive materials, challenges and labs.
-		- LATER [SANS Free Cybersecurity Resources](https://www.sans.org/security-resources/) – a bunch of freebies from SANS, including links to various past SANS Summits.
+- # #Algorithms
+	- LATER [The Last Algorithms Course You'll Ever Need](https://frontendmasters.com/courses/algorithms/) from Frontend Masters
+	  id:: 6373bfeb-a3a2-4f2f-ab41-0d6d2c3d0b9e
+- # #Certifications
+	-
+- # #Cyber
+	- LATER [CISCO Introduction to Cybersecurity](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity) - beginner level; 15h of self paced content; focuses on cyber trends, threats and some recent industry developments. No prerequisites required.
+	- LATER [CISCO Cybersecurity Essentials](https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials) - a more advanced version of the above training, focusing on network defence, with some practical hands on elements. Can be seen as a primer for the CCNA. 30h of self paced material.
+	- LATER [CodeRed Ethical Hacking](https://codered.eccouncil.org/course/ethical-hacking-essentials) – the Ethical Hacking Essentials (EHE) training will allow you to learn the fundamentals of ethical hacking and penetration testing. 15h of video content.
+	- LATER [Fortinet Cybersecurity Awareness Certification](https://www.fortinet.com/training-certification) – several of the The Fortinet Network Security Expert (NSE) curriculum courses are available for free; from the most basic concepts to some more advanced stuff like zero trust or cloud security. All self paced, with an option to enroll into exams.
+	- LATER [Introduction to Cyber Security](https://www.futurelearn.com/courses/introduction-to-cyber-security) – cybersecurity essentials from Future Learn.
+	- LATER [(ISC)² Certified in Cybersecurity](https://www.isc2.org/Certifications/CC) – free training, still available but for a limited amount of time. An easy on-ramp for the CISSP certification. Some argue that this course is a clever marketing tactic and isn’t really free since you have to pay a membership fee if you want to be certified, but the access to content and materials does not require paying.
+	- LATER [Offensive Security Metasploit](https://www.offensive-security.com/metasploit-unleashed/introduction/) – a comprehensive walkthrough of one of the most popular hacking tools. No registration or sign-up required.
+	- LATER [PortSwigger Web Security Academy](https://portswigger.net/web-security) – from the people behind Burp Suite comes the whole academy full of flexible learning, great interactive materials, challenges and labs.
+	- LATER [SANS Free Cybersecurity Resources](https://www.sans.org/security-resources/) – a bunch of freebies from SANS, including links to various past SANS Summits.
+- # #Linux
+	- LATER [Introduction to Linux](https://www.edx.org/course/introduction-to-linux) – the basics of Linux OS from LinuxFoundationX, courtesy of edX.
+	- LATER [Introduction to Linux for Cybersecurity](https://www.youtube.com/watch?v=2eEe5LnEbks) – a YouTube video (under 2h) from a Linux enthusiast, explaining various cybersecurity concepts pertinent to Linux. Includes some handy links in the description.
+	- LATER [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595) – ace the command line, with no prior knowledge. Since Linux relies on the command line probably more than any other OS, this is a good starting point for learning about the filesystem and how the OS works in general.
+- # #OSINT
+	- LATER [Basel Institute of Governance](https://learn.baselgovernance.org/enrol/index.php?id=79) – this is a free open source intelligence course from an institute of the University of Basel in Switzerland. They actually have many more free courses available – you can check them all out [here](https://learn.baselgovernance.org/course/index.php?categoryid=15).
+	- LATER [Dark Web Foundations](https://www.darkwebacademy.com/courses/dark-web-foundations) – probably not a strictly OSINT-only course, but it seems to give good foundational knowledge of several darkweb OSINT topics.
+	- LATER [OSINT Beginners Course](https://training.kapsuungroup.com/courses/osint-beginners-course) – basics of OSINT, Internet collection, tools, social media and more. Ran by the Kapsuun Group who have another basic course on operational security that can go hand in hand with the OSINT one – [How to Keep Safe Online](https://training.kapsuungroup.com/courses/how-to-keep-safe-online).
+	- LATER [OSINT Dojo](https://www.osintdojo.com/ranks/) – learn by doing, so not exactly a training course per se, but the hands on practice in completing tasks to achieve each rank can earn you some cool digital badges.
+	- LATER [OSINT Mini](https://courses.thecyberinst.org/courses/osintmini) – courtesy of the Cyber Institute. Taught by an experienced former law enforcement professional from South Africa.
+- # #Dev/Powershell
+	- LATER [PowerShell for Beginners](https://www.youtube.com/watch?v=UVUd9_k9C6A) – full tutorial from scratch on using PowerShell for various task management needs.
