@@ -7,12 +7,14 @@
 - # #Dev/Powershell
 	- LATER [PowerShell for Beginners](https://www.youtube.com/watch?v=UVUd9_k9C6A) – full tutorial from scratch on using PowerShell for various task management needs.
 - # #Cyber
+	- ((6387f45f-08d1-422c-a784-2a7d4c97c77c))
 	- LATER [CISCO Introduction to Cybersecurity](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity) - beginner level; 15h of self paced content; focuses on cyber trends, threats and some recent industry developments. No prerequisites required.
 	- LATER [CISCO Cybersecurity Essentials](https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials) - a more advanced version of the above training, focusing on network defence, with some practical hands on elements. Can be seen as a primer for the CCNA. 30h of self paced material.
 	- LATER [CodeRed Ethical Hacking](https://codered.eccouncil.org/course/ethical-hacking-essentials) – the Ethical Hacking Essentials (EHE) training will allow you to learn the fundamentals of ethical hacking and penetration testing. 15h of video content.
 	- LATER [Fortinet Cybersecurity Awareness Certification](https://www.fortinet.com/training-certification) – several of the The Fortinet Network Security Expert (NSE) curriculum courses are available for free; from the most basic concepts to some more advanced stuff like zero trust or cloud security. All self paced, with an option to enroll into exams.
 	- LATER [Introduction to Cyber Security](https://www.futurelearn.com/courses/introduction-to-cyber-security) – cybersecurity essentials from Future Learn.
-	- ((63898a4f-0c22-4b2c-8c5a-f57b8735eb6b))
+	- ((6387f45f-23c7-401b-a730-c5feeb3fa204))
+	- ((6387f45f-6d84-4667-8bda-e5bb5353a033))
 	- LATER [(ISC)² Certified in Cybersecurity](https://www.isc2.org/Certifications/CC) – free training, still available but for a limited amount of time. An easy on-ramp for the CISSP certification. Some argue that this course is a clever marketing tactic and isn’t really free since you have to pay a membership fee if you want to be certified, but the access to content and materials does not require paying.
 	- LATER [Offensive Security Metasploit](https://www.offensive-security.com/metasploit-unleashed/introduction/) – a comprehensive walkthrough of one of the most popular hacking tools. No registration or sign-up required.
 	- LATER [PortSwigger Web Security Academy](https://portswigger.net/web-security) – from the people behind Burp Suite comes the whole academy full of flexible learning, great interactive materials, challenges and labs.
