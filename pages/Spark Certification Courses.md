@@ -1,5 +1,8 @@
 - ## Course 2: Internet Marketing 101
 	- ### Evolution of Online Marketing
 	- ### Types of Internet Marketing
+		- Digital Marketing
+		- Affiliate Marketing
+		- Direct-Response Marketing
 	- ### Terms, Ideas, and Concepts
 	- ### Top Internet Marketing Channels
