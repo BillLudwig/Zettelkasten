@@ -2,7 +2,9 @@
 	- LATER [The Last Algorithms Course You'll Ever Need](https://frontendmasters.com/courses/algorithms/) from Frontend Masters
 	  id:: 6373bfeb-a3a2-4f2f-ab41-0d6d2c3d0b9e
 - # #Certifications
-	-
+	- LATER [Professor Messer](https://www.youtube.com/@professormesser) – this YouTube channel is a real goldmine of free content for several CompTIA certifications – CompTIA A+, Network+ and Security+.
+- # #Dev/Powershell
+	- LATER [PowerShell for Beginners](https://www.youtube.com/watch?v=UVUd9_k9C6A) – full tutorial from scratch on using PowerShell for various task management needs.
 - # #Cyber
 	- LATER [CISCO Introduction to Cybersecurity](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity) - beginner level; 15h of self paced content; focuses on cyber trends, threats and some recent industry developments. No prerequisites required.
 	- LATER [CISCO Cybersecurity Essentials](https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials) - a more advanced version of the above training, focusing on network defence, with some practical hands on elements. Can be seen as a primer for the CCNA. 30h of self paced material.
@@ -23,5 +25,3 @@
 	- LATER [OSINT Beginners Course](https://training.kapsuungroup.com/courses/osint-beginners-course) – basics of OSINT, Internet collection, tools, social media and more. Ran by the Kapsuun Group who have another basic course on operational security that can go hand in hand with the OSINT one – [How to Keep Safe Online](https://training.kapsuungroup.com/courses/how-to-keep-safe-online).
 	- LATER [OSINT Dojo](https://www.osintdojo.com/ranks/) – learn by doing, so not exactly a training course per se, but the hands on practice in completing tasks to achieve each rank can earn you some cool digital badges.
 	- LATER [OSINT Mini](https://courses.thecyberinst.org/courses/osintmini) – courtesy of the Cyber Institute. Taught by an experienced former law enforcement professional from South Africa.
-- # #Dev/Powershell
-	- LATER [PowerShell for Beginners](https://www.youtube.com/watch?v=UVUd9_k9C6A) – full tutorial from scratch on using PowerShell for various task management needs.
