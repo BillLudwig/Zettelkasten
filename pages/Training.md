@@ -1,6 +1,14 @@
-- # Free Training
+-
 	- ## #Algorithms
 		- LATER [The Last Algorithms Course You'll Ever Need](https://frontendmasters.com/courses/algorithms/) from Frontend Masters
 		  id:: 6373bfeb-a3a2-4f2f-ab41-0d6d2c3d0b9e
 	- ## #Cyber
-	-
+		- LATER [CISCO Introduction to Cybersecurity](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity) - beginner level; 15h of self paced content; focuses on cyber trends, threats and some recent industry developments. No prerequisites required.
+		- LATER [CISCO Cybersecurity Essentials](https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials) - a more advanced version of the above training, focusing on network defence, with some practical hands on elements. Can be seen as a primer for the CCNA. 30h of self paced material.
+		- LATER [CodeRed Ethical Hacking](https://codered.eccouncil.org/course/ethical-hacking-essentials) – the Ethical Hacking Essentials (EHE) training will allow you to learn the fundamentals of ethical hacking and penetration testing. 15h of video content.
+		- LATER [Fortinet Cybersecurity Awareness Certification](https://www.fortinet.com/training-certification) – several of the The Fortinet Network Security Expert (NSE) curriculum courses are available for free; from the most basic concepts to some more advanced stuff like zero trust or cloud security. All self paced, with an option to enroll into exams.
+		- LATER [Introduction to Cyber Security](https://www.futurelearn.com/courses/introduction-to-cyber-security) – cybersecurity essentials from Future Learn.
+		- LATER [(ISC)² Certified in Cybersecurity](https://www.isc2.org/Certifications/CC) – free training, still available but for a limited amount of time. An easy on-ramp for the CISSP certification. Some argue that this course is a clever marketing tactic and isn’t really free since you have to pay a membership fee if you want to be certified, but the access to content and materials does not require paying.
+		- LATER [Offensive Security Metasploit](https://www.offensive-security.com/metasploit-unleashed/introduction/) – a comprehensive walkthrough of one of the most popular hacking tools. No registration or sign-up required.
+		- LATER [PortSwigger Web Security Academy](https://portswigger.net/web-security) – from the people behind Burp Suite comes the whole academy full of flexible learning, great interactive materials, challenges and labs.
+		- LATER [SANS Free Cybersecurity Resources](https://www.sans.org/security-resources/) – a bunch of freebies from SANS, including links to various past SANS Summits.
