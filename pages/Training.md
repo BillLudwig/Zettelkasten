@@ -10,6 +10,7 @@
 	- LATER [PowerShell for Beginners](https://www.youtube.com/watch?v=UVUd9_k9C6A) – full tutorial from scratch on using PowerShell for various task management needs.
 	- ((63898d7f-fcd6-4606-92e3-e913d6b35dad))
 - # #Cyber
+	- TODO [APISec University](https://university.apisec.ai/) - dedicated to providing training courses for application Security professionals.
 	- ((6387f45f-08d1-422c-a784-2a7d4c97c77c))
 	- LATER [CISCO Introduction to Cybersecurity](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity) - beginner level; 15h of self paced content; focuses on cyber trends, threats and some recent industry developments. No prerequisites required.
 	- LATER [CISCO Cybersecurity Essentials](https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials) - a more advanced version of the above training, focusing on network defence, with some practical hands on elements. Can be seen as a primer for the CCNA. 30h of self paced material.
