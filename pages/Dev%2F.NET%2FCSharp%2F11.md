@@ -19,4 +19,5 @@ title:: Dev/.NET/CSharp/11
 	- Using the [discard _](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/functional/discards) and [range ...]() patterns is now allowed for [list patterns](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/functional/pattern-matching#list-patterns).
 	- [Introducing C#11: List Pattern](https://anthonygiretti.com/2022/11/29/introducing-c11-list-pattern/)
 - ## Required Properties
-	-
+	- You can now mark a property as `required` and it will throw an error if it is now initialized in the constructor.
+		- `public required string Property { get; set; }`
