@@ -6,6 +6,7 @@
 		- [PimEyes Reverse Image Search](https://pimeyes.com/en)
 		- [Karma Decay](http://karmadecay.com/) Reverse image search for Reddit.com
 		- [Immerse](https://www.immerse.zone/)
+	- ### People Search
 		- [Search4Faces](https://search4faces.com/en/) - Face search across several social media accounts
 	- ### Product Search Tools
 		- [AliPrice](https://www.aliprice.com/) - Price tracker for AliExpress that has an image search feature
