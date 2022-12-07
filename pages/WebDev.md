@@ -1,0 +1,9 @@
+- ## Animation & Cool Effects
+	- [Experiments with Astro and the Shared Element Transition API](https://www.maxiferreira.com/blog/astro-page-transitions/) This is really cool. I need to play with [[Astro]] at some point. #WebDev
+	  id:: 6373ab78-0bf5-402d-84e3-15d66e7831dd
+	- [Pokemon Card Holo Effect](https://codepen.io/simeydotme/pen/abYWJdX). Stuff like this is why I will never get bored of front end development. #WebDev
+	  id:: 6373ab78-9e73-4608-9124-5225076f233c
+	- [The Shared Element Transition API is FLIPping Cool](https://chriscoyier.net/2022/10/21/the-shared-element-transition-api-is-fliping-cool/) by Chris Coyier #WebDev
+	  id:: 6373ac40-74fd-4fcd-8418-f7bf46e8798e
+- ## Related Topics
+	- [[UX]]
