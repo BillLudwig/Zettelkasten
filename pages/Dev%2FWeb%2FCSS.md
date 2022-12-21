@@ -27,7 +27,7 @@
 		  }
 	- [Collapsible Tree Lists with CSS](https://iamkate.com/code/tree-views/) - No Javascript and fully accessible.
 - ## References
-	- [What CSS Do You Absolutely Have to Know in 2022](https://css-tricks.com/what-css-do-you-absolutely-have-to-know-in-2022/) by Geoff Graham #[[November 8th, 200]]
+	- [What CSS Do You Absolutely Have to Know in 2022](https://css-tricks.com/what-css-do-you-absolutely-have-to-know-in-2022/) by Geoff Graham #[[November 8th, 2022]]
 	- [Practical CSS Guide for Busy Developers](https://codefrontend.com/css-guide/) by Vincas Stonys #[[October 28th, 2022]]
 	- [Keeping Your CSS Small: scopes, containers, and other new stuff](https://www.youtube.com/watch?v=bz0sMsCiU1c) [[Dev/Web/CSS]] [[Video]] by Tab Atkins-Bittner Sept, 9 2022
 	  id:: 6373dc00-ac71-44a7-818f-015a3a05f561
