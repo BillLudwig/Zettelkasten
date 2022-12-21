@@ -1,8 +1,6 @@
 - ## Sub-Pages
 - {{namespace OSINT}}
-- ## Misc OSINT Topics
-	- ### COSINT - Car OSINT
-	  collapsed:: true
+	- collapsed:: true
 		- {{embed [[OSINT/COSINT]]}}
 - ## Tools
 - [[SkipTracer]]
