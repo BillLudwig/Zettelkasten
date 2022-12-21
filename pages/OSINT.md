@@ -7,6 +7,8 @@
 - ## General OSINT Links
 	- [SMART](https://smart.myosint.training/) written by Micah Hoffman - Aggregates over 200 [[OSINT]] start.me sites.
 	  id:: 6373e2f1-6b8d-425b-8bba-c0cd139af592
+	- [OhShint Gitbook](https://github.com/OhShINT/ohshint.gitbook.io) - [[OSINT]] resource by Github user OhShINT
+	  id:: 63a3950a-6cf7-42d8-a6f0-9baa2c14687a
 - ## Online Search Resources
   id:: 63741902-b1b1-4cdd-b1a4-66ffbbca4888
 	- ### People Search
