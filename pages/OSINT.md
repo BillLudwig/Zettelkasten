@@ -9,6 +9,8 @@
 	  id:: 6373e2f1-6b8d-425b-8bba-c0cd139af592
 	- [OhShint Gitbook](https://github.com/OhShINT/ohshint.gitbook.io) - [[OSINT]] resource by Github user OhShINT
 	  id:: 63a3950a-6cf7-42d8-a6f0-9baa2c14687a
+	- [melissa](https://www.melissa.com/v2/lookups/) - Website with lots of lookup tools and verifications.
+	  id:: 63a39eca-2946-4724-b1ec-3e8468817ae0
 - ## Online Search Resources
   id:: 63741902-b1b1-4cdd-b1a4-66ffbbca4888
 	- ### People Search
