@@ -1,7 +1,6 @@
 - ## Sub-Pages
 - {{namespace OSINT}}
-	- collapsed:: true
-		- {{embed [[OSINT/COSINT]]}}
+	- {{embed [[OSINT/TransInt]]}}
 - ## Tools
 - [[SkipTracer]]
 - ## General OSINT Links
