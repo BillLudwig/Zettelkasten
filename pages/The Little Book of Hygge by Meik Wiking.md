@@ -1,11 +1,6 @@
 - ## Info
 	- https://m.media-amazon.com/images/I/51DtsfFBb0L._SL300_.jpg
-	- > The Danes are famously the happiest people in the world, and hygge is a cornerstone of their way of life. Hygge (pro-nounced Hoo-ga) loosely translates as a sense of comfort, togetherness, and well-being. You know hygge when
-	   you feel it. It is when you are cuddled up on a sofa with a loved one, 
-	  or sharing comfort food with your closest friends. It is those crisp 
-	  blue mornings when the light through your window is just right. It is 
-	  about gratitude and savoring the simple pleasures in life. In short, it 
-	  is the pursuit of everyday happiness.
+	- > The Danes are famously the happiest people in the world, and hygge is a cornerstone of their way of life. Hygge (pro-nounced Hoo-ga) loosely translates as a sense of comfort, togetherness, and well-being. You know hygge when you feel it. It is when you are cuddled up on a sofa with a loved one, or sharing comfort food with your closest friends. It is those crisp blue mornings when the light through your window is just right. It is about gratitude and savoring the simple pleasures in life. In short, it is the pursuit of everyday happiness.
 - ## Quotes
 	- > The rule of thumb is: the lower the temperature of the light, the more hygge. A camera flash is around 5,500 Kelvin (K), fluorescent tubes are 5,000K, incandescent lamps 3,000K, while sunsets and wood and candle flames are about 1,800K. That is your hygge sweet spot.
 	- > We are not paying taxes, we are investing in our society. We are purchasing quality of life. The key to understanding the high levels of well-being in Denmark is the welfare model’s ability to reduce risk, uncertainty, and anxiety among its citizens and to prevent extreme unhappiness.
