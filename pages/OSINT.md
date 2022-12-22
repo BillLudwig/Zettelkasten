@@ -1,7 +1,10 @@
 - ## Sub-Pages
 - {{namespace OSINT}}
 - ## Tools
-- [[SkipTracer]]
+	- [[SkipTracer]]
+	- [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/en/peer/) - See Torrent downloads by IP address
+	  id:: 63a3a1fd-4552-4d3d-9b04-2c49e884093d
+	- [StopForumSpam](https://www.stopforumspam.com/) - Website that collects usernames and email addresses for users that spam forums.
 - ## General OSINT Links
 	- [SMART](https://smart.myosint.training/) written by Micah Hoffman - Aggregates over 200 [[OSINT]] start.me sites.
 	  id:: 6373e2f1-6b8d-425b-8bba-c0cd139af592
