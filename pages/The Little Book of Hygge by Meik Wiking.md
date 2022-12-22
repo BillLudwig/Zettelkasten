@@ -1,0 +1,16 @@
+- ## Info
+	- https://m.media-amazon.com/images/I/51DtsfFBb0L._SL300_.jpg
+	- > The Danes are famously the happiest people in the world, and hygge is a cornerstone of their way of life. Hygge (pro-nounced Hoo-ga) loosely translates as a sense of comfort, togetherness, and well-being. You know hygge when
+	   you feel it. It is when you are cuddled up on a sofa with a loved one, 
+	  or sharing comfort food with your closest friends. It is those crisp 
+	  blue mornings when the light through your window is just right. It is 
+	  about gratitude and savoring the simple pleasures in life. In short, it 
+	  is the pursuit of everyday happiness.
+- ## Quotes
+	- > The rule of thumb is: the lower the temperature of the light, the more hygge. A camera flash is around 5,500 Kelvin (K), fluorescent tubes are 5,000K, incandescent lamps 3,000K, while sunsets and wood and candle flames are about 1,800K. That is your hygge sweet spot.
+	- > We are not paying taxes, we are investing in our society. We are purchasing quality of life. The key to understanding the high levels of well-being in Denmark is the welfare model’s ability to reduce risk, uncertainty, and anxiety among its citizens and to prevent extreme unhappiness.
+	- > Time spent with others creates an atmosphere that is warm, relaxed, friendly, down-to-earth, close, comfortable, snug, and welcoming. In many ways, it is like a good hug, but without the physical contact. It is in this situation that you can be completely relaxed and yourself. The art of hygge is therefore also the art of expanding your comfort zone to include other people.
+	- > Hygge is humble and slow. It is choosing rustic over new, simple over posh and ambience over excitement. In many ways, hygge might be the Danish cousin to slow and simple living.
+	- > Hygge has been called everything from “the art of creating intimacy,” “coziness of the soul,” and “the absence of annoyance,” to “taking pleasure from the presence of soothing things,” “cozy togetherness,” and my personal favorite, “cocoa by candlelight”.
+	- > Hygge is about giving your responsible, stressed-out achiever adult a break. Just for a little while. It is about experiencing happiness in simple pleasures and knowing that everything is going to be okay.
+-
