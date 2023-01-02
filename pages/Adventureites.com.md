@@ -9,7 +9,7 @@ title:: Adventureites.com
 		- Generated initial content with ChatGPT
 	- DOING Write article on camping recipe with 5 ingredients or less #Adventureites.com
 	  id:: 63a3a25a-fb6b-4111-bf5b-0e9a549cf2c2
-		-
+		- Initial content generated with ChatGPT
 	- TODO Write article on camping hygene: how to bathe while camping #Adventureites.com
 	  id:: 63a3a25a-03b1-4709-9777-e8694b5fc39b
 	- TODO Write article on finding free camping #Adventureites.com
