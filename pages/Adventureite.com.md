@@ -2,8 +2,9 @@ title:: Adventureite.com
 
 - ## Articles
 	-
-	- TODO Write article on finding a good campsite while backpacking #Adventureite.com
+	- DOING Write article on finding a good campsite while backpacking #Adventureite.com
 	  id:: 63b2673b-b5bd-49a7-a404-f98a6e53c4f3
+		- Generated initial content with ChatGPT
 	- DOING Write article on the benefits of spending time in nature #Adventureite.com
 	  id:: 63b25dfa-07a8-4021-9590-5c45f867e0d2
 		- Generated initial content with ChatGPT
