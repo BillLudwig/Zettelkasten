@@ -45,3 +45,7 @@ title:: Adventureite.com
 	  :LOGBOOK:
 	  CLOCK: [2022-11-15 Tue 15:20:14]--[2022-11-15 Tue 15:20:15] =>  00:00:01
 	  :END:
+	- TODO Write article on finding eco-friendly lodging #Adventureite.com
+	- TODO Write article on animal-friendly tourism #Adventureite.com
+	-
+	- TODO
