@@ -38,8 +38,9 @@ title:: Adventureite.com
 	  id:: 63a3a25a-40de-4ccb-a5fc-4e392d3c2c2a
 	- TODO Write article on trail food and snacks #Adventureite.com
 	  id:: 63a3a25a-dd26-4d81-be2c-53779d22ad70
-	- TODO Write article on eco-friendly travel tips #Adventureite.com
+	- DOING Write article on eco-friendly travel tips #Adventureite.com
 	  id:: 63a3a25a-0370-4fd5-91aa-d5b8a522b19b
+		- Rough draft written
 	- TODO Write 2023 Blog Roundup on holiday gift guide #Adventureite.com
 	  id:: 63a3a25a-018c-43bb-984b-dfa9397b62da
 	  :LOGBOOK:
