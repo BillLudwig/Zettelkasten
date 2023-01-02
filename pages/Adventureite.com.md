@@ -14,8 +14,9 @@ title:: Adventureite.com
 	- DOING Write article on camping hygene: how to bathe while camping #Adventureite.com
 	  id:: 63a3a25a-03b1-4709-9777-e8694b5fc39b
 		- Initial content generated with ChatGPT
-	- TODO Write article on finding free camping #Adventureite.com
+	- DOING Write article on finding free camping #Adventureite.com
 	  id:: 63a3a25a-75da-41a7-9bdb-6a5248b94589
+		- Initial content generated with ChatGPT
 	- TODO Write article on s'mores recipes #Adventureite.com
 	  id:: 63a3a25a-4241-4f27-bfa7-4aa2b52b918c
 	- DONE Write article on backpacking food #Adventureite.com
@@ -32,6 +33,7 @@ title:: Adventureite.com
 	  id:: 63a3a25a-670a-41c4-9492-3b290e6f8a81
 	- DOING Write article on Leave No Trace #Adventureite.com
 	  id:: 63a3a25a-2c12-4f7b-8cc1-9e0c32810e57
+		- Initial content generated with ChatGPT
 	- TODO Write article on best places to visit in New Mexico #Adventureite.com
 	  id:: 63a3a25a-40de-4ccb-a5fc-4e392d3c2c2a
 	- TODO Write article on trail food and snacks #Adventureite.com
