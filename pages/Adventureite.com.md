@@ -12,7 +12,7 @@ title:: Adventureite.com
 	  id:: 63a3a25a-03b1-4709-9777-e8694b5fc39b
 	- DOING Write article on finding free camping #Adventureite.com
 	  id:: 63a3a25a-75da-41a7-9bdb-6a5248b94589
-	- TODO Write article on s'mores recipes #Adventureite.com
+	- DOING Write article on s'mores recipes #Adventureite.com
 	  id:: 63a3a25a-4241-4f27-bfa7-4aa2b52b918c
 	- DONE Write article on backpacking food #Adventureite.com
 	  id:: 6387f45f-d084-4073-8dc0-92380ee3f359
