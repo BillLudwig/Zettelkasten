@@ -47,5 +47,4 @@ title:: Adventureite.com
 	  :END:
 	- TODO Write article on finding eco-friendly lodging #Adventureite.com
 	- TODO Write article on animal-friendly tourism #Adventureite.com
-	-
 	- TODO
