@@ -11,8 +11,9 @@ title:: Adventureite.com
 	- DOING Write article on camping recipe with 5 ingredients or less #Adventureite.com
 	  id:: 63a3a25a-fb6b-4111-bf5b-0e9a549cf2c2
 		- Initial content generated with ChatGPT
-	- TODO Write article on camping hygene: how to bathe while camping #Adventureite.com
+	- DOING Write article on camping hygene: how to bathe while camping #Adventureite.com
 	  id:: 63a3a25a-03b1-4709-9777-e8694b5fc39b
+		- Initial content generated with ChatGPT
 	- TODO Write article on finding free camping #Adventureite.com
 	  id:: 63a3a25a-75da-41a7-9bdb-6a5248b94589
 	- TODO Write article on s'mores recipes #Adventureite.com
