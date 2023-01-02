@@ -23,7 +23,7 @@ title:: Adventureite.com
 	  id:: 6387f45f-d084-4073-8dc0-92380ee3f359
 		- https://adventureite.com/hiking/how-to-pick-the-right-foods-to-take-hiking/
 		- Published December 29, 2022
-	- TODO Write article on animal tracks #Adventureite.com
+	- DOING Write article on identifying animal tracks #Adventureite.com
 	  id:: 63a3a25a-c280-404f-8f8c-238f1247d345
 	- TODO Write article on New Mexico landmarks #Adventureite.com
 	  id:: 63a3a25a-f057-4217-837b-770d77ab2c74
