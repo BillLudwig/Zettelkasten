@@ -43,4 +43,7 @@ title:: Adventureite.com
 	  id:: 63b326de-5c25-4b35-8be0-a9298fd3b89d
 	- TODO Write article on animal-friendly tourism #Adventureite.com
 	  id:: 63b32703-5c39-4b9d-badf-0fad080a9827
+	- TODO Write article on hiking vs bushcraft #Adventureite.com
+	  id:: 63b8434f-097b-4ec0-9340-08d9ecb39fbc
+	-
 	- TODO
