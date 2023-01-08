@@ -3,13 +3,14 @@
 	- Crawl website
 		- [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/) is a good tool for this purpose.
 		- Get URL and title for pages with 200 status. Exclude js/css/img etc
-	- Build content map
-		- Map each page to one of the key topics for the website.
-			- Note orphans as possible opportunity for expansion
 	- Build buyers journey map
 		- Map each page to a stage in the buyers journey (Awareness, consideration, decision).
 			- ![the-buyers-journey.png](../assets/the-buyers-journey_1673207074849_0.png)
-		-
 	- Create topical map
+		- Map each page to a primary topic for the website.
+			- Note orphans as possible opportunities
 	- Get data for content
 	- Evaluate and create strategy
+		- Find gaps in the buyers journey for each topic
+		- Find topic gaps
+		- Evaluate under/over performing pages for opportunities
