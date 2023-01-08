@@ -29,6 +29,10 @@
 		- [psbdump.cc](https://psbdmp.cc/) - Pastebin search. Works on a credit system with a handful of free daily credits. Seems better than Google at least.
 		  id:: 63a391a1-df92-4367-b8d8-038827cf87fb
 - ## Offline Resources
-	- ### Unredacted Magazine by Michael Bazzell
+	- ### Unredacted Magazine by Michael Bazzell [Source](https://inteltechniques.com/magazine.html)
+		- ![Unredacted Magazine Issue #1](../assets/UnredactedMagazine-001_1673142516258_0.pdf)
+		- ![Unredacted Magazine Issue #2](../assets/UnredactedMagazine-002_1673142498200_0.pdf)
+		- ![Unredacted Magazine Issue #3](../assets/UnredactedMagazine-003_1673142465881_0.pdf)
+		- ![Unredacted Magazine Issue #4](../assets/UnredactedMagazine-004_1673142439087_0.pdf)
 		- ![Unredacted Magazine Issue #5](../assets/UnredactedMagazine-005_1673140884580_0.pdf)
 		  id:: 63ba1a72-64a4-481d-95d2-af0de8c8767c
