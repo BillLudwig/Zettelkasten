@@ -39,6 +39,7 @@
 		- >Sub-topics have been confirmed to be used by Google during January 2020 but actually, Google has mentioned them as “Neural Nets” or “Neural Networks” before. In the Google Developers’ YouTube channel, they also showed a nice summary about how topics are connected to each other within a hierarchy and logic. That’s why again, taxonomy and ontology are key for semantic SEO.
 		-
 	- ### Adjust Heading Vectors
+	  collapsed:: true
 		- > Heading vectors are actually the order of the headings as a signal for determining the main angle and topic of the content. According to the Google Quality Rater Guidelines, content is viewed as having three different sections: “Main Content”, “Ads”, and “Supplementary Content”.
 		- Whatever the search engine says, use [semantic HTML tags](https://www.oncrawl.com/technical-seo/page-content-html5-tags/), including heading tags.
 		- Heading vectors start from the title tag, thus the headings and the title tag should comply with each other.
@@ -49,3 +50,6 @@
 		- Headings that focus on similar ideas should be grouped together.
 		- Any heading that should include another entity should also be linked to it.
 		- Every heading’s content should have the right format with lists, tables, descriptive definitions…
+	- ### Connect Related Entities for a Topic within a Context
+	- ### Generate Questions and Answers for Possible Search Intents
+	-
