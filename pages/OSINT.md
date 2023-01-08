@@ -28,3 +28,5 @@
 		  id:: 63a38610-f7dd-4079-82a2-3a96c36531ef
 		- [psbdump.cc](https://psbdmp.cc/) - Pastebin search. Works on a credit system with a handful of free daily credits. Seems better than Google at least.
 		  id:: 63a391a1-df92-4367-b8d8-038827cf87fb
+- ## Offline Resources
+-
