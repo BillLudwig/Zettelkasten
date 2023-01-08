@@ -73,5 +73,5 @@
 			- Always use a “source” as an authority before giving a statement.
 - # Tools
 	- ## Python Scripts
-		- [Hacking the topic graph with Wikipedia and the Google Language API]()
-			- [Wikipedia Topic Linking]()
+		- [Hacking the topic graph with Wikipedia and the Google Language API](https://www.oncrawl.com/technical-seo/topic-graph-wikipedia/)
+			- [Wikipedia Topic Linking](https://colab.research.google.com/drive/1PuyumIwvDPqzdsFv2VkT9ZbRRk9mUl7R#scrollTo=jq9VdS_qmWRW)
