@@ -2,6 +2,7 @@
 	-
 - # References
 	- ## [Importance of Topical Authority: A Semantic SEO Case Study](https://www.oncrawl.com/technical-seo/importance-topical-authority-semantic-seo/)
+	  collapsed:: true
 		- ### Create topical map before starting publishing the first article
 		  collapsed:: true
 			- Crawl your competitors’ sitemaps to understand their topical maps.
@@ -72,6 +73,7 @@
 			- Always use short sentences instead of long sentences.
 			- Always give answers directly and precisely.
 			- Always use a “source” as an authority before giving a statement.
+	-
 - # Tools
 	- ## Python Scripts
 		- [Hacking the topic graph with Wikipedia and the Google Language API](https://www.oncrawl.com/technical-seo/topic-graph-wikipedia/)

@@ -4,3 +4,18 @@
 	- The search-intent of these queries should be analyzed.
 	- Entities such as persons, institutions, laws, countries, places, cities, and dates in the subject should be listed.
 	- How much separate contents will be created on the subject should be determined.
+	- The hierarchy in which the contents will be linked to each other and how to link with which anchor texts should be determined.
+	- In order for the contents to be completely distinguishable from each other by Search Engine, it should be determined how much of which subject will be processed in which content.
+	- It should be specified to the Search Engine with the meta tags, headings, keywords, and anchor texts of the URLs to be created, which content meets which Search Intent.
+	- Main Content and Supplementary Content half in a URL should be done properly to avoid the Keyword Cannibilization problem.
+	- The Layout, Functions, and Contents of competitor pages in the SERP of the most important queries and the historical ranking results in these queries should be examined.
+	- The content should be created in a fully specialized language, to benefit the user and making sure that it is easily understood by the Search Engine.
+- ## Semantic SEO Keyword Research
+	- All of the tools such as Google Keyword Planner, Ahrefs Keyword Explorer, SEMRush Keyword Magic Tool, Moz Keyword Research can be used for Semantic SEO Research.
+	- Google Autocomplete, Google People Also Ask, Google Suggested Queries, Google Knowledge Graph, Google Knowledge Panel Semantic can be used for SEO research.
+	- Resources such as Wikipedia, Wikidata, Wikihow can be used for Semantic SEO Keyword research.
+	- Youtube Autocomplete, Youtube Video Titles, Comments, Forum Threads, and call center questions or news sources also can be used for Semantic SEO Keyword Research.
+	- The important point in Semantic SEO Query Research is to group user questions and queries according to specific search intents.
+	- Google Images and Query Refinement Bubbels also help for Semantic SEO Query Research since they are connected to each other with a contextual hierarchy.
+- ## Semantic SEO and Entities
+	- > For Semantic SEO, it is not enough to just use queries that are linked together in a hierarchical order. At the same time, it is necessary to explore the relevant entities and their interconnectedness. Google is able to understand the subject, quality, or depth level of content even based on the context of each entity and the way it connects to other entities. With the way assets are linked, Google can use Contextual Information Retrieval and fill in missing information in the content. [source](https://www.holisticseo.digital/theoretical-seo/semantic/)
