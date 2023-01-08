@@ -1,6 +1,7 @@
+- # Notes
+	-
 - # References
 	- ## [Importance of Topical Authority: A Semantic SEO Case Study](https://www.oncrawl.com/technical-seo/importance-topical-authority-semantic-seo/)
-	  collapsed:: true
 		- ### Create topical map before starting publishing the first article
 		  collapsed:: true
 			- Crawl your competitors’ sitemaps to understand their topical maps.

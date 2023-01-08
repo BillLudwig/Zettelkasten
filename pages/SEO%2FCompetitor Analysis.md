@@ -7,4 +7,5 @@
 	- Use keyword research tool to find domains that rank for the keywords you are targeting
 - ## Analysis
 	- Perform a quick [[SEO/Content Audit]] to find gaps that you can fill.
-	-
+	- Check their backlinks and make a list to target
+	- Note seo errors that can be turned into strengths for your website
