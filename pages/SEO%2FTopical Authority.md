@@ -52,4 +52,12 @@
 		- Every heading’s content should have the right format with lists, tables, descriptive definitions…
 	- ### Connect Related Entities for a Topic within a Context
 	- ### Generate Questions and Answers for Possible Search Intents
-	-
+	- ### Find Information Gap Instead of Keyword Gap
+	- ### Stop Caring About Keyword Volume or Difficulty
+	  collapsed:: true
+		- > When writing articles, if a subtopic is required in a topic’s semantic structure, it should be written. It should be written even if the search volume is “0”. It should be written even if the keyword difficulty is 100.
+	- ### Focus on Topical Coverage and Authority with Historical Data
+	  collapsed:: true
+		- > Topical Authority = Topical Coverage * Historical Data
+	- ### Use Natural Language Processing Terms with Your Authors to Determine the Best Possible Sentence Structure and Content Format
+		-
