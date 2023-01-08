@@ -60,4 +60,12 @@
 	  collapsed:: true
 		- > Topical Authority = Topical Coverage * Historical Data
 	- ### Use Natural Language Processing Terms with Your Authors to Determine the Best Possible Sentence Structure and Content Format
-		-
+	  collapsed:: true
+		- Never give your opinion in an article.
+		- Never use an “everyday language” in the articles.
+		- Don’t use analogies.
+		- Don’t use unnecessary words.
+		- Content should be short as possible and long as necessary.
+		- Always use short sentences instead of long sentences.
+		- Always give answers directly and precisely.
+		- Always use a “source” as an authority before giving a statement.
