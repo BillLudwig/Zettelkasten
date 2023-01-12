@@ -1,7 +1,6 @@
 title:: Adventureite.com
 
 - ## Articles
-  collapsed:: true
 	-
 	- DONE Write article on backpacking food #Adventureite.com
 	  id:: 6387f45f-d084-4073-8dc0-92380ee3f359
