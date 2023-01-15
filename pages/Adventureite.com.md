@@ -1,14 +1,13 @@
 title:: Adventureite.com
 
 - ## Articles
-	-
 	- DONE Write article on backpacking food #Adventureite.com
 	  id:: 6387f45f-d084-4073-8dc0-92380ee3f359
 		- https://adventureite.com/hiking/how-to-pick-the-right-foods-to-take-hiking/
 		- Published December 29, 2022
 	- DOING Write article on finding a good campsite while backpacking #Adventureite.com
 	  id:: 63b2673b-b5bd-49a7-a404-f98a6e53c4f3
-	- DOING Write article on the benefits of spending time in nature #Adventureite.com
+	- DONE Write article on the benefits of spending time in nature #Adventureite.com
 	  id:: 63b25dfa-07a8-4021-9590-5c45f867e0d2
 	- DOING Write article on camping recipe with 5 ingredients or less #Adventureite.com
 	  id:: 63a3a25a-fb6b-4111-bf5b-0e9a549cf2c2
@@ -20,9 +19,9 @@ title:: Adventureite.com
 	  id:: 63a3a25a-4241-4f27-bfa7-4aa2b52b918c
 	- DOING Write article on identifying animal tracks #Adventureite.com
 	  id:: 63a3a25a-c280-404f-8f8c-238f1247d345
-	- DOING Write article on Leave No Trace #Adventureite.com
+	- DONE Write article on Leave No Trace #Adventureite.com
 	  id:: 63a3a25a-2c12-4f7b-8cc1-9e0c32810e57
-	- DOING Write article on eco-friendly travel tips #Adventureite.com
+	- DONE Write article on eco-friendly travel tips #Adventureite.com
 	  id:: 63a3a25a-0370-4fd5-91aa-d5b8a522b19b
 	- TODO Write article on New Mexico landmarks #Adventureite.com
 	  id:: 63a3a25a-f057-4217-837b-770d77ab2c74
