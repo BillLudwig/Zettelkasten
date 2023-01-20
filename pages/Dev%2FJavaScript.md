@@ -1,0 +1,3 @@
+- ## Notes
+- Compare values with `Object.is('first', 'second')` // false
+	- Similar to the `====`
