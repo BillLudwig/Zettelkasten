@@ -1,0 +1,2 @@
+- ## Training
+	- [[Marketing for Hippies]]

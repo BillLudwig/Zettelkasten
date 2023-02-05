@@ -17,7 +17,7 @@ title:: Adventureite.com
 	  id:: 63a3a25a-75da-41a7-9bdb-6a5248b94589
 	- DOING Write article on s'mores recipes #Adventureite.com
 	  id:: 63a3a25a-4241-4f27-bfa7-4aa2b52b918c
-	- DOING Write article on identifying animal tracks #Adventureite.com
+	- DONE Write article on identifying animal tracks #Adventureite.com
 	  id:: 63a3a25a-c280-404f-8f8c-238f1247d345
 	- DONE Write article on Leave No Trace #Adventureite.com
 	  id:: 63a3a25a-2c12-4f7b-8cc1-9e0c32810e57
@@ -46,3 +46,6 @@ title:: Adventureite.com
 	  id:: 63b8434f-097b-4ec0-9340-08d9ecb39fbc
 	-
 	- TODO
+title:: Adventureite.com\
+
+-
