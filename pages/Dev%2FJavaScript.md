@@ -5,3 +5,7 @@
 		- console.log(Object.is(-0, +0)); *// false*
 		- console.log(Object.is(-0, -0)); *// true*
 		- console.log(Object.is(NaN, NaN)); *// true*
+- ## Links
+	- [Ultimate Guide to Javascript Error Handling](https://www.sitepoint.com/javascript-error-handling/) #Dev/JavaScript
+	  id:: 63e00d7b-e2a4-4f87-afff-a241b9a0749b
+		- Showing an error message is the last resort
