@@ -1,6 +1,6 @@
 - {{namespace SEO}}
 - ## Search Dorks
-	- `intitle:2022 inurl:2021 -intitle:2021 niche`
+	- `intitle:{currentyear} inurl:{prevyear} -intitle:{prevyear} niche`
 	  id:: 637d8941-f7ca-4d3b-a99b-27735e26393e
 	- `"The Website works with Mediavine" + niche` to find sites that have been accepted to Mediavine
 - ## Free Tools
