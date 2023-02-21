@@ -9,5 +9,4 @@
 			- ### Added
 		- ## #Training
 		- ## #Links
-		- ## #Tools
 	-
