@@ -1,9 +1,8 @@
 title:: Marketing/SEO
 
 - {{namespace Marketing/SEO}}
-- ## #Tools
-	- [Google Trends](https://trends.google.com/)
 - ## #Links
+	- [Google Trends](https://trends.google.com/)
 	- [SEO Avalanche Technique](https://www.buildersociety.com/threads/seo-avalanche-technique-ranking-with-no-resources.5114/) #Marketing/SEO
 	  id:: 63b843a6-7c15-4b2f-a06a-b25c57063f7d
 - ## Search Dorks
