@@ -1,7 +1,7 @@
 - # Notes
 	-
 - # References
-	- ## [Importance of Topical Authority: A Semantic SEO Case Study](https://www.oncrawl.com/technical-seo/importance-topical-authority-semantic-seo/)
+	- [Importance of Topical Authority: A Semantic SEO Case Study](https://www.oncrawl.com/technical-seo/importance-topical-authority-semantic-seo/)
 	  collapsed:: true
 		- ### Create topical map before starting publishing the first article
 		  collapsed:: true
@@ -73,8 +73,10 @@
 			- Always use short sentences instead of long sentences.
 			- Always give answers directly and precisely.
 			- Always use a “source” as an authority before giving a statement.
-	- ## [How to expand a topical map for higher topical authority](https://www.holisticseo.digital/seo-research-study/topical-map)
-		- https://www.youtube.com/watch?v=qrDPul4eAYw
+	- [How to expand a topical map for higher topical authority](https://www.holisticseo.digital/seo-research-study/topical-map)
+		- {{video https://www.youtube.com/watch?v=qrDPul4eAYw}}
+	- [How to create a topical map to dominate Niches in SEO with Topical Authority](https://www.youtube.com/watch?v=ffm9zs33dEA)
+		- {{video https://www.youtube.com/watch?v=ffm9zs33dEA}}
 		-
 - # Tools
 	- ## Python Scripts
