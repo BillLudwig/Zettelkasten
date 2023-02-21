@@ -9,3 +9,4 @@
 	  id:: 63a3a259-d3e5-488c-a545-cd6739e5a3b4
 	- [Promo.com Image Resizer](https://promo.com/tools/image-resizer/) - Resizes images #Design/Images
 	  id:: 63a3a259-b24c-47a4-a96e-214009c8132d
+	- [LeiaPix]
