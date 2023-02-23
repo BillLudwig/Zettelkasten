@@ -1,10 +1,21 @@
-- ## Parallelism
-	- *What it is:* Repetition of a grammatical form
-	- *What it does:* Gives a line rhythm
-	- *Demo*:
-	  collapsed:: true
-		- ![Examples of Parallelism](https://ik.imagekit.io/o08ysq9vx/newsletters/nl17/nl1.png)
 - ## Antithesis
 	- What it is: Two opposite words placed side-by-side
 	  What it does: Emphasises said opposites
-	-
+	- *"Mega power. Mini sized"*
+- ## Asyndeton
+	- What it is: Intentional omission of conjunctions
+	- What it does: Adds crispness, conviction, elegance
+	- *"You, Me. Sushi?"*
+- ## Parallelism
+	- *What it is:* Repetition of a grammatical form
+	- *What it does:* Gives a line rhythm
+	- *"Instant everything. Great prices. Big Heart"*
+- ## Polyptoton
+	- What it is: Repeated use of words sharing the same root
+	- What it does: Bewitches words into memorable phrases
+	- *"Real bread isn't made in factories. It's baked in bakeries"*
+- ## Scesis Onomation
+	- What it is: Verbless copy
+	- What it does: Quickens pace
+	- *"7 days. 7 dollars. Full Access"*
+-
