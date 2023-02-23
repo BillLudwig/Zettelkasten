@@ -1,2 +1,1 @@
-- {}{namespace: Writing}
--
+- {{namespace Writing}}
