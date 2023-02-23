@@ -26,6 +26,7 @@
 		  	outline: 1px solid yellow;
 		  }
 	- [Collapsible Tree Lists with CSS](https://iamkate.com/code/tree-views/) - No Javascript and fully accessible.
+	- You can style the button portion of input[type=file] with `::file-selector-button`
 - ## References
 	- [What CSS Do You Absolutely Have to Know in 2022](https://css-tricks.com/what-css-do-you-absolutely-have-to-know-in-2022/) by Geoff Graham #[[November 8th, 2022]]
 	- [Practical CSS Guide for Busy Developers](https://codefrontend.com/css-guide/) by Vincas Stonys #[[October 28th, 2022]]
