@@ -9,7 +9,10 @@
 	- Follow the people also searched on Google
 	- Cluster related topics
 - ## 3. How to put the Google Algorithm on easy mode
-- ## 4.
+	- Order of writing content
+	- Ratio of info vs sales content
+- ## 4. 3 step writing process
+	- Target word count - Average of the top 3 results in Google
 - ## 5.
 - ## 6. Guest Post Backlinks
 - ## Misc Notes/Thoughts
