@@ -1,1 +1,3 @@
 - {{namespace Design}}
+- ## Misc Resources
+	- [Icônes](https://icones.js.org/) - Website that shows a lot of icon sets on one page. It has a small preview of each. Also has a search but it's only useful if you know the icon set name.
