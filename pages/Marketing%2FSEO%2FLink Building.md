@@ -1,4 +1,6 @@
--
+- ## Ideas
+	- ((640948ad-0fd1-4a04-b7b3-513b47f07b45))
+	- ((640948e3-9193-419b-8532-3ebfee34b77e))
 - ## Human Curated Directories
 	- [ooh.directory](https://ooh.directory/)
 	- [Ye Olde Blogroll](https://blogroll.org/)
