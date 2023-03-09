@@ -13,3 +13,8 @@
 		- chemical change
 		- electrical change
 		- genetic factors
+	- 4 ways to see people
+		- People are broken - get angry and try to 'fix' the problem and level the playing field (get even)
+		- People are different - still get angry but don't feel need to 'fix' the problem and even the playing field
+		- People are facts - don't get angry/judge because see other people as unchangeable.
+		- People are reasons - see reason (or make one up) behind behavior (childhood suffering and reward)
