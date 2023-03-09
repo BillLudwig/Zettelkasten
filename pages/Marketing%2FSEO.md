@@ -11,4 +11,5 @@ title:: Marketing/SEO
 	- `"The Website works with Mediavine" + {niche}` to find sites that have been accepted to Mediavine
 - ## Generic Tips/Notes
 	- Instead of using the same keyword over and over use natural synonyms and related phrases.
-	-
+	- [[Matt Diggity SEO Training Notes]] - Webinar watched 3/8/2023 #[[Marketing/SEO]]
+	  id:: 64093d4d-ded1-4b56-8c69-471954466d31
