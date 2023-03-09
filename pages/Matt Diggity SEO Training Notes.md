@@ -1,6 +1,7 @@
-- ## 1.
-- ## 2.
-- ## 3.
+- ## 1. How to find guaranteed easy and profitable niches
+- ## 2. The ranking signal you need to start paying attention to
+- ## 3. How to put the Google Algorithm on easy mode
 - ## 4.
 - ## 5.
+- ## 6. Guest Post Backlinks
 - ## Misc Notes/Thoughts
