@@ -23,5 +23,8 @@
 		- 1-2 Guest posts per week for 3 weeks
 		- 3-5 guest posts per week for 2 weeks
 - ## 6. Guest Post Backlinks
+	- Look for pages with `intitle:2020` or whatever. Reach out to them and offer to rewrite the content for a backlink.
+	  id:: 640948ad-0fd1-4a04-b7b3-513b47f07b45
+	- Find content gap (ahrefs tool) between high authority site and their lower authority competitors to find pages they could outrank for and offer to write the content for them.
 - ## Misc Notes/Thoughts
 	- Pitch was for [Affiliate Lab](https://affiliatelab.im/) which costs $997 going to affiliatelab.im/enroll-discount-500 gets it for half price
