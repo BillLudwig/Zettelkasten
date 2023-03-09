@@ -1,4 +1,15 @@
 - Instructor: Chase Hughes
 - Link: https://team.chasehughes.com/spaces/8432207/content
 - ## Human Behavior
--
+	- People run on scripts
+	- Nonverbal 2/3 of meaning of communication
+	- 4 laws of behavior
+		- Everyone is suffering and insecure
+		- Everyone is wearing a mask (persona/projection)
+		- Everyone pretends not to wear a mask
+		- Everyone is a product of childhood suffering and reward
+	- Most people will try to persuade the mask, instead of the person behind it.
+	- 3 filters of influence:
+		- chemical change
+		- electrical change
+		- genetic factors
