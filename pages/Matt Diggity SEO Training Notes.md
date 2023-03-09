@@ -11,8 +11,16 @@
 - ## 3. How to put the Google Algorithm on easy mode
 	- Order of writing content
 	- Ratio of info vs sales content
-- ## 4. 3 step writing process
+- ## 4. 3 Step writing process
 	- Target word count - Average of the top 3 results in Google
-- ## 5.
+		- Detailed chrome plugin
+	- Sub targets from H2 and H3 headings in top results
+- ## 5. Link building to get out of sandbox
+	- Make social profiles for all major networks
+	- Make local directory links
+		- Use fake address or home address
+	- The Backlink Blueprint ???
+		- 1-2 Guest posts per week for 3 weeks
+		- 3-5 guest posts per week for 2 weeks
 - ## 6. Guest Post Backlinks
 - ## Misc Notes/Thoughts
