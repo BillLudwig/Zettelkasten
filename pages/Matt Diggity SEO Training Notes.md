@@ -1,4 +1,7 @@
 - ## 1. How to find guaranteed easy and profitable niches
+	- Niche selection: Use flippa.com, look for revenue generating websites
+		- EPMP = (Revenue / Page Views) * 1000 : Average $10
+		- site:https:
 - ## 2. The ranking signal you need to start paying attention to
 - ## 3. How to put the Google Algorithm on easy mode
 - ## 4.
