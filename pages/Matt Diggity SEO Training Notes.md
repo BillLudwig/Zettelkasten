@@ -24,3 +24,4 @@
 		- 3-5 guest posts per week for 2 weeks
 - ## 6. Guest Post Backlinks
 - ## Misc Notes/Thoughts
+	- Pitch was for Affiliate Lab which costs $997
