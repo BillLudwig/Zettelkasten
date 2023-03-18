@@ -1,0 +1,2 @@
+- https://growth.design/case-studies/zeigarnik-effect
+- People hate the tension created by incomplete tasks. That's why we remember them better or take action to complete them. This principle can be applied to any product that wants to help people complete harder tasks.
