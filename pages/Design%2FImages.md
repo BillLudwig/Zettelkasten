@@ -1,5 +1,5 @@
 - ## Tools
-	- [Remini](https://app.remini.ai) - AI Powered image face enhancement #Design/Images
+	- [Remini](https://app.remini.ai) - AI Powered image face enhancement #AI/Graphics
 	  id:: 63a3a259-31f4-4b3f-a590-d2b5b891e01b
 	- [RemoveBG](https://www.remove.bg/) - Removes image backgrounds #Design/Images
 	  id:: 63a3a259-a903-4917-92d4-324a14e1c6f6
