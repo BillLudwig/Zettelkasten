@@ -1,12 +1,28 @@
+- ## Anadiplosis
+	- The repetition of the last word of a clause at the beginning of the next.
+	- *"Fear leads to anger. Anger leads to hate. Hate leads to suffering"* - Yoda
+- ## Anaphora
+	- The use of the same word or phrase at the start of successive clauses or sentences.
+	- *"We shall not flag or fail. we shall go on to the end. We shall fight in France, we shall fight on the seas and oceans, we shall fight with growing confidence and growing strength in the air, we shall defend our island, whatever the cost may be, we shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills. We shall never surrender."*
 - ## Antimetabole
-	- Repetition of a phrase with its word order reversed. *"Ask not what your country can do for you, but what you can do for your country"*
+	- Repetition of a phrase with its word order reversed.
+	- *"Ask not what your country can do for you, but what you can do for your country"*
 - ## Antithesis
-	- Two opposite words placed side-by-side. *"Mega power. Mini sized"*
+	- Two opposite words placed side-by-side.
+	- *"Mega power. Mini sized"*
 - ## Asyndeton
-	- Intentional omission of conjunctions. *"You, Me. Sushi?"*
+	- Intentional omission of conjunctions.
+	- *"You, Me. Sushi?"*
+-
+- ## Epizeuxis
+	- The immediate repetition of a word or phrase.
+	- *"We are never, ever, ever, getting back together"* - Taylor Swift
 - ## Parallelism
 	- Repetition of a grammatical form. *"Instant everything. Great prices. Big Heart"*
 - ## Polyptoton
-	- Repeated use of words sharing the same root. *"Real bread isn't made in factories. It's baked in bakeries"*
+	- Repeated use of words sharing the same root, like destroy, destroyer, and destroyed.
+	- *"Real bread isn't made in factories. It's baked in bakeries"*
+	- *"Absolute power corrupts absolutely"*
 - ## Scesis Onomation
-	- Verbless copy. *"7 days. 7 dollars. Full Access"*
+	- Verbless copy.
+	- *"7 days. 7 dollars. Full Access"*
