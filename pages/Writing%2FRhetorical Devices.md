@@ -4,16 +4,24 @@
 - ## Anaphora
 	- The use of the same word or phrase at the start of successive clauses or sentences.
 	- *"We shall not flag or fail. we shall go on to the end. We shall fight in France, we shall fight on the seas and oceans, we shall fight with growing confidence and growing strength in the air, we shall defend our island, whatever the cost may be, we shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills. We shall never surrender."*
+- ## Anastrophe
+	- The inversion of normal word order.
+	- *"Neither a borrower, nor a lender be"*
+	-
 - ## Antimetabole
 	- Repetition of a phrase with its word order reversed.
 	- *"Ask not what your country can do for you, but what you can do for your country"*
 - ## Antithesis
-	- Two opposite words placed side-by-side.
+	- The use (and contrast) of two opposing ideas in a single sentence.
 	- *"Mega power. Mini sized"*
+	- *"Give every man thy ear, but few thy voice"* - Hamlet
 - ## Asyndeton
-	- Intentional omission of conjunctions.
+	- Removing conjunctions (e.g. and, or) from a series of related clauses.
 	- *"You, Me. Sushi?"*
--
+	- *"I came, I saw, I conquered."*
+- ## Epanalepsis
+	- The repetition of a word at the start and end of a sentence.
+	- *"The king is dead; long live the king!"*
 - ## Epizeuxis
 	- The immediate repetition of a word or phrase.
 	- *"We are never, ever, ever, getting back together"* - Taylor Swift
