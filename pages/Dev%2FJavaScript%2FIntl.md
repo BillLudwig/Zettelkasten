@@ -5,4 +5,6 @@
 	- `ListFormat` - language-sensitive list formatting (has oxford commas)
 	- `NumberFormat` - language-sensitive number formatting.
 		- `{style: 'currency'}` is nice
-	- `PluralRules` -
+	- `PluralRules` - plural-sensitive number formatting
+	- `RelativeTimeFormat` - OOTB replacement for humanize
+	- `Segmenter` - lacale-sensitive text segmentation (words, sentences, etc)
