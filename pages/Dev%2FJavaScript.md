@@ -10,4 +10,6 @@
 - ## Links
 	- [Ultimate Guide to Javascript Error Handling](https://www.sitepoint.com/javascript-error-handling/) #Dev/JavaScript
 	  id:: 63e00d7b-e2a4-4f87-afff-a241b9a0749b
-		- Showing an error message is the last resort
+		- tldr; showing an error message is the last resort
+	- [Modern Errors] - small library for error handling #Dev/JavaScript
+	  id:: 641a5183-6764-4436-9553-8247334687ee
