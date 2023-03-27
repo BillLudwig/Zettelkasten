@@ -1,4 +1,4 @@
-tags:: #CompSci, #Networking
+tags:: #CompSci, #CompSci/Networking
 
 - NFS (_Network File System_) is a protocol for file & directory sharing across a network. Files or folders “mounted” via NFS can be accessed pretty much the same as local files. [Technical Docs](https://docs.oracle.com/cd/E19683-01/816-4882/6mb2ipq7l/index.html)
 - ## Mounting on Linux

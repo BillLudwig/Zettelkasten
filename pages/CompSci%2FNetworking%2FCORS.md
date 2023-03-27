@@ -1,5 +1,5 @@
 - Notes from https://www.secjuice.com/cross-origin-resource-sharing-what-is-it-cors/
-  title:: Networking/CORS
+  title:: CompSci/Networking/CORS
   collapsed:: true
 	- CORS stands for Cross-Origin Resource Sharing, a system or software framework that allows limited resources on a web page from other domains to be requested as if they were on the same domain server.
 	- CORS allows limited resources on a web page from other domains to be requested as if they were on the same domain. CORS is used for Cross-origin requests, that is, if you want to request a resource from a different origin than the one your page is running on.

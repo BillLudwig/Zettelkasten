@@ -1,4 +1,4 @@
-tags:: #Networking
+tags:: #CompSci/Networking
 
 - DNS is a [[TCP/IP]] protocol that converts IP addresses to a domain name and vice versa.
 - ## When a request for a domain name made this happens.
