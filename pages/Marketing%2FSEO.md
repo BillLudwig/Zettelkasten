@@ -7,13 +7,14 @@ title:: Marketing/SEO
 			- [[Marketing/SEO/Keyword Research/Google Dorks]]
 		- [[Marketing/SEO/Competitor Analysis]]
 		- [[Marketing/SEO/Link Building]]
-		- [[Marketing/SEO/Content Audit]]
+		- [[Marketing/SEO/Content Optimization]]
 	- ### Technical
 		- [[Marketing/SEO/Internal Linking]]
 		- [[Marketing/SEO/Structured Data]]
 		- [[Marketing/SEO/SERP Features]]
 		- [[Marketing/SEO/Automation]]
 	- ### Content
+		- [[Marketing/SEO/Content Audit]]
 		- [[Marketing/SEO/Semantic SEO]]
 		- [[Marketing/SEO/Topical Authority]]
 		- [[Marketing/SEO/EEAT]]
