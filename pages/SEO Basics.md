@@ -1,3 +1,5 @@
+tags:: SEO
+
 - ## Fundamental Training & References
 	- [Google's SEO Starter Guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide)
 	- [Ahrefs SEO Basics Guide](https://ahrefs.com/blog/seo-basics/)
