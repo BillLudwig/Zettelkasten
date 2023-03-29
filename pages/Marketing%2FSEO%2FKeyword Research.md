@@ -7,4 +7,4 @@
 	- [SuggestMrx](https://www.suggestmrx.com/index-en.php)
 	- [Answer The Public](https://answerthepublic.com/)
 	- [Wordstream Keyword Tool](https://www.wordstream.com/keywords)
-	-
+	- [Reddit Keyword Tool](https://www.highervisibility.com/seo/tools/keyworddit/) - Extracts keywords from subreddits
