@@ -9,4 +9,4 @@
 - ## Overpass
 	- Overpass is an API for querying [OpenStreetMaps](http://www.openstreetmap.org/) but the [syntax](https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_QL) is insane. Luckily there are tools and stuff.
 		- [Overpass Turbo](https://overpass-turbo.eu/) - Website for running the API
-		-
+		- Have ChatGPT write the query for you
