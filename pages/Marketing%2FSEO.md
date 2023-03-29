@@ -9,6 +9,7 @@ title:: Marketing/SEO
 		- [[Marketing/SEO/Link Building]]
 		- [[Marketing/SEO/Content Optimization]]
 	- ### Technical
+		- [[Marketing/SEO/On Page]]
 		- [[Marketing/SEO/Internal Linking]]
 		- [[Marketing/SEO/Structured Data]]
 		- [[Marketing/SEO/SERP Features]]
