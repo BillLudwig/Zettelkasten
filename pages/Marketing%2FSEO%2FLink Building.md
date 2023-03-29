@@ -11,3 +11,6 @@
 	- [ooh.directory](https://ooh.directory/)
 	- [Ye Olde Blogroll](https://blogroll.org/)
 	- [feedle.world](https://feedle.world/)
+- ## Free Tools
+	- [Rankwatch Backlink Checker](https://www.rankwatch.com/en/backlinks/)
+	- [Ahrefs Backlink/Broken Link Checker](https://ahrefs.com/broken-link-checker)
