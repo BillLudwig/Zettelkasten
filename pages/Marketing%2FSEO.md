@@ -4,8 +4,17 @@ title:: Marketing/SEO
 	- ### Fundamentals
 		- [[Marketing/SEO/Keyword Research]]
 		- [[Marketing/SEO/Competitor Analysis]]
+		- [[Marketing/SEO/Link Building]]
 		- [[Marketing/SEO/Content Audit]]
+	- ### Technical
+		- [[Marketing/SEO/Internal Linking]]
+		- [[Marketing/SEO/Structured Data]]
 		-
+	- ### Content
+		- [[Marketing/SEO/Semantic SEO]]
+		- [[Marketing/SEO/Topical Authority]]
+		- [[Marketing/SEO/EEAT]]
+		- [[Marketing/SEO/Image Optimization]]
 - ## #Links
 	- [Google Trends](https://trends.google.com/)
 	- [SEO Avalanche Technique](https://www.buildersociety.com/threads/seo-avalanche-technique-ranking-with-no-resources.5114/) #Marketing/SEO
