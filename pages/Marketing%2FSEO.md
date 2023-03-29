@@ -14,6 +14,7 @@ title:: Marketing/SEO
 		- [[Marketing/SEO/Internal Linking]]
 		- [[Marketing/SEO/Structured Data]]
 		- [[Marketing/SEO/SERP Features]]
+			- [[Marketing/SEO/SERP Features/Featured Snippets]]
 		- [[Marketing/SEO/Automation]]
 	- ### Content
 		- [[Marketing/SEO/Content Audit]]
