@@ -1,6 +1,11 @@
 title:: Marketing/SEO
 
-- {{namespace Marketing/SEO}}
+- ## Outline
+	- ### Fundamentals
+		- [[Marketing/SEO/Keyword Research]]
+		- [[Marketing/SEO/Competitor Analysis]]
+		- [[Marketing/SEO/Content Audit]]
+		-
 - ## #Links
 	- [Google Trends](https://trends.google.com/)
 	- [SEO Avalanche Technique](https://www.buildersociety.com/threads/seo-avalanche-technique-ranking-with-no-resources.5114/) #Marketing/SEO
