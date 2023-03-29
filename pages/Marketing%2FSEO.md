@@ -10,6 +10,7 @@ title:: Marketing/SEO
 		- [[Marketing/SEO/Content Optimization]]
 	- ### Technical
 		- [[Marketing/SEO/On Page]]
+		- [[Marketing/SEO/SEO Audit]]
 		- [[Marketing/SEO/Internal Linking]]
 		- [[Marketing/SEO/Structured Data]]
 		- [[Marketing/SEO/SERP Features]]
