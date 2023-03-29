@@ -1,11 +1,10 @@
-title:: Marketing/SEO
 tags:: Marketing
 
 - ## Outline
 	- ### Fundamentals
 		- [[SEO Basics]]
-		- [[Marketing/SEO/Keyword Research]]
-			- [[Marketing/SEO/Keyword Research/Google Dorks]]
+		- [[Keyword Research]]
+			- [[Keyword Research/Google Dorks]]
 		- [[Marketing/SEO/Competitor Analysis]]
 		- [[Marketing/SEO/Link Building]]
 		- [[Marketing/SEO/Content Optimization]]

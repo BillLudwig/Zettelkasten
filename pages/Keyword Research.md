@@ -1,3 +1,5 @@
+tags:: SEO
+
 ## Fundamental Training & References
 - ## Free Tools
 	- [Google Ads Keyword Planner](https://ads.google.com/home/tools/keyword-planner/)
