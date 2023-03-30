@@ -1,7 +1,8 @@
-title:: Craft by paulstamatiou.com
+title:: Notes: Craft
 author:: [[paulstamatiou.com]]
 full-title:: "Craft"
 category:: #articles
+tags:: Design
 url:: https://paulstamatiou.com/craft/
 
 - [[Highlights]] first synced by [[Readwise]] [[November 18th, 2022]]
