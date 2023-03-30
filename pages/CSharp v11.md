@@ -1,5 +1,7 @@
-title:: Dev/.NET/CSharp/11
+title:: CSharp v11
+tags:: Dev, .NET, CSharp
 
+-
 - ## List<T> Performance
 	- [Performance gains when specifying a List’s capacity Part 1](https://intodot.net/performance-gains-when-specifying-a-lists-capacity/) [Part 2](https://intodot.net/performance-gains-when-specifying-a-lists-capacity-part-2/)
 		- The capacity [property](https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1.capacity?view=net-6.0) "Gets or sets the total number of elements the internal data structure can hold without resizing."
