@@ -6,7 +6,7 @@
 	- ((6373bfeb-a3a2-4f2f-ab41-0d6d2c3d0b9e))
 - # #Certifications
 	- LATER [Professor Messer](https://www.youtube.com/@professormesser) – this YouTube channel is a real goldmine of free content for several CompTIA certifications – CompTIA A+, Network+ and Security+.
-- # #Dev/Powershell
+- # #Powershell
 	- LATER [PowerShell for Beginners](https://www.youtube.com/watch?v=UVUd9_k9C6A) – full tutorial from scratch on using PowerShell for various task management needs.
 	- ((63898d7f-fcd6-4606-92e3-e913d6b35dad))
 - # #Cyber

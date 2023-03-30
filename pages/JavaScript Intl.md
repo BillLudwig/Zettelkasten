@@ -1,3 +1,5 @@
+tags:: Javascript
+
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl
 - Does so many cool things
 	- `Collator` - Language-sensitive string comparison

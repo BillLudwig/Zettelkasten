@@ -2,7 +2,7 @@ tags:: WebDev
 
 - ## Reference Videos
 - ## Media Queries
-	- [Personalize It!](https://css-tricks.com/personalize-it/) Using preference-query [[CSS]] for [[Dev/A11y]] by Una Kravets
+	- [Personalize It!](https://css-tricks.com/personalize-it/) Using preference-query [[CSS]] for [[A11y]] by Una Kravets
 	  id:: 6377c180-d2eb-437a-919d-fd2a58ce8c02
 - ## Tips and Tricks
 	- [Style a parent element based on its number of children using CSS :has()](https://www.bram.us/2022/11/17/style-a-parent-element-based-on-its-number-of-children-using-css-has)
