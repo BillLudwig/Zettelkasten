@@ -1,4 +1,4 @@
-tags:: OSINT
+tags:: OSINT, SOCMINT
 
 - ## Tools
 	- [Masto OSINT Tool](https://github.com/C3n7ral051nt4g3ncy/Masto) [[Dev/Python]] script by @OSINT_Tactical to get [[OSINT]] data from Mastodon servers
