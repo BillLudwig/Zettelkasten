@@ -1,3 +1,5 @@
+tags:: OSINT
+
 - ## Workflows
 	- ### Finding Information on License Plate Number
 		- Google for the plate number. Use both spaces and without spaces.
