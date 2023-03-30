@@ -1,3 +1,5 @@
+tags:: SEO
+
 - Find articles that were published last year, and updated for the current year
 	- `intitle:{currentyear} inurl:{prevyear} -intitle:{prevyear} {niche}`
 	  id:: 637d8941-f7ca-4d3b-a99b-27735e26393e

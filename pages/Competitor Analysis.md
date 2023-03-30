@@ -1,3 +1,5 @@
+tags:: SEO
+
 - ## Identifying Competitors
 	- Use keyword research tool to find domains that rank for the keywords you are targeting
 - ## Types of competitor

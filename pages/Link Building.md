@@ -1,4 +1,6 @@
-## Fundamental Training & References
+tags:: SEO
+
+- ## Fundamental Training & References
 	- [Link Building Book by Paddy Moogan](https://aira.net/link-building-book/)
 	- [Ahrefs Link Building Guide](https://ahrefs.com/blog/link-building/)
 	- [Moz Beginner's Guide to Link Building](https://moz.com/beginners-guide-to-link-building)
