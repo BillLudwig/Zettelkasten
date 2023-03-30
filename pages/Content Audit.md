@@ -1,3 +1,5 @@
+tags:: SEO
+
 - A content audit is a process for evaluating content on a website and identifying opportunities for growth.
 - ## Process
 	- ### Crawl website

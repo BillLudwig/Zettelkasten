@@ -1,3 +1,5 @@
+tags:: SEO
+
 - >Semantic SEO is to create a content network in a relevant and meaningful structure for each entity within a subject. Semantic SEO is connecting terms, entities, facts to each other within a factual accuracy and relational relevance. By focusing on meanings and topics instead of words, it has the purpose of satisfying the search intent of the user better and being the authority for the Search Engine and the User on a particular subject. Google is a Semantic Search Engine that creates connections between entities, searches intents and organizes the information on the web. Thus, creating an already organized content structure with clearly connected entities is important for Semantic Search Engine and Semantic SEO. [Koray Tuğberk GÜBÜR 9/9/2020](https://www.holisticseo.digital/theoretical-seo/semantic/)
 - ## Content Production Steps
 	- The queries used to investigate the topic should be listed hierarchically.
