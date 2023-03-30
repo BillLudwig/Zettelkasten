@@ -2,7 +2,7 @@ title:: Conditionally Adaptive CSS. Browser Behavior That Might Improve Your Per
 author:: [[pepelsbey.dev]]
 full-title:: "Conditionally Adaptive CSS. Browser Behavior That Might Improve Your Performance — Vadim Makeev"
 category:: #articles
-tags:: #Dev/Web/CSS, #Dev/Web 
+tags:: #CSS, #WebDev 
 url:: https://pepelsbey.dev/articles/conditionally-adaptive/
 
 - [[Highlights]] first synced by [[Readwise]] [[November 15th, 2022]]

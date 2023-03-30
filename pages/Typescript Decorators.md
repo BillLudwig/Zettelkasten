@@ -1,3 +1,6 @@
+tags:: Typescript
+
+-
 - Since: 5.0
 - Reference: https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/#decorators
 - Example:

@@ -9,7 +9,7 @@
 			      C = bar(42)   // Opaque computed enum member
 			  }
 			  ```
-		- Typescript supports [[Dev/Typescript/Decorators]] which are pretty cool for wrapping up common functionality.
+		- Typescript supports [[Typescript Decorators]] which are pretty cool for wrapping up common functionality.
 	- ### 4.9 Changes
 	  id:: 63a3a25a-ef21-4da8-a7d1-475b974fea2a
 		- **New** Satisfies Operator
@@ -24,5 +24,5 @@
 		- Finally added remove unused/sort imports command for IDEs
 	-
 - ## Assignment Operators
-	- [[Dev/Typescript]] v4.0 supports three new assignment operators  for logical and `&&=`, logical or `||=`, and nullish coaliscing `??=`. This is perfect for writing more ~~confusing~~ concise code.
+	- [[Typescript]] v4.0 supports three new assignment operators  for logical and `&&=`, logical or `||=`, and nullish coaliscing `??=`. This is perfect for writing more ~~confusing~~ concise code.
 	  id:: 63936b73-9316-4975-8049-a60fd1e78b7d

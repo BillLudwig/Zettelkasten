@@ -2,7 +2,7 @@ title:: Hostile Patterns in Error Messages by nngroup.com
 author:: [[nngroup.com]]
 full-title:: "Hostile Patterns in Error Messages"
 category:: #articles
-tags:: #Dev/UX 
+tags:: #UI-UX 
 url:: https://www.nngroup.com/articles/hostile-error-messages/?ref=Web-Design-Weekly.com
 
 - [[Highlights]] first synced by [[Readwise]] [[November 16th, 2022]]

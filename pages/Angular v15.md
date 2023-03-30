@@ -1,3 +1,5 @@
+tags:: WebDev, Angular
+
 - ## Big Changes
   collapsed:: true
 	- {{video https://www.youtube.com/watch?v=-n0WhqabSmc}}
