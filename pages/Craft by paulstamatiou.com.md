@@ -4,7 +4,7 @@ full-title:: "Craft"
 category:: #articles
 url:: https://paulstamatiou.com/craft/
 
-- [[Highlights]] first synced by [[Readwise]] [[March 30th, 2023]]
+- ## Notes
 	- As a designer I'm motivated not only by identifying and successfully solving problems for people through software, but also by the care, attention to detail and craft I'm able to put into it along with the team.
 	- Quality is all-encompassing.
 	    
