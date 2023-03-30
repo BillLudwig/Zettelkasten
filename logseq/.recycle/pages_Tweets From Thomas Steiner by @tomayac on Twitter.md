@@ -4,7 +4,7 @@ full-title:: "Tweets From Thomas Steiner"
 category:: #Tweets
 url:: https://twitter.com/tomayac
 
-- [[Highlights]] first synced by [[Readwise]] [[Nov 2nd, 2022]]
+- Highlights first synced by [[Readwise]] [[Nov 2nd, 2022]]
 	- 👀 The HTTP-related specs have been rearranged:
 	  
 	  Version-less:
