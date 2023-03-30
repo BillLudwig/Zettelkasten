@@ -1,4 +1,7 @@
-- Ports 0-1023 are reserved and are designated as “well-known”. Ports from 1024 through 49,151 are designated as “Registered Ports”. Any [[TCP/IP]] can register their use of one of those ports with the [IANA](https://www.iana.org/). You can view the [port number registry here](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml).
+tags:: Networking
+
+- ## Well-Known Ports
+	- Ports 0-1023 are reserved and are designated as “well-known”. Ports from 1024 through 49,151 are designated as “Registered Ports”. Any [[TCP/IP]] can register their use of one of those ports with the [IANA](https://www.iana.org/). You can view the [port number registry here](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml).
 ## Notable Ports
 	- 1 : Echo
 	  20 & 21 : File Transfer Protocol (FTP)

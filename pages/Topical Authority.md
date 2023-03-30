@@ -1,3 +1,5 @@
+tags:: SEO
+
 - # Notes
 	-
 - # References

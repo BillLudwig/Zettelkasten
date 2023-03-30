@@ -1,5 +1,6 @@
+tags:: Networking
+
 - [CORS – Cross-Origin Resource Sharing – What, how, and why?](https://www.secjuice.com/cross-origin-resource-sharing-what-is-it-cors/)
-  collapsed:: true
 	- CORS stands for Cross-Origin Resource Sharing, a system or software framework that allows limited resources on a web page from other domains to be requested as if they were on the same domain server.
 	- CORS allows limited resources on a web page from other domains to be requested as if they were on the same domain. CORS is used for Cross-origin requests, that is, if you want to request a resource from a different origin than the one your page is running on.
 	- ## CORS Headers
@@ -14,3 +15,5 @@
 		- CORS HTTP Response Splitting: If your CORS security is open to HTTP response splitting, then a malicious user who can request your server with a valid "Origin" header can send you a request with a "Content-Type" header that is different from the one you sent them.
 - [Cache your CORS, for performance & profit](https://httptoolkit.com/blog/cache-your-cors/)
   id:: 64211362-67b9-4998-8af0-a629bdf9f63c
+- [Exploiting CORS Misconfigurations](https://attackshipsonfi.re/p/exploiting-cors-misconfigurations) #CORS
+  id:: 64178a57-1c5c-4a27-8200-51bc3eb2e4f6

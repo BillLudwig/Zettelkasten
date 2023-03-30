@@ -17,8 +17,8 @@ tags:: Marketing
 	- ### Content
 		- [[Content Audit]]
 		- [[Semantic SEO]]
-		- [[Marketing/SEO/Topical Authority]]
-		- [[Marketing/SEO/EEAT]]
+		- [[Topical Authority]]
+		- [[E-E-A-T]]
 		- [[Marketing/SEO/Image Optimization]]
 	- ### Training
 		- [[Matt Diggity SEO Training Notes]] - Webinar watched 3/8/2023 #[[SEO]]
@@ -29,3 +29,4 @@ tags:: Marketing
 	  id:: 63b843a6-7c15-4b2f-a06a-b25c57063f7d
 - ## Generic Tips/Notes
 	- Instead of using the same keyword over and over use natural synonyms and related phrases.
+-
