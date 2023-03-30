@@ -1,4 +1,3 @@
-- {{namespace Design}}
 - ## Misc Articles
 	- [The words you choose within your app are an essential part of its user experience](https://developer.apple.com/design/human-interface-guidelines/foundations/writing/) - Whether you're building an onboarding experience, writing an alert, or describing an image for accessibility, designing through the lens of language will help people get the most from your app or game. #Design #UX
 	  id:: 64094c19-5a93-4ceb-b5a9-423757d39a94

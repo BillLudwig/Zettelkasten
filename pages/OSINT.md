@@ -1,5 +1,3 @@
-- ## Sub-Pages
-- {{namespace OSINT}}
 - ## Tools
 	- [[SkipTracer]]
 	- [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/en/peer/) - See Torrent downloads by IP address

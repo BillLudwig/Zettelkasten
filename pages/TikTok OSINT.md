@@ -1,1 +1,3 @@
-- tags
+tags:: OSINT, SOCMINT
+
+-
