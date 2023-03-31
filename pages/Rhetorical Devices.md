@@ -1,3 +1,6 @@
+tags:: Writing
+
+-
 - ## Anadiplosis
 	- The repetition of the last word of a clause at the beginning of the next.
 	- *"Fear leads to anger. Anger leads to hate. Hate leads to suffering"* - Yoda
