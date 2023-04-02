@@ -2,7 +2,7 @@ title:: Hacking With PowerShell
 author:: tryhackme.com
 full-title:: "TryHackMe | Hacking With PowerShell"
 url:: https://tryhackme.com/room/powershell
-tags:: #[[powershell]]
+tags:: #[[powershell]], #Training, #tryhackme.com
 
 - ## Notes
 	- Powershell is the Windows Scripting Language and shell environment that is built using the .NET framework.This also allows Powershell to execute .NET functions directly from its shell. Most Powershell commands, called cmdlets, are written in .NET. Unlike otherscripting languages and shell environments, the output of these cmdlets are objects - making Powershell somewhat object oriented. This also means that running cmdlets allows you to perform actions on the output object

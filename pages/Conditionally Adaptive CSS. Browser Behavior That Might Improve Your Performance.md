@@ -1,8 +1,8 @@
 title:: Conditionally Adaptive CSS. Browser Behavior That Might Improve Your Performance — Vadim Makeev by pepelsbey.dev
-author:: [[pepelsbey.dev]]
+author:: pepelsbey.dev
 full-title:: "Conditionally Adaptive CSS. Browser Behavior That Might Improve Your Performance — Vadim Makeev"
-category:: #articles
 url:: https://pepelsbey.dev/articles/conditionally-adaptive/
+tags:: CSS
 
 - [[Highlights]] first synced by [[Readwise]] [[April 2nd, 2023]]
 	- What if we’d take the CSS bundle we’ve just built out of dozens of files and split it back into multiple parts? But this time, based on conditions where these parts are applicable. For example, we could split it into four files:Base: universal styles with fonts and colorsMobile: styles only for narrow viewportsTablet: styles only for medium viewportsDesktop: styles only for large viewports
