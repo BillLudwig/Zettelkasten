@@ -1,3 +1,6 @@
+tags:: OSINT, SOCMINT, Social
+
+- ## Notes
 - [[Mastodon]] is frustrating, here are some resources
   id:: 6373ab78-1824-425c-8abb-7fefa6f83b3e
 	- https://infosec.exchange/web/@GhostMaker
@@ -16,3 +19,6 @@
 - ## Tips and Tricks
 	- Find peers of non-federated (probably federated too?) instances
 		- `{mastodon instance}/api/v1/instance/peers`
+- ## Tools
+	- [Masto OSINT Tool](https://github.com/C3n7ral051nt4g3ncy/Masto) [[Python]] script by @OSINT_Tactical to get [[OSINT]] data from Mastodon servers
+	  id:: 63741503-4895-4bb9-ae87-e367c2a92f9e

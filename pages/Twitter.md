@@ -1,1 +1,3 @@
-tags:: OSINT, SOCINT
+tags:: OSINT, SOCMINT
+
+-

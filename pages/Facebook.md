@@ -1,3 +1,3 @@
-tags:: OSINT, SOCMINT
+tags:: OSINT, SOCMINT, Social
 
 -
