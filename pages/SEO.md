@@ -19,7 +19,7 @@ tags:: Marketing
 		- [[Semantic SEO]]
 		- [[Topical Authority]]
 		- [[E-E-A-T]]
-		- [[Marketing/SEO/Image Optimization]]
+		- [[SEO Image Optimization]]
 	- ### Training
 		- [[Matt Diggity SEO Training Notes]] - Webinar watched 3/8/2023 #[[SEO]]
 		  id:: 64093d4d-ded1-4b56-8c69-471954466d31
