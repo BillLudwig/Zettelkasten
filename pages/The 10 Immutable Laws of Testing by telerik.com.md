@@ -1,10 +1,10 @@
 title:: The 10 Immutable Laws of Testing by telerik.com
-author:: [[telerik.com]]
+author:: telerik.com
 full-title:: "The 10 Immutable Laws of Testing"
-category:: #articles
 url:: https://www.telerik.com/blogs/10-immutable-laws-testing
+tags:: Dev
 
-- [[Highlights]] first synced by [[Readwise]] [[November 18th, 2022]]
+- ## Notes
 	- 1. The bug count measures what annoys our users the most.
 	- over 60% of users delete an app if
 	    it freezes, crashes or displays an error message.

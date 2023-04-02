@@ -1,11 +1,10 @@
-title:: Hostile Patterns in Error Messages by nngroup.com
-author:: [[nngroup.com]]
+title:: Notes: Hostile Patterns in Error Messages
+author:: nngroup.com
 full-title:: "Hostile Patterns in Error Messages"
-category:: #articles
-tags:: #UI-UX 
+tags:: #UI-UX
 url:: https://www.nngroup.com/articles/hostile-error-messages/?ref=Web-Design-Weekly.com
 
-- [[Highlights]] first synced by [[Readwise]] [[November 16th, 2022]]
+- ## Notes
 	- Avoid Premature Error Messages
 		- As a general rule of thumb, avoid displaying the error until the user has finished with the field and moved to the next field.
 	- Reserve Error Styling for Errors Only

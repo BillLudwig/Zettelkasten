@@ -1,7 +1,6 @@
-title:: Why You Should Never Use Px to Set Font-Size in CSS - Josh Collinsworth Blog by joshcollinsworth.com
-author:: [[joshcollinsworth.com]]
+title:: Notes: Why You Should Never Use Px to Set Font-Size in CSS
+author:: joshcollinsworth.com
 full-title:: "Why You Should Never Use Px to Set Font-Size in CSS - Josh Collinsworth Blog"
-category:: #articles
 url:: https://joshcollinsworth.com/blog/never-use-px-for-font-size
 
 - [[Highlights]] first synced by [[Readwise]] [[November 16th, 2022]]
