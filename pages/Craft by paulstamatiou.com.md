@@ -1,7 +1,6 @@
 title:: Craft by paulstamatiou.com
-author:: [[paulstamatiou.com]]
+author:: paulstamatiou.com
 full-title:: "Craft"
-category:: #articles
 url:: https://paulstamatiou.com/craft/
 
 - ## Notes

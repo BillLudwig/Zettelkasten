@@ -1,10 +1,10 @@
 title:: How OSINT Is Used in SIM Swap Scams by secjuice.com
-author:: [[secjuice.com]]
+author:: secjuice.com
 full-title:: "How OSINT Is Used in SIM Swap Scams"
-category:: #articles
 url:: https://www.secjuice.com/sim-swap-scams-osint/
+tags:: OSINT
 
-- [[Highlights]] first synced by [[Readwise]] [[April 2nd, 2023]]
+- ## Notes
 	- Your phone number is often the gateway to stealing access to your money and your identity. After the hacker takes your phone number, they can log into your email account without using your password.
 	- The “Forgot My Password” option on the rest of your accounts (think of your credit cards, social media, bank, etc.) is usually set by default to send a link or code to your email or phone.
 	- Hackers SIM-swap people by calling their phone service providers (also known as carriers), impersonating their victims, and claiming that their phone was lost or stolen. If your phone is lost or stolen, service providers can transfer your phone number to a new phone, and SIM, of your choice.
