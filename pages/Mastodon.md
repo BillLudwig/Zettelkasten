@@ -1,5 +1,6 @@
 tags:: OSINT, SOCMINT, Social
 
+- > I use this more than Twitter, but that's not saying much. You can follow me
 - ## Notes
 - [[Mastodon]] is frustrating, here are some resources
   id:: 6373ab78-1824-425c-8abb-7fefa6f83b3e
