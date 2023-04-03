@@ -1,4 +1,4 @@
-title:: Hostile Patterns in Error Messages by nngroup.com
+title:: Hostile Patterns in Error Messages
 author:: nngroup.com
 full-title:: "Hostile Patterns in Error Messages"
 url:: https://www.nngroup.com/articles/hostile-error-messages/?ref=Web-Design-Weekly.com
