@@ -2,7 +2,7 @@ tags:: SEO
 
 - # Notes
 	- Generate related topics using #ChatGPT
-		- > Give me 30 semantically relevant, but unique topics under the main category of "hiking"
+		- > Give me 30 semantically relevant, but unique topics under the main category of "hiking". Reduce each down to 3 to 5 word-length keywords.
 		- > Give me 10 different keyword variations of "{{Insert from above}}" that address a different search intent
 		-
 - # References
