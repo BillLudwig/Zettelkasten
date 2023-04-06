@@ -4,7 +4,7 @@ full-title:: "The Truffle Industry Is a Big Scam. Not Just Truffle Oil, Everythi
 category:: #articles
 url:: https://www.tasteatlas.com/truffle-industry-is-a-big-scam
 
-- [[Highlights]] first synced by [[Readwise]] [[November 19th, 2022]]
+- [[Highlights]] first synced by [[Readwise]] [[April 3rd, 2023]]
 	- You probably already know that "truffle-flavored oil" is not made from truffles. It is a cheap oil with added synthetic truffle flavor.
 	- What you don't know is that almost everything else named "truffles" is a lie: we don't just mean truffle-flavored chips, ketchup, or chocolate (you can surely taste the artificial aroma), but also tartufata, jar packaged truffles, cheese, and truffle sausages, as well as the vast majority of pasta and "truffle" frittatas in restaurants.
 	- what is sold as truffle flavor is 2,4-dithiapentane, an organosulfur compound that is naturally found in truffles, and though it is practically impossible to extract it from truffles, it can be extracted from oil.
