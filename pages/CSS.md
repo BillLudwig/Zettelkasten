@@ -32,6 +32,21 @@ tags:: WebDev
 	- You can style the button portion of input[type=file] with `::file-selector-button`
 	- [[Using Picture And Source Tags To Prevent Loading Hero Image On Mobile Devices]] #CSS
 	  id:: 641a4e8a-d968-4070-9010-037ef3d67753
+	- [Prevent Transitions as a Page is Loading](https://chriscoyier.net/2023/04/05/prevent-transitions-as-a-page-is-loading/) #CSS
+	  id:: 642e31ea-abb1-4bb0-afc9-154b63cf0d08
+		- ```
+		  <body class="preload">
+		  
+		  window.addEventListener("load", () => {
+		    document.body.classList.remove("preload");
+		  });
+		  
+		  .preload * { 
+		    transition: none !important;
+		    animation-duration: 0.001s !important; 
+		  }
+		  ```
+		-
 - ## References
 	- [What CSS Do You Absolutely Have to Know in 2022](https://css-tricks.com/what-css-do-you-absolutely-have-to-know-in-2022/) by Geoff Graham #[[November 8th, 2022]]
 	- [Practical CSS Guide for Busy Developers](https://codefrontend.com/css-guide/) by Vincas Stonys #[[October 28th, 2022]]
