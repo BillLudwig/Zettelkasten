@@ -19,6 +19,12 @@ tags:: Social Media Marketing
 	- Other Social Networks
 	- Influencers
 	- Guest Posts
-- Establish a
+- Establish a social media calendar
+	- Consistency is key
+	- Establish a backlog, pre-schedule if possible
+- Create Content
+	- Batch creation is probably more efficient
+- Track Results
+	- If you don't track it you can't improve it
 - *Sources*
 	- [How to Create a Social Media Content Marketing Strategy (That Works)](https://sendgrid.com/blog/social-media-content-marketing-strategy) by Jesse Sumrak
