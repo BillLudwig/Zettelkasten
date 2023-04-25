@@ -1,0 +1,4 @@
+- ## Links
+-
+- ## Affiliate Marketing Options
+	- [Sparkloop](https://sparkloop.app/partner-network) - Get paid for recommending
