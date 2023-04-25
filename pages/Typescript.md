@@ -5,7 +5,8 @@
 	- [[Typescript]] v4.0 supports three new assignment operators  for logical and `&&=`, logical or `||=`, and nullish coaliscing `??=`. This is perfect for writing more ~~confusing~~ concise code.
 	  id:: 63936b73-9316-4975-8049-a60fd1e78b7d
 - ## Update Notes
-  collapsed:: true
+	- ### 5.1 (Still in Beta)
+		- [Unrelated Types for Getters and Setters](https://devblogs.microsoft.com/typescript/announcing-typescript-5-1-beta/#unrelated-types-for-getters-and-setters) - Very nice because the current implementation is a bit of a pain.
 	- ### 5.0 Changes
 		- All Enums are `union` enum types for good, but confusing, [reasons](https://github.com/microsoft/TypeScript/pull/50528).
 			- An enum declaration now declares a type representing the entire enum and types representing each member (similar to literal enum types). For example the below code declares a type `E` and types `E.A`, `E.B`, and `E.C`, where `E` is the union `E.A | E.B | E.C`.
