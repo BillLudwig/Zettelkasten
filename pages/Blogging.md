@@ -1,5 +1,5 @@
 - ## Content
-	- ### How-To Posts
+	- ### Writing How-To Posts
 		- Goal: Teaching/Education
 			- Make the goal of teaching/educating clear from the start
 			- Use lots of examples, helpful visuals, and "why" not just "how"
