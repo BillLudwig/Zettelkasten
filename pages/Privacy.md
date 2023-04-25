@@ -1,3 +1,4 @@
 - ## Resources
 	- [JoinDeleteMe.com DIY Guide](https://joindeleteme.com/help/diy-free-opt-out-guide/)
-	- [Michael Bazzell]
+	- [Michael Bazzell's Links](https://inteltechniques.com/links.html)
+	- [Breaches and Leaks Search Tool](https://inteltechniques.com/tools/Breaches.html)
