@@ -1,0 +1,6 @@
+- [Why do ships use "port" and "starboard" instead of "left" and "right?"](https://oceanservice.noaa.gov/facts/port-starboard.html) - tldr; starboard = two Old English words: stéor (meaning "steer") and bord (meaning "the side of a boat"). #Trivia
+  id:: 64475cf9-72b0-43ff-9d98-74fc679f48cb
+- Learned that [Judas Goats](https://www.agweb.com/news/livestock/beef/judas-goats-agricultures-bizarre-drug-addicted-masters-deceit-once-ruled) were a thing once. #Trivia
+  id:: 642b6cbf-682c-4736-a59d-90a8efff7885
+- [Bankers Rounding](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj6iJKo85T7AhV1IX0KHUcCCH0QFnoECBIQAw&url=https%3A%2F%2Fwiki.c2.com%2F%3FBankersRounding&usg=AOvVaw1RYp_YasONPZGLWS3wDAVw) Bankers Rounding is an algorithm for rounding quantities to integers, in which numbers which are equidistant from the two nearest integers are rounded to the nearest even integer. Thus, 0.5 rounds down to 0; 1.5 rounds up to 2; 2.5 rounds down to 2. #Trivia
+  id:: 642b6cc0-a49f-49ae-af7d-a8588366b54f
