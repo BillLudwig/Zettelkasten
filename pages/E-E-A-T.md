@@ -9,12 +9,19 @@ tags:: SEO
 	- Proportion of content contributed to a topical document corpus
 	- Mentions in best of or award lists
 - ## Document Level Indicators
+	- Keyword-Usage in title, headings and main content
+	- TF_IDF
+	- External and internal inbound links anchor text and pagerank
+	- Content-Scope
+	- Matching the search intent (BERT/ Rankbrain)
+	- Freshness
+	- Neural Matching
+	- Passage Based Indexing
+	- Knowledge Based Trust (consistency with conventional wisdom) (E-E-A-T)
 - ## Domain Level Indicators
 	- TLDs, SSL Certificate
-	  External and internal inbound
-	  links anchor text and pagerank
-	  (E-E-A-T)
-	  Content Quality in total (E-E-A-T)
+	- External and internal inbound links anchor text and pagerank (E-E-A-T)
+	- Content Quality in total (E-E-A-T)
 	- Page Experience / Core Web Vitals
 	- 404 Errors in total
 	- Domain Age, Domain History
