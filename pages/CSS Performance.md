@@ -17,4 +17,10 @@ tags:: CSS
 		- Use `border-image` if you have complex designs
 	- ### Transforms
 		- Use 2D transforms if possible
-		- Use the `will`
+		- Use the `will-change` property when animating
+		- Use hardware acceleration by using `transform-style: preserve-3d` property
+	- ### Filters
+		- Use simpler effects when possible
+		- Use the `will-change` property when animating
+		- Use hardware acceleration by using `transform-style: preserve-3d` property
+	-
