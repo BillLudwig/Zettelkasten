@@ -1,4 +1,8 @@
 - ## Links
+	- [How to Set Up a Reactivation Campaign to Win Back Inactive Email Subscribers](https://inboxcollective.com/how-to-set-up-a-reactivation-campaign-to-win-back-inactive-email-subscribers) for #Newsletter and #[[Email Marketing]]
+- ## Platforms
+	- [Beehiiv](https://www.beehiiv.com/) - Lots of cool stuff and a free starter tier
 -
 - ## Affiliate Marketing Options
-	- [Sparkloop](https://sparkloop.app/partner-network) - Get paid for recommending
+	- [Sparkloop](https://sparkloop.app/partner-network) - Get paid for recommending other newsletters
+	- [Swapstack](https://www.swapstack.co/) - Newsletter recommendations
