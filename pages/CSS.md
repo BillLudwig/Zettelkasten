@@ -49,7 +49,7 @@ tags:: WebDev
 	- ### Visibility
 		- `: hidden` - Keeps height and width
 		- `: none` - Hides everything within a container
-			- Use `.container > * { display: none }` to hide the contents of a container if you ever want to do that
+		- use `content-visibility: hidden` to hide the contents of a container without keeping their height and width
 		-
 - ## References
 	- [What CSS Do You Absolutely Have to Know in 2022](https://css-tricks.com/what-css-do-you-absolutely-have-to-know-in-2022/) by Geoff Graham #[[November 8th, 2022]]
