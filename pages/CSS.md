@@ -5,7 +5,7 @@ tags:: WebDev
 	- [Personalize It!](https://css-tricks.com/personalize-it/) Using preference-query [[CSS]] for [[A11y]] by Una Kravets
 	  id:: 6377c180-d2eb-437a-919d-fd2a58ce8c02
 - ## Tips and Tricks
-	- [Style a parent element based on its number of children using CSS :has()](https://www.bram.us/2022/11/17/style-a-parent-element-based-on-its-number-of-children-using-css-has)
+	- [Style a parent element based on its number of children using CSS `:has()`](https://www.bram.us/2022/11/17/style-a-parent-element-based-on-its-number-of-children-using-css-has)
 	  id:: 637963df-b27f-4cd6-adcc-7312ed841ca2
 	  collapsed:: true
 		- > /* At most 3 (3 or less, excluding 0) children */
@@ -46,6 +46,10 @@ tags:: WebDev
 		    animation-duration: 0.001s !important; 
 		  }
 		  ```
+	- ### Visibility
+		- `: hidden` - Keeps height and width
+		- `: none` - Hides everything within a container
+			- Use `.container > * { display: none }` to hide the contents of a container if you ever want to do that
 		-
 - ## References
 	- [What CSS Do You Absolutely Have to Know in 2022](https://css-tricks.com/what-css-do-you-absolutely-have-to-know-in-2022/) by Geoff Graham #[[November 8th, 2022]]
