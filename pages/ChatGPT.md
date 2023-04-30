@@ -1,7 +1,7 @@
 tags:: AI
 
 - ## Prompts
--
+	- [[ChatGPT Prompts for Keyword Research]]
 - ## Links
 	- [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt) - Visual ChatGPT connects ChatGPT and a series of Visual Foundation Models to enable sending and receiving images during chatting. #ChatGPT
 	  id:: 64210a95-e7b3-4f91-ba61-c9c806f9d591
