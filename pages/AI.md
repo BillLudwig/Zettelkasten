@@ -25,6 +25,7 @@
 - ## Audio
 	- [MURF.AI](https://murf.ai/) - #AI powered text to voice service
 	  id:: 642b6cbf-ea39-46b2-8444-8e1829f22780
+	- [Elevent Labs](https://beta.elevenlabs.io/) - #AI powered text to speech with translation
 - ## Misc
 	- [DoNotPay](https://donotpay.com/) - #AI "lawyer" service that cancels trials and sues people for you. $18/month
 	  id:: 642b6cbf-859f-41d1-8724-3eac3ddbf863
