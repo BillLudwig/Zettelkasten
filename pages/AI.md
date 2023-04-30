@@ -1,11 +1,12 @@
-- > Obviously not a complete list, just the things I think I might have interest in later.
+- > Obviously not a complete list, just the things I think I might have interest in later.  If you want to keep up with the deluge of new tools follow https://twitter.com/heyBarsee
 - ## Text/Chat
 	- [[ChatGPT]]
 	- [phind](https://www.phind.com/) - An #AI powered search/chat thing designed for developers. It seems ok at answering basic questions. #Dev
 	  id:: 64381477-d545-4238-bc88-6650bd82b027
 	- [Chatpdf.com](https://www.chatpdf.com/) #AI tool that allows you to upload a PDF and then ask it questions.
 	  id:: 642b6cbe-2e83-4893-bd47-9a6baf01751c
-	- ((642b6cbf-c470-4e7a-a25e-1bdba8641b18))
+	- [TalkToBooks](https://books.google.com/talktobooks/) - #AI Tool Like #ChatGPT but trained on books.
+	  id:: 642b6cbf-c470-4e7a-a25e-1bdba8641b18
 	- [Browse AI](https://www.browse.ai/) - #AI powered web scraping as a service
 	  id:: 642b6cbf-0331-4e1b-814b-73de1766c584
 - ## Code Generation
@@ -34,3 +35,5 @@
 	  id:: 63f58b49-b156-4951-a483-63663ae95e2e
 	- Data set of [100,000 AI generated humans](https://generated.photos/humans) with photos. They also have some other tools for AI human generation. They have children too, which is creepy.
 	  id:: 63f40fd7-6401-4b3b-898b-bd0a31aa823e
+	- [My kids and I just played D&D with ChatGPT4 as the DM](https://obie.medium.com/my-kids-and-i-just-played-d-d-with-chatgpt4-as-the-dm-43258e72b2c6) - Of all the uses for #AI this might be my favorite. The lack of players willing and able to run games is one of the factors limiting its popularity. #Gaming
+	  id:: 642b6cbe-dd58-4c91-8e00-09230e286520
