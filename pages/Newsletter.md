@@ -11,10 +11,8 @@
 	- Choose a schedule that can be maintained, only increase when you are growing and monetizing successfully.
 		- This is almost always every 1 or 2 weeks.
 	- Use a repeatable content format that can be made into a simple template [^1]
-	- Create a "Thank You" page for subscribers
-		- Include copy to re-sell the newsletter so that they are more likely to open your next issue
-		- Encourage them to check the
 - ## Growth by Newsletter Size
+  collapsed:: true
 	- 0 → 100: Friends, Family, Co-Workers
 		- This creates accountability to keep writing. I recommend starting with a weekly newsletter you publish on the same day and time every week.
 	- 100 → 5k: Publish on Twitter and LinkedIn Daily
@@ -26,17 +24,22 @@
 	- 10k → 100k: Paid Ads + All of The Above
 		- Start testing Facebook (Meta) and Twitter ads with a small budget. You should be able to acquire subscribers for $1-$3.
 - ## Growth Platforms
+  collapsed:: true
 	- [Lettergrowth](https://lettergrowth.com/) - Cross promotion platform for newsletter owners
 - ## General Growth Tactics (Move to pages when there is content)
+  collapsed:: true
 	- Referral Program
 	- Lead Magnets
 	- Partner Giveaways
 	- Go on Podcasts
 - ## Links
+  collapsed:: true
 	- [How to Set Up a Reactivation Campaign to Win Back Inactive Email Subscribers](https://inboxcollective.com/how-to-set-up-a-reactivation-campaign-to-win-back-inactive-email-subscribers) for #Newsletter
 - ## Platforms
+  collapsed:: true
 	- [Beehiiv](https://www.beehiiv.com/) - Lots of cool stuff and a free starter tier. What I use for #Adventureite.com
 - ## Affiliate Marketing Options
+  collapsed:: true
 	- [Sparkloop](https://sparkloop.app/partner-network) - Get paid for recommending other newsletters
 	- [Swapstack](https://www.swapstack.co/) - Newsletter recommendations
 - ## Sources
