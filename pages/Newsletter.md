@@ -1,6 +1,12 @@
 - ## Tips and Notes
 	- Pick a niche you want to write about. Then go 2 niches deeper. [^1]
-	- Pick a type of indie newsletter [^2]
+	- Pick a type of newsletter [^2]
+		- Analyst
+		- Curator - Pull together links and content into a single newsletter.
+		- Expert
+		- Reporter
+		- Writer
+	- Write for a very specific audience
 - ## Growth by Newsletter Size
 	- 0 → 100: Friends, Family, Co-Workers
 		- This creates accountability to keep writing. I recommend starting with a weekly newsletter you publish on the same day and time every week.
@@ -18,7 +24,6 @@
 	- Go on Podcasts
 - ## Links
 	- [How to Set Up a Reactivation Campaign to Win Back Inactive Email Subscribers](https://inboxcollective.com/how-to-set-up-a-reactivation-campaign-to-win-back-inactive-email-subscribers) for #Newsletter and #[[Email Marketing]]
-	- [^2]: [The Five Types of Indie Newsletter Business Models](https://inboxcollective.com/five-types-of-indie-newsletter-business-models)
 - ## Platforms
 	- [Beehiiv](https://www.beehiiv.com/) - Lots of cool stuff and a free starter tier
 - ## Affiliate Marketing Options
@@ -26,3 +31,4 @@
 	- [Swapstack](https://www.swapstack.co/) - Newsletter recommendations
 - ## Sources
 	- [^1]: https://www.newsletteroperator.com/
+	- [^2]:  https://inboxcollective.com/five-types-of-indie-newsletter-business-models
