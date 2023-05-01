@@ -18,15 +18,6 @@
 		- This is almost always every 1 or 2 weeks.
 	- Use a repeatable content format that can be made into a simple template [^1]
 	- Use a pre-CTA on social media with a preview of what the next issue will cover the day before it goes out [^3]
-- ## Growth Platforms
-  collapsed:: true
-	- [Lettergrowth](https://lettergrowth.com/) - Cross promotion platform for newsletter owners
-- ## General Growth Tactics (Move to pages when there is content)
-  collapsed:: true
-	- Referral Program
-	- Lead Magnets
-	- Partner Giveaways
-	- Go on Podcasts
 - ## Links
   collapsed:: true
 	- [ConvertKit Creator Network](https://convertkit.com/features/creator-network) - Collaboration platform for #Newsletter growth
@@ -36,7 +27,6 @@
   collapsed:: true
 	- [Beehiiv](https://www.beehiiv.com/) - Lots of cool stuff and a free starter tier. What I use for #Adventureite.com
 - ## Sources
-  collapsed:: true
 	- [^1]: https://www.newsletteroperator.com/
 	- [^2]:  https://inboxcollective.com/five-types-of-indie-newsletter-business-models
 	- [^3]: https://www.newsletteroperator.com/p/instagram-newsletter-growth
