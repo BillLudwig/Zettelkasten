@@ -1,9 +1,10 @@
 - ## User Journey
+  collapsed:: true
 	- [[Newsletter Landing Page]]
 	- [[Thank You Page]]
 	- [[Welcome Email]]
-	-
 - ## Tips and Notes
+  collapsed:: true
 	- Pick a niche you want to write about. Then go 2 niches deeper. [^1]
 	- Leverage existing reputation and platforms. Build those first, or at the same time.
 	- Pick a type of newsletter [^2]
@@ -40,15 +41,17 @@
 	- Go on Podcasts
 - ## Links
   collapsed:: true
+	- [ConvertKit Creator Network](https://convertkit.com/features/creator-network) - Collaboration platform for #Newsletter growth
+	  id:: 644f41fc-c677-4f24-8e83-bb5f8f98305a
 	- [How to Set Up a Reactivation Campaign to Win Back Inactive Email Subscribers](https://inboxcollective.com/how-to-set-up-a-reactivation-campaign-to-win-back-inactive-email-subscribers) for #Newsletter
 - ## Platforms
   collapsed:: true
 	- [Beehiiv](https://www.beehiiv.com/) - Lots of cool stuff and a free starter tier. What I use for #Adventureite.com
-- ## Affiliate Marketing Options
-  collapsed:: true
+- ## Monetization
 	- [Sparkloop](https://sparkloop.app/partner-network) - Get paid for recommending other newsletters
 	- [Swapstack](https://www.swapstack.co/) - Newsletter recommendations
 - ## Sources
+  collapsed:: true
 	- [^1]: https://www.newsletteroperator.com/
 	- [^2]:  https://inboxcollective.com/five-types-of-indie-newsletter-business-models
 	- [^3]: https://www.newsletteroperator.com/p/instagram-newsletter-growth
