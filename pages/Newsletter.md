@@ -1,5 +1,5 @@
 - ## User Journey
-	- Landing Page
+	- [[Newsletter Landing Page]]
 	- [[Thank You Page]]
 	- [[Welcome Email]]
 	-
@@ -16,6 +16,7 @@
 	- Choose a schedule that can be maintained, only increase when you are growing and monetizing successfully.
 		- This is almost always every 1 or 2 weeks.
 	- Use a repeatable content format that can be made into a simple template [^1]
+	- Use a pre-cta on social media with a "
 - ## Growth by Newsletter Size
   collapsed:: true
 	- 0 → 100: Friends, Family, Co-Workers
