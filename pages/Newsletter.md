@@ -16,7 +16,7 @@
 	- Choose a schedule that can be maintained, only increase when you are growing and monetizing successfully.
 		- This is almost always every 1 or 2 weeks.
 	- Use a repeatable content format that can be made into a simple template [^1]
-	- Use a pre-cta on social media with a "
+	- Use a pre-CTA on social media with a preview of what the next issue will cover the day before it goes out [^3]
 - ## Growth by Newsletter Size
   collapsed:: true
 	- 0 → 100: Friends, Family, Co-Workers
@@ -51,3 +51,4 @@
 - ## Sources
 	- [^1]: https://www.newsletteroperator.com/
 	- [^2]:  https://inboxcollective.com/five-types-of-indie-newsletter-business-models
+	- [^3]: https://www.newsletteroperator.com/p/instagram-newsletter-growth
