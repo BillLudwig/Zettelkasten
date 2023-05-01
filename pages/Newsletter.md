@@ -7,6 +7,10 @@
 		- Expert
 		- Reporter
 		- Writer
+	- Pick a name that is distinct and separate with it's own domain name (or tied to a blog that is it's own brand) [^1].
+	- Choose a schedule that can be maintained, only increase when you are growing and monetizing successfully.
+		- This is almost always every 1 or 2 weeks.
+	- Use a repeatable content format that can be made into a simple template [^1]
 - ## Growth by Newsletter Size
 	- 0 → 100: Friends, Family, Co-Workers
 		- This creates accountability to keep writing. I recommend starting with a weekly newsletter you publish on the same day and time every week.
