@@ -52,3 +52,4 @@
 	- [^1]: https://www.newsletteroperator.com/
 	- [^2]:  https://inboxcollective.com/five-types-of-indie-newsletter-business-models
 	- [^3]: https://www.newsletteroperator.com/p/instagram-newsletter-growth
+	- [^4]: https://www.newsletteroperator.com/p/26-newsletter-growth-channels
