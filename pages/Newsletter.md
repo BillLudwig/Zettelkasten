@@ -8,7 +8,7 @@
 		- Swap post-sign-up recommendations and feature each other’s newsletters in place of running ads. When doing cross promotions aim for click parity with your partners.
 	- 10k → 100k: Paid Ads + All of The Above
 		- Start testing Facebook (Meta) and Twitter ads with a small budget. You should be able to acquire subscribers for $1-$3.
-- ## General Growth
+- ## General Growth Tactics (Move to pages when there is content)
 	- Referral Program
 	- Lead Magnets
 	- Partner Giveaways
