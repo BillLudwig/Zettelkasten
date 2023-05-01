@@ -1,8 +1,22 @@
+- ## Growth by Newsletter Size
+	- 0 → 100: Friends, Family, Co-Workers
+		- This creates accountability to keep writing. I recommend starting with a weekly newsletter you publish on the same day and time every week.
+	- 100 → 5k: Publish on Twitter and LinkedIn Daily
+		- Commit to 1 post a day and 1-2 threads a week for 3 months. Focus on posting consistently. Don’t worry about engagement (likes, comments, shares) at first.
+		- Focus on converting views and followers to subscribers
+	- 5k → 10k: Cross-Recommendations and Cross-Promos
+		- Swap post-sign-up recommendations and feature each other’s newsletters in place of running ads. When doing cross promotions aim for click parity with your partners.
+	- 10k → 100k: Paid Ads + All of The Above
+		- Start testing Facebook (Meta) and Twitter ads with a small budget. You should be able to acquire subscribers for $1-$3.
+- ## General Growth
+	- Referral Program
+	- Lead Magnets
+	- Partner Giveaways
+	- Go on Podcasts
 - ## Links
 	- [How to Set Up a Reactivation Campaign to Win Back Inactive Email Subscribers](https://inboxcollective.com/how-to-set-up-a-reactivation-campaign-to-win-back-inactive-email-subscribers) for #Newsletter and #[[Email Marketing]]
 - ## Platforms
 	- [Beehiiv](https://www.beehiiv.com/) - Lots of cool stuff and a free starter tier
--
 - ## Affiliate Marketing Options
 	- [Sparkloop](https://sparkloop.app/partner-network) - Get paid for recommending other newsletters
 	- [Swapstack](https://www.swapstack.co/) - Newsletter recommendations
