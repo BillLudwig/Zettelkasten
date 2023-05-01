@@ -1,12 +1,12 @@
 - ## Tips and Notes
 	- Pick a niche you want to write about. Then go 2 niches deeper. [^1]
+	- Leverage existing reputation and platforms. Build those first, or at the same time.
 	- Pick a type of newsletter [^2]
 		- Analyst
-		- Curator - Pull together links and content into a single newsletter.
+		- Curator
 		- Expert
 		- Reporter
 		- Writer
-	- Write for a very specific audience
 - ## Growth by Newsletter Size
 	- 0 → 100: Friends, Family, Co-Workers
 		- This creates accountability to keep writing. I recommend starting with a weekly newsletter you publish on the same day and time every week.
@@ -22,6 +22,7 @@
 	- Lead Magnets
 	- Partner Giveaways
 	- Go on Podcasts
+	-
 - ## Links
 	- [How to Set Up a Reactivation Campaign to Win Back Inactive Email Subscribers](https://inboxcollective.com/how-to-set-up-a-reactivation-campaign-to-win-back-inactive-email-subscribers) for #Newsletter and #[[Email Marketing]]
 - ## Platforms
