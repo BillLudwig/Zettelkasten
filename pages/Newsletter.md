@@ -17,6 +17,7 @@
 	- 100 → 5k: Publish on Twitter and LinkedIn Daily
 		- Commit to 1 post a day and 1-2 threads a week for 3 months. Focus on posting consistently. Don’t worry about engagement (likes, comments, shares) at first.
 		- Focus on converting views and followers to subscribers
+		- At about 500 subscriptions swap recommendations with another small newsletter
 	- 5k → 10k: Cross-Recommendations and Cross-Promos
 		- Swap post-sign-up recommendations and feature each other’s newsletters in place of running ads. When doing cross promotions aim for click parity with your partners.
 	- 10k → 100k: Paid Ads + All of The Above
