@@ -9,6 +9,18 @@ tags:: Newsletter
 		- Read past newsletter issues or blog content [^1]
 		- Complete a survey [^1]
 - ## Examples
-	-
+	- https://www.morningbrew.com/daily/welcome
+	- https://www.marketingbrew.com/welcome
+	- https://thenewsette.com/thank-you
+	- https://thehustle.co/new-thank-you-v3
+	- https://www.thedailyupside.com/thank-you
+	- https://readthepeak.com/pages/highlights
+	- https://join1440.com/thanks-for-joining
+	- https://tip.news/welcome/
+	- https://marketingexamined.com/thank-you
+	- https://jamesclear.com/check-your-email
+	- https://www.demandcurve.com/
+	- https://www.stackedmarketer.com/
+	- https://creatorscience.com/purgatory/
 - ## Sources
 	- [^1]: https://www.newsletteroperator.com/p/easiest-way-to-increase-open-rate

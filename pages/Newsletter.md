@@ -1,3 +1,8 @@
+- ## User Journey
+	- Landing Page
+	- [[Thank You Page]]
+	- [[Welcome Email]]
+	-
 - ## Tips and Notes
 	- Pick a niche you want to write about. Then go 2 niches deeper. [^1]
 	- Leverage existing reputation and platforms. Build those first, or at the same time.
