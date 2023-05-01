@@ -7,5 +7,6 @@ tags:: Newsletter
 	- [Swapstack](https://www.swapstack.co/) - Newsletter recommendations
 - ## Links
 	- [A step by step guide for finding sponsors for your newsletter or podcast](https://www.indiehackers.com/post/a-step-by-step-guide-for-finding-sponsors-for-your-newsletter-or-podcast-5f656f7ff5)
+	- []
 - ## Sources
 -

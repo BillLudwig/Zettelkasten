@@ -47,9 +47,6 @@
 - ## Platforms
   collapsed:: true
 	- [Beehiiv](https://www.beehiiv.com/) - Lots of cool stuff and a free starter tier. What I use for #Adventureite.com
-- ## Monetization
-	- [Sparkloop](https://sparkloop.app/partner-network) - Get paid for recommending other newsletters
-	- [Swapstack](https://www.swapstack.co/) - Newsletter recommendations
 - ## Sources
   collapsed:: true
 	- [^1]: https://www.newsletteroperator.com/
