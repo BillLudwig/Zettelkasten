@@ -1,4 +1,4 @@
-tags:: Newsletter, Email Marketing
+tags:: Newsletter
 
 - ## Tips and Tricks
 	- Ask subscribers to move your emails to their priority inbox [^1]
