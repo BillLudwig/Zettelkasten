@@ -13,16 +13,18 @@ tags:: Newsletter
 	- 10k → 100k: Paid Ads + All of The Above
 		- Start testing Facebook (Meta) and Twitter ads with a small budget. You should be able to acquire subscribers for $1-$3. [^1]
 - ## By Growth Channels
+	- Content distribution: Repurpose your newsletter content to be shared on multiple platforms and formats (Twitter threads, LinkedIn, Medium, FB groups, Indie Hackers, Hacker News, Reddit, Slack groups, and more)
+		- See: https://marketingexamples.com/content/sharing
+	- Content syndication: Partner with a blog or media company to republish your newsletter on their website.
 	- Cross Promotions: Cross-recommend other newsletters in your newsletter. Like an ad slot but for newsletters you recommend.
-	- Forward to a friend
-	  
-	  Ask subscribers to forward your newsletter to a friend.
+	- Forward to a friend: Ask subscribers to forward your newsletter to a friend. (Include a link to subscribe in your newsletter.)
 	- Lead Magnets
 	- Milestone Referral Program
 		- [How Morning Brew’s referral program built an audience of 1.5 million subscribers](https://medium.com/the-mission/how-morning-brews-referral-program-built-an-audience-of-1-5-million-subscribers-3315482c1aa5)
+	- Online communities: Add value in FB groups, subreddits, hacker news, indie hackers other online communities. Link to your newsletter at the end of your post, in the comments and/or in your profile.
 	- Partner Giveaways
+	- Podcast guest: Go on podcasts in your niche. Talk about your newsletter on the podcast and ask the host to include a link to your newsletter in the show notes and podcast description.
 	- Referral Giveaways: Give away a product (or your time) for free. Readers enter to win by referring.
-	- Social Media
 - ## Growth Platforms
 	- [Lettergrowth](https://lettergrowth.com/) - Cross promotion platform for newsletter owners
 - ## Tips
