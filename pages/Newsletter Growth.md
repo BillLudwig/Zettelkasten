@@ -13,8 +13,8 @@ tags:: Newsletter
 		- Swap post-sign-up recommendations and feature each other’s newsletters in place of running ads. When doing cross promotions aim for click parity with your partners. [^1]
 	- 10k → 100k: Paid Ads + All of The Above
 		- Start testing Facebook (Meta) and Twitter ads with a small budget. You should be able to acquire subscribers for $1-$3. [^1]
--
 - ## Tips
+	- Have an optimized [[Newsletter Landing Page]]
 	- Content distribution: Repurpose your newsletter content to be shared on multiple platforms and formats (Twitter threads, LinkedIn, Medium, FB groups, Indie Hackers, Hacker News, Reddit, Slack groups, and more)
 		- See: https://marketingexamples.com/content/sharing
 	- Content syndication: Partner with a blog or media company to republish your newsletter on their website.

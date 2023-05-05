@@ -3,21 +3,25 @@ tags:: Newsletter, Conversion Rate Optimization
 - ## Tips and Tricks
 	- Use an optimized landing page with no other links or distractions [^1]
 	- Everything "Above the Fold" [^1]
-	- Only ask for an email address [^1]
 	- Page Headline
 		- Headline should focus on the user benefit
 		- Promise something the target user wants [^1]
 	- Page Copy
 		- What user gets
-		- When they get it
+		- When/how often they get it
 		- How long it takes to read
 		- Who reads or write (Authority)
 		- How many people read it (Social Proof)
 		- That it's free (if it's free)
+	- Signup Form
+		- Only ask for an email address [^1]
+		- Allow autocomplete
+		- Consider allowing 3rd party signup (Goolg)
 	- Emphasize how fast and easy it is for subscribers [^1]
 	- Make it believable with Authority and Social Proof [^1]
 	- Use testimonials if you have them (get them if you don't) [^1]
 - ## Examples
+  collapsed:: true
 	- [1440](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2pvaW4xNDQwLmNvbS8_dXRtX3NvdXJjZT13d3cubmV3c2xldHRlcm9wZXJhdG9yLmNvbSZ1dG1fbWVkaXVtPXJlZmVycmFsJnV0bV9jYW1wYWlnbj1ob3ctdG8tZG91YmxlLXlvdXItbmV3c2xldHRlci1zLWxhbmRpbmctcGFnZS1jb252ZXJzaW9uLXJhdGUiLCJwb3N0X2lkIjoiOGJjNDE1OWYtYjg0NC00MGNhLTk3ZDEtZGMxZWQ3MGFkNzgxIiwicHVibGljYXRpb25faWQiOiJmMmJjN2Y4ZC1lMzZmLTRiMWYtYjczNS0yOTAzY2JmODU2Y2QiLCJ2aXNpdF90b2tlbiI6IjE3NjVhY2ZmLTUyMmUtNGRjMS05M2ZmLTEyZjMxZmQxZTA2MSIsImlhdCI6MTY4MjkxMjA4OC4xMTYsImlzcyI6Im9yY2hpZCJ9.bi2RdTEsAyoV7PaAwXm91F9rSZnzcgafvEuNico1tPw)
 	- [TLDR](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3RsZHIudGVjaC8_dXRtX3NvdXJjZT13d3cubmV3c2xldHRlcm9wZXJhdG9yLmNvbSZ1dG1fbWVkaXVtPXJlZmVycmFsJnV0bV9jYW1wYWlnbj1ob3ctdG8tZG91YmxlLXlvdXItbmV3c2xldHRlci1zLWxhbmRpbmctcGFnZS1jb252ZXJzaW9uLXJhdGUiLCJwb3N0X2lkIjoiOGJjNDE1OWYtYjg0NC00MGNhLTk3ZDEtZGMxZWQ3MGFkNzgxIiwicHVibGljYXRpb25faWQiOiJmMmJjN2Y4ZC1lMzZmLTRiMWYtYjczNS0yOTAzY2JmODU2Y2QiLCJ2aXNpdF90b2tlbiI6IjE3NjVhY2ZmLTUyMmUtNGRjMS05M2ZmLTEyZjMxZmQxZTA2MSIsImlhdCI6MTY4MjkxMjA4OC4xMTYsImlzcyI6Im9yY2hpZCJ9.ECGyyYRQ6zK4efeONaTkSqENif1qosgYgqpj9slCJCs)
 	- [Chartr](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy5jaGFydHIuY28vc3Vic2NyaWJlP3V0bV9zb3VyY2U9d3d3Lm5ld3NsZXR0ZXJvcGVyYXRvci5jb20mdXRtX21lZGl1bT1yZWZlcnJhbCZ1dG1fY2FtcGFpZ249aG93LXRvLWRvdWJsZS15b3VyLW5ld3NsZXR0ZXItcy1sYW5kaW5nLXBhZ2UtY29udmVyc2lvbi1yYXRlIiwicG9zdF9pZCI6IjhiYzQxNTlmLWI4NDQtNDBjYS05N2QxLWRjMWVkNzBhZDc4MSIsInB1YmxpY2F0aW9uX2lkIjoiZjJiYzdmOGQtZTM2Zi00YjFmLWI3MzUtMjkwM2NiZjg1NmNkIiwidmlzaXRfdG9rZW4iOiIxNzY1YWNmZi01MjJlLTRkYzEtOTNmZi0xMmYzMWZkMWUwNjEiLCJpYXQiOjE2ODI5MTIwODguMTE2LCJpc3MiOiJvcmNoaWQifQ.JgjPeeyAtrMFannc54RQysA6wvjcQgAcQICHCQyFh94)
@@ -43,4 +47,5 @@ tags:: Newsletter, Conversion Rate Optimization
 	- [Contrarian Thinking](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2NvbnRyYXJpYW50aGlua2luZy5jby9qb2luLz91dG1fc291cmNlPXd3dy5uZXdzbGV0dGVyb3BlcmF0b3IuY29tJnV0bV9tZWRpdW09cmVmZXJyYWwmdXRtX2NhbXBhaWduPWhvdy10by1kb3VibGUteW91ci1uZXdzbGV0dGVyLXMtbGFuZGluZy1wYWdlLWNvbnZlcnNpb24tcmF0ZSIsInBvc3RfaWQiOiI4YmM0MTU5Zi1iODQ0LTQwY2EtOTdkMS1kYzFlZDcwYWQ3ODEiLCJwdWJsaWNhdGlvbl9pZCI6ImYyYmM3ZjhkLWUzNmYtNGIxZi1iNzM1LTI5MDNjYmY4NTZjZCIsInZpc2l0X3Rva2VuIjoiMTc2NWFjZmYtNTIyZS00ZGMxLTkzZmYtMTJmMzFmZDFlMDYxIiwiaWF0IjoxNjgyOTEyMDg4LjExNiwiaXNzIjoib3JjaGlkIn0.d2KfKgoLT9v4IpFHW-Rz_mBN-95oEfLbNpcuu78ItoI)
 	- [Marketing Examined](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL21hcmtldGluZ2V4YW1pbmVkLmNvbS9zdWJzY3JpYmUvP3V0bV9zb3VyY2U9d3d3Lm5ld3NsZXR0ZXJvcGVyYXRvci5jb20mdXRtX21lZGl1bT1yZWZlcnJhbCZ1dG1fY2FtcGFpZ249aG93LXRvLWRvdWJsZS15b3VyLW5ld3NsZXR0ZXItcy1sYW5kaW5nLXBhZ2UtY29udmVyc2lvbi1yYXRlIiwicG9zdF9pZCI6IjhiYzQxNTlmLWI4NDQtNDBjYS05N2QxLWRjMWVkNzBhZDc4MSIsInB1YmxpY2F0aW9uX2lkIjoiZjJiYzdmOGQtZTM2Zi00YjFmLWI3MzUtMjkwM2NiZjg1NmNkIiwidmlzaXRfdG9rZW4iOiIxNzY1YWNmZi01MjJlLTRkYzEtOTNmZi0xMmYzMWZkMWUwNjEiLCJpYXQiOjE2ODI5MTIwODguMTE2LCJpc3MiOiJvcmNoaWQifQ.2SKlU0JHE8VwKZF-jmLyDYEfIeay7OdjuNtRXcTzQqQ)
 - ## Sources
-- [^1]: https://www.newsletteroperator.com/p/how-to-double-your-newsletter-s-landing-page-conversion-rate
+	- [^1]: https://www.newsletteroperator.com/p/how-to-double-your-newsletter-s-landing-page-conversion-rate
+	- [^2]: https://inboxcollective.com/ways-to-grow-your-newsletter-list/
