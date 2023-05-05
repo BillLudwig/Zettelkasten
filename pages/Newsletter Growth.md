@@ -16,6 +16,11 @@ tags:: Newsletter
 - ## Tips
 	- Have an optimized [[Newsletter Landing Page]]
 	- Add sign-up to website header and/or navigation
+	- Add sign-up form in website footer
+	- Add newsletter icon in list of social icons
+	- Add sign-up CTA to every content piece
+	- Add sign-up form at bottom of content
+	- Use full-screen pop-ups [^2]
 	- Content distribution: Repurpose your newsletter content to be shared on multiple platforms and formats (Twitter threads, LinkedIn, Medium, FB groups, Indie Hackers, Hacker News, Reddit, Slack groups, and more)
 		- See: https://marketingexamples.com/content/sharing
 	- Content syndication: Partner with a blog or media company to republish your newsletter on their website.
