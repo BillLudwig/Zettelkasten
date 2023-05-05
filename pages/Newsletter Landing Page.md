@@ -1,8 +1,6 @@
 tags:: Newsletter, Conversion Rate Optimization
 
 - ## Tips and Tricks
-	- Use an optimized landing page with no other links or distractions [^1]
-	- Everything "Above the Fold" [^1]
 	- Page Headline
 		- Headline should focus on the user benefit
 		- Promise something the target user wants [^1]
@@ -15,11 +13,16 @@ tags:: Newsletter, Conversion Rate Optimization
 		- That it's free (if it's free)
 	- Signup Form
 		- Only ask for an email address [^1]
-		- Allow autocomplete
-		- Consider allowing 3rd party signup (Goolg)
+		- Allow autocomplete [^2]
+		- Consider allowing 3rd party signup (Google/Facebook) [^2]
+		- Use a tool like [Kickbox](https://kickbox.com/) to reject bots [^2]
+	- Use an optimized landing page with no other links or distractions [^1]
+	- Everything "Above the Fold" [^1]
 	- Emphasize how fast and easy it is for subscribers [^1]
 	- Make it believable with Authority and Social Proof [^1]
 	- Use testimonials if you have them (get them if you don't) [^1]
+	- Show an image of the newsletter [^2]
+	- Link to past issues
 - ## Examples
   collapsed:: true
 	- [1440](https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL2pvaW4xNDQwLmNvbS8_dXRtX3NvdXJjZT13d3cubmV3c2xldHRlcm9wZXJhdG9yLmNvbSZ1dG1fbWVkaXVtPXJlZmVycmFsJnV0bV9jYW1wYWlnbj1ob3ctdG8tZG91YmxlLXlvdXItbmV3c2xldHRlci1zLWxhbmRpbmctcGFnZS1jb252ZXJzaW9uLXJhdGUiLCJwb3N0X2lkIjoiOGJjNDE1OWYtYjg0NC00MGNhLTk3ZDEtZGMxZWQ3MGFkNzgxIiwicHVibGljYXRpb25faWQiOiJmMmJjN2Y4ZC1lMzZmLTRiMWYtYjczNS0yOTAzY2JmODU2Y2QiLCJ2aXNpdF90b2tlbiI6IjE3NjVhY2ZmLTUyMmUtNGRjMS05M2ZmLTEyZjMxZmQxZTA2MSIsImlhdCI6MTY4MjkxMjA4OC4xMTYsImlzcyI6Im9yY2hpZCJ9.bi2RdTEsAyoV7PaAwXm91F9rSZnzcgafvEuNico1tPw)
