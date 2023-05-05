@@ -2,6 +2,7 @@ tags:: Newsletter
 
 -
 - ## By Newsletter Size
+  collapsed:: true
 	- 0 → 100: Friends, Family, Co-Workers
 		- This creates accountability to keep writing. I recommend starting with a weekly newsletter you publish on the same day and time every week. [^1]
 	- 100 → 5k: Publish on Twitter and LinkedIn Daily
@@ -12,7 +13,8 @@ tags:: Newsletter
 		- Swap post-sign-up recommendations and feature each other’s newsletters in place of running ads. When doing cross promotions aim for click parity with your partners. [^1]
 	- 10k → 100k: Paid Ads + All of The Above
 		- Start testing Facebook (Meta) and Twitter ads with a small budget. You should be able to acquire subscribers for $1-$3. [^1]
-- ## By Growth Channels
+-
+- ## Tips
 	- Content distribution: Repurpose your newsletter content to be shared on multiple platforms and formats (Twitter threads, LinkedIn, Medium, FB groups, Indie Hackers, Hacker News, Reddit, Slack groups, and more)
 		- See: https://marketingexamples.com/content/sharing
 	- Content syndication: Partner with a blog or media company to republish your newsletter on their website.
@@ -26,7 +28,8 @@ tags:: Newsletter
 	- Podcast guest: Go on podcasts in your niche. Talk about your newsletter on the podcast and ask the host to include a link to your newsletter in the show notes and podcast description.
 	- Referral Giveaways: Give away a product (or your time) for free. Readers enter to win by referring.
 - ## Growth Platforms
+  collapsed:: true
 	- [Lettergrowth](https://lettergrowth.com/) - Cross promotion platform for newsletter owners
-- ## Tips
 - ## Sources
-- [^1]: https://www.newsletteroperator.com/p/instagram-newsletter-growth
+	- [^1]: https://www.newsletteroperator.com/p/instagram-newsletter-growth
+	- [^2]: https://inboxcollective.com/ways-to-grow-your-newsletter-list/
