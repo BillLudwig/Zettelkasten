@@ -1,3 +1,5 @@
+tags:: Marketing
+
 - ## User Journey
   collapsed:: true
 	- [[Newsletter Landing Page]]
