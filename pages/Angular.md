@@ -3,6 +3,15 @@ tags:: WebDev
 - ## Router
 	- Router data as component @Input() added in v16 (this is really cool)
 		- https://angular.io/api/router/withComponentInputBinding
+	- Functional Router Guards should reduce boilerplate Since 15
+		- Can run guards in sequence. [See test code](https://github.com/angular/angular/blob/8546b17adec01de69bf314a959ef2d12f6638eb9/packages/router/test/integration.spec.ts#L5157-L5194)
+	- [Advancements in the Angular Router](https://blog.angular.io/advancements-in-the-angular-router-5d69ec4c032) Since 14.2
+		- Better tree-shaking in the Router removing the old `HashLocationStrategy` and SSR code if not used
+			- Saves about 11% of the router code size
+		- No longer need to import RouterModule directly.
+			- New: `providers: [provideRouter(appRoutes)]`
+			- Old: `providers: [importProvidersFrom(RouterModule.forRoot(appRoutes))]`
+		- No longer need to have the `.then(m => m.Component)` boilerplate as these are unwrapped by default.
 - ## Signals (since v16)
   id:: 6446f9d8-e843-4046-808f-e610f213bbef
   collapsed:: true
@@ -28,6 +37,8 @@ tags:: WebDev
 	- Standalone migration schematics added in v16
 		- `ng generate @angular/core:standalone`
 		- `ng new my-app --standalone`
+- ## Misc Notes
+	- [Image Directive](https://developer.chrome.com/blog/angular-image-directive/) is now stable since v15 and does automatic `srcset` generation
 - ## References
 	- ### Forms
 		- [Safer Forms With Strict Types](https://www.youtube.com/watch?v=Z-vwuG_szVk) [[Angular]] [[Video]] by Dylan Hunn via ng-conf. #[[November 17th, 2022]]
