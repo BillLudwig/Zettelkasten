@@ -1,7 +1,11 @@
 tags:: WebDev
 
-- ## Signals
+- ## Signals (since v16)
   id:: 6446f9d8-e843-4046-808f-e610f213bbef
+	- Core Concepts aka Reactive Primitives
+		- signal - like a variable but notifies Angular when it changes
+		- computed - calculates value based on signals and notifies Angular when the calculated value changes
+		- effect - functions that executes whenever the signal they use changes
 	- Links to check out
 		- ((64470d37-7c60-4347-8dbd-061c702a7997))
 	- Videos to watch
