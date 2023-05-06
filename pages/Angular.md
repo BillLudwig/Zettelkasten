@@ -1,5 +1,10 @@
 tags:: WebDev
 
+- ## Builder
+	- Since v16 Vite + esbuild is in developer preview.
+		- Enable with `"builder": "@angular-devkit/build-angular:browser-esbuild"` in angular.json
+- ## Components
+-
 - ## Router
 	- Router data as component @Input() added in v16 (this is really cool)
 		- https://angular.io/api/router/withComponentInputBinding
@@ -47,7 +52,8 @@ tags:: WebDev
 		- `ng new my-app --standalone`
 - ## Misc Notes
 	- [Image Directive](https://developer.chrome.com/blog/angular-image-directive/) is now stable since v15 and does automatic `srcset` generation
-	- takeUntilDestroyed() is available with
+	- takeUntilDestroyed() is available with `@angular/core/rxjs-interop` to make completing streams easier
+		- `data$ = http.get('…').pipe(takeUntilDestroyed());`
 - ## References
 	- ### Forms
 		- [Safer Forms With Strict Types](https://www.youtube.com/watch?v=Z-vwuG_szVk) [[Angular]] [[Video]] by Dylan Hunn via ng-conf. #[[November 17th, 2022]]
