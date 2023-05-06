@@ -14,13 +14,16 @@ tags:: WebDev
 		- No longer need to have the `.then(m => m.Component)` boilerplate as these are unwrapped by default.
 - ## Signals (since v16)
   id:: 6446f9d8-e843-4046-808f-e610f213bbef
-  collapsed:: true
 	- Core Concepts aka Reactive Primitives
 		- signal - like a variable but notifies Angular when it changes
 		- computed - calculates value based on signals and notifies Angular when the calculated value changes
 		- effect - functions that executes whenever the signal they use changes
+	- `zone.js` is still needed for now (as of v16)
+	- Might need `@angular/core/rxjs-interop` with v16 but unclear
+		- TODO: Investigate RXJS/Angular Signals
 	- Links to check out
 		- ((64470d37-7c60-4347-8dbd-061c702a7997))
+		- [Sub-RFC 3: Signal-based Components](https://github.com/angular/angular/discussions/49682)
 	- Videos to watch
 		- [Angular is about to get its most IMPORTANT change in a long time...](https://www.youtube.com/watch?v=4FkFmn0LmLI) - Good overview of Signals by Joshua Morony
 		- [Why didn't the Angular team just use RxJS instead of Signals?](https://www.youtube.com/watch?v=iA6iyoantuo) - More about Signals vs RxJS from Joshua Morony
