@@ -57,7 +57,7 @@ tags:: WebDev
 		- `data$ = http.get('…').pipe(takeUntilDestroyed());`
 	- Self closing component tags are available since v16
 	- `ngOnDestroy` is more flexible and injectable since v16
-	- [[Content Security Policy]] support for inline-styles since v16
+	- [Content Security Policy](https://angular.io/guide/security#content-security-policy) support for inline-styles since v16
 - ## References
 	- ### Forms
 		- [Safer Forms With Strict Types](https://www.youtube.com/watch?v=Z-vwuG_szVk) [[Angular]] [[Video]] by Dylan Hunn via ng-conf. #[[November 17th, 2022]]

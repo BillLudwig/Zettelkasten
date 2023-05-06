@@ -7,7 +7,9 @@ tags:: Dev
 	  id:: 6373ab78-9e73-4608-9124-5225076f233c
 	- [The Shared Element Transition API is FLIPping Cool](https://chriscoyier.net/2022/10/21/the-shared-element-transition-api-is-fliping-cool/) by Chris Coyier #WebDev
 	  id:: 6373ac40-74fd-4fcd-8418-f7bf46e8798e
-- ## Animation & Cool Effects
+- Performance
+	- [Speed Up Your Site Instantly With Lazy Loaded Images - Advanced Lazy Loading](https://blog.webdevsimplified.com/2023-05/lazy-load-images/) #WebDev
+	  id:: 6455d50c-1937-462c-ac03-dd739fb551ec
 - ## References
 	- [The Difference Between Web Sockets, Web Workers, and Service Workers](https://css-tricks.com/the-difference-between-web-sockets-web-workers-and-service-workers/) by Aisha Bukar #[[November 3rd, 2022]]
 		- Web Socket: Establishes an open and persistent two-way connection between the browser and server to send and receive messages over a single connection triggered by events.
