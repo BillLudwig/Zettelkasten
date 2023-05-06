@@ -1,7 +1,6 @@
 tags:: WebDev, Angular
 
 - ## Big Changes
-  collapsed:: true
 	- {{video https://www.youtube.com/watch?v=-n0WhqabSmc}}
 	- [Standalone Components](https://angular.io/guide/standalone-components) are out of developer preview
 		- {{video https://www.youtube.com/watch?v=x5PZwb4XurU}}
