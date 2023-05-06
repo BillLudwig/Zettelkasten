@@ -4,7 +4,8 @@ tags:: WebDev
 	- Since v16 Vite + esbuild is in developer preview.
 		- Enable with `"builder": "@angular-devkit/build-angular:browser-esbuild"` in angular.json
 - ## Components
--
+	- Since v16 @Input()'s can be marked as required
+		- `@Input({ required: true }) title: string = '';`
 - ## Router
 	- Router data as component @Input() added in v16 (this is really cool)
 		- https://angular.io/api/router/withComponentInputBinding
@@ -37,7 +38,7 @@ tags:: WebDev
 	- Videos to watch
 		- [Angular is about to get its most IMPORTANT change in a long time...](https://www.youtube.com/watch?v=4FkFmn0LmLI) - Good overview of Signals by Joshua Morony
 		- [Why didn't the Angular team just use RxJS instead of Signals?](https://www.youtube.com/watch?v=iA6iyoantuo) - More about Signals vs RxJS from Joshua Morony
-- ## Standalone APIs (Since v15)
+- ## Standalone Components (Since v15)
 	- A way to create components that do not need to be included into a ngModule.
 		- https://angular.io/guide/standalone-components
 		- ```
@@ -54,6 +55,7 @@ tags:: WebDev
 	- [Image Directive](https://developer.chrome.com/blog/angular-image-directive/) is now stable since v15 and does automatic `srcset` generation
 	- takeUntilDestroyed() is available with `@angular/core/rxjs-interop` to make completing streams easier
 		- `data$ = http.get('…').pipe(takeUntilDestroyed());`
+	- Self closing component tags are available since v16
 - ## References
 	- ### Forms
 		- [Safer Forms With Strict Types](https://www.youtube.com/watch?v=Z-vwuG_szVk) [[Angular]] [[Video]] by Dylan Hunn via ng-conf. #[[November 17th, 2022]]
