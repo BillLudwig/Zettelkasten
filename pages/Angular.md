@@ -19,8 +19,13 @@ tags:: WebDev
 		- computed - calculates value based on signals and notifies Angular when the calculated value changes
 		- effect - functions that executes whenever the signal they use changes
 	- `zone.js` is still needed for now (as of v16)
-	- Might need `@angular/core/rxjs-interop` with v16 but unclear
-		- TODO: Investigate RXJS/Angular Signals
+	- `@angular/core/rxjs-interop` allows you to *lift* signals to observables and vice versa
+		- ```
+		  import { toObservable, signal } from '@angular/core/rxjs-interop';
+		  
+		  count = signal(0);
+		  count$ = toObservable(this.count);
+		  ```
 	- Links to check out
 		- ((64470d37-7c60-4347-8dbd-061c702a7997))
 		- [Sub-RFC 3: Signal-based Components](https://github.com/angular/angular/discussions/49682)
@@ -42,6 +47,7 @@ tags:: WebDev
 		- `ng new my-app --standalone`
 - ## Misc Notes
 	- [Image Directive](https://developer.chrome.com/blog/angular-image-directive/) is now stable since v15 and does automatic `srcset` generation
+	- takeUntilDestroyed() is available with
 - ## References
 	- ### Forms
 		- [Safer Forms With Strict Types](https://www.youtube.com/watch?v=Z-vwuG_szVk) [[Angular]] [[Video]] by Dylan Hunn via ng-conf. #[[November 17th, 2022]]
