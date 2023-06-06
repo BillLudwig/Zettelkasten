@@ -6,7 +6,16 @@ tags:: SEO
 	- [Moz Beginner's Guide to Link Building](https://moz.com/beginners-guide-to-link-building)
 	- [Link Prospecting Guide by Gisele Navarro](https://neomam.com/blog/link-prospecting)
 	- [Eve Link Building Framework](https://www.animalz.co/blog/the-eve-framework-of-content-led-link-building)
-		-
+		- Education: Provide educational content
+			- Original studies — research efforts that result in new information
+			- Data analysis — analysis of public or proprietary data that yields new insights
+			- “Definitive” guides — coverage of important topics in a systematic way
+			- Statistics pages — a curation of up-to-date statistics that saves research time
+			- Listicles — a content structure that simplifies a huge number of details and examples
+			- Infographics — helpful visuals of specific concepts, figures, or processes
+		- Validation: Feel Supported or Challenged
+			- Thought leadership — earned secrets, counter-narrative opinions, and personal narrative content can inspire others and invite them to share their perspective while referencing or rebuking yours
+			- Awards and rankings — giving awards to people or including them in “best of” rankings validates their work, making it more likely they’ll link to such an award
 - ## Ideas
 	- ((640948ad-0fd1-4a04-b7b3-513b47f07b45))
 	- ((640948e3-9193-419b-8532-3ebfee34b77e))
