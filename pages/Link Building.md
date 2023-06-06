@@ -16,6 +16,10 @@ tags:: SEO
 		- Validation: Feel Supported or Challenged
 			- Thought leadership — earned secrets, counter-narrative opinions, and personal narrative content can inspire others and invite them to share their perspective while referencing or rebuking yours
 			- Awards and rankings — giving awards to people or including them in “best of” rankings validates their work, making it more likely they’ll link to such an award
+		- Empowerment:
+			- Tools: generators, graders, analyzers, and other web tools that simplify and speed up processes, such as: - Shopify’s [business name generator](https://www.shopify.com/tools/business-name-generator), Squarespace’s [free logo maker](https://www.squarespace.com/logo), Ookla’s [web speed tester](https://www.speedtest.net/), Animalz’ Revive [content decay analyzer](https://revive.animalz.co/)
+			- Quizzes & surveys: a list of questions that help readers learn about themselves or about their employees, customers, or other audiences, such as: Madison Reed’s [hair color quiz](https://www.madison-reed.com/color-advisor), Consalia’s [mindset survey](https://www.consalia.com/mindset-survey/)
+			-
 - ## Ideas
 	- ((640948ad-0fd1-4a04-b7b3-513b47f07b45))
 	- ((640948e3-9193-419b-8532-3ebfee34b77e))
