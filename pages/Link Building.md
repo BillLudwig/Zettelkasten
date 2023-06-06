@@ -6,6 +6,7 @@ tags:: SEO
 	- [Moz Beginner's Guide to Link Building](https://moz.com/beginners-guide-to-link-building)
 	- [Link Prospecting Guide by Gisele Navarro](https://neomam.com/blog/link-prospecting)
 	- [Eve Link Building Framework](https://www.animalz.co/blog/the-eve-framework-of-content-led-link-building)
+	  id:: 647fad85-dc26-4952-be05-92f863b9a9d2
 		- Education: Provide educational content
 			- Original studies — research efforts that result in new information
 			- Data analysis — analysis of public or proprietary data that yields new insights
@@ -19,7 +20,9 @@ tags:: SEO
 		- Empowerment:
 			- Tools: generators, graders, analyzers, and other web tools that simplify and speed up processes, such as: - Shopify’s [business name generator](https://www.shopify.com/tools/business-name-generator), Squarespace’s [free logo maker](https://www.squarespace.com/logo), Ookla’s [web speed tester](https://www.speedtest.net/), Animalz’ Revive [content decay analyzer](https://revive.animalz.co/)
 			- Quizzes & surveys: a list of questions that help readers learn about themselves or about their employees, customers, or other audiences, such as: Madison Reed’s [hair color quiz](https://www.madison-reed.com/color-advisor), Consalia’s [mindset survey](https://www.consalia.com/mindset-survey/)
-			-
+			- Calculators: quantitative methods that put a numerical value on a specific process, such as: Clearbit’s [Total Addressable Market Calculator](https://clearbit.com/resources/tools/tam-calculator), Empire Flippers’ [online business valuation calculator](https://empireflippers.com/valuation-tool/), Capture Commerce’s [Ecommerce ROI forecast calculator](https://www.capturecommerce.com/ecommerce-marketing-forecast-calculator/)
+			- Templates: ready-made templates that enable users to get value out of a product fast and for free, such as: Canva’s [free templates](https://www.canva.com/templates/), Miro’s [Templates Library](https://miro.com/templates/)
+			- Tactical guides: no fluff, purely tactics-focused content that empowers readers to take a specific action, such as: Animalz’ [The Animalz Method for Writing High-Quality Content](https://www.animalz.co/blog/quality-content/), Ahrefs’ [How to Use Ahrefs: 11 Actionable Use Cases for Beginners](https://ahrefs.com/blog/how-to-use-ahrefs/)
 - ## Ideas
 	- ((640948ad-0fd1-4a04-b7b3-513b47f07b45))
 	- ((640948e3-9193-419b-8532-3ebfee34b77e))
