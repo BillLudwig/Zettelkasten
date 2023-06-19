@@ -47,3 +47,5 @@ tags:: Dev
 	  id:: 642b6cc0-fb09-4d71-8b65-2e7311efb1a2
 	- [BundlePhobia](https://bundlephobia.com/) - # find the cost of adding a npm package to your bundle. #Javascript
 	  id:: 6490c672-65c4-4ea0-8ffb-6b94dc197878
+	- [jscanify](https://github.com/ColonelParrot/jscanify) - Open-source #Javascript mobile document scanner.
+	  id:: 6490d89a-b1c3-4b2d-8112-acdf2ead273c
