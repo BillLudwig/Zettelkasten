@@ -32,5 +32,9 @@ tags:: CSS
 	    scroll-padding-block-end: 8vh;
 	  }
 	  ```
+- Apply smooth scrolling when user hasn't set motion preference to "reduce"
+	- ```
+	  ```
 - Sources:
 	- 1:: https://moderncss.dev/modern-css-for-dynamic-component-based-architecture
+	  2:: https://css-irl.info/reducing-complexity-in-front-end-development
