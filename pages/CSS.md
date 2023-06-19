@@ -54,6 +54,7 @@ tags:: WebDev
 		    animation-duration: 0.001s !important; 
 		  }
 		  ```
+	- Use `:has` and `:nth-child(x) for quantity detection and styling`
 - ## Visibility
 	- `: hidden` - Keeps height and width
 	- `: none` - Hides everything within a container
