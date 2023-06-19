@@ -19,6 +19,18 @@ tags:: CSS
 	    outline-offset: var(--outline-offset, var(--outline-size));
 	  }
 	  ```
--
+- Scroll padding to put space between top/bottom of viewport and anchor target (this doesn't work without JavaScript if you have sticky headers or footers) [^1]
+	- ```
+	  /* Scroll padding allowance above anchor links */
+	  :target {
+	    scroll-padding-block-start: 2rem;
+	  }
+	  ```
+	- ```
+	  /* Scroll padding allowance below focused elements to ensure they are clearly in view */
+	  :focus {
+	    scroll-padding-block-end: 8vh;
+	  }
+	  ```
 - Sources:
 	- 1:: https://moderncss.dev/modern-css-for-dynamic-component-based-architecture
