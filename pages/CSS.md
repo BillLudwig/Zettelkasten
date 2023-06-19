@@ -46,11 +46,11 @@ tags:: WebDev
 		    animation-duration: 0.001s !important; 
 		  }
 		  ```
-	- ### Visibility
-		- `: hidden` - Keeps height and width
-		- `: none` - Hides everything within a container
-		- use `content-visibility: hidden` to hide the contents of a container without keeping their height and width
-		-
+- ## Visibility
+	- `: hidden` - Keeps height and width
+	- `: none` - Hides everything within a container
+	- use `content-visibility: hidden` to hide the contents of a container without keeping their height and width
+	-
 - ## References
 	- [What CSS Do You Absolutely Have to Know in 2022](https://css-tricks.com/what-css-do-you-absolutely-have-to-know-in-2022/) by Geoff Graham #[[November 8th, 2022]]
 	- [Practical CSS Guide for Busy Developers](https://codefrontend.com/css-guide/) by Vincas Stonys #[[October 28th, 2022]]
@@ -60,3 +60,6 @@ tags:: WebDev
 	  id:: 6377ab8f-e56d-4bf1-a484-1df9a3d7791c
 	- [What should someone learn if they last boned up during CSS3](https://css-tricks.com/whats-new-since-css3/) by Chris Coyier. #[[August 25th, 2022]]
 	  id:: 6377be6b-89e0-4885-933a-9b418e9824aa
+	- [Modern CSS For Dynamic Component-Based Architecture](https://moderncss.dev/modern-css-for-dynamic-component-based-architecture/) by Stephanie Eckles #CSS
+	  id:: 64909307-ba8f-43f8-989e-a61deb4eafd4
+	- [Standardizing Focus Styles With CSS Custom Properties](https://css-tricks.com/standardizing-focus-styles-with-css-custom-properties/) by Stephanie Eckles
