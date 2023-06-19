@@ -72,3 +72,5 @@ tags:: WebDev
 	- [Modern CSS For Dynamic Component-Based Architecture](https://moderncss.dev/modern-css-for-dynamic-component-based-architecture/) by Stephanie Eckles #CSS
 	  id:: 64909307-ba8f-43f8-989e-a61deb4eafd4
 	- [Standardizing Focus Styles With CSS Custom Properties](https://css-tricks.com/standardizing-focus-styles-with-css-custom-properties/) by Stephanie Eckles #CSS
+	- [Rebuilding a comment component with modern CSS](https://ishadeed.com/article/comment-component) by Ahmad Shadeed #CSS
+	  id:: 6490e1c3-90af-4a41-b9e4-d9c30d3043d5
