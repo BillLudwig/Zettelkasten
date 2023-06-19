@@ -16,3 +16,4 @@ tags:: CSS
 	- The list of media features you can use in Media Queries extends beyond just viewport width and height. You can adapt your website to the user’s needs and preferences: color scheme, pixel density, reduced motion, etc. But not only that! With this new behavior in mind, we can make sure that only relevant styles are render-blocking.
 	- Safari doesn’t support this behavior
 		- TODO Check if the big recent Safari update added support
+-
