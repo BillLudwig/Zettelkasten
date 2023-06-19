@@ -1,4 +1,4 @@
-tags:: #appsec
+tags:: #InfoSec
 
 - Also known as Null Byte Injection, the term poison null byte was originally coined by [Olaf Kirch](https://www.suse.com/c/author/okir/)
   id:: 636550fc-e9b2-4852-84d2-e1a4ae259691
