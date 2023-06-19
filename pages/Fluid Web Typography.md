@@ -59,6 +59,43 @@ tags:: CSS
 	    --font-size-2: calc(var(--font-size-3) * var(--type-ratio));
 	    --font-size-1: calc(var(--font-size-2) * var(--type-ratio));
 	  }
+	  
+	  h1,
+	  .h1 {
+	    --font-size: var(--font-size-1);
+	    font-size: var(--font-size);
+	  }
+	  
+	  h2,
+	  .h2 {
+	    --font-size: var(--font-size-2);
+	    font-size: var(--font-size);
+	  }
+	  
+	  h3,
+	  .h3 {
+	    --font-size: var(--font-size-3);
+	    font-size: var(--font-size);
+	  }
+	  
+	  h4,
+	  .h4 {
+	    --font-size: var(--font-size-4);
+	    font-size: var(--font-size);
+	  }
+	  
+	  @supports (font-size: 1cqi) {
+	    :is(h1, .h1, h2, .h2, h3, .h3, h4, .h4, .fluid-type) {
+	      --_font-min: var(--font-size) - var(--font-size) * var(--font-size-diff, 0.3);
+	  
+	      font-size: clamp(
+	        max(var(--body-font-size), var(--_font-min)),
+	        var(--_font-min) + 1cqi,
+	        var(--font-size)
+	      );
+	    }
+	  }
 	  ```
 - ## References
 	- 1:: https://moderncss.dev/container-query-units-and-fluid-typography/
+	- [Modern Fluid Typography Using CSS Clamp] by Adrian Bece #[[Fluid Web Typography]]
