@@ -41,7 +41,8 @@ tags:: CSS
 		    }
 		  }
 		  ```
--
+- ## Resources
+	- [My Custom CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/) by Josh Comeau
 - Sources:
 	- 1:: https://moderncss.dev/modern-css-for-dynamic-component-based-architecture
 	  2:: https://css-irl.info/reducing-complexity-in-front-end-development
