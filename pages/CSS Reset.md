@@ -34,6 +34,11 @@ tags:: CSS
 	  ```
 - Apply smooth scrolling when user hasn't set motion preference to "reduce"
 	- ```
+	  @media (prefers-reduced-motion: no-preference) {
+	    html {
+	      scroll-behavior: smooth;
+	    }
+	  }
 	  ```
 - Sources:
 	- 1:: https://moderncss.dev/modern-css-for-dynamic-component-based-architecture
