@@ -28,6 +28,18 @@ tags:: WebDev
 	- You can style the button portion of input[type=file] with `::file-selector-button`
 	- [[Using Picture And Source Tags To Prevent Loading Hero Image On Mobile Devices]] #CSS
 	  id:: 641a4e8a-d968-4070-9010-037ef3d67753
+	- Style buttons with/without an icon differently using `:where` and `.has`
+		- ```
+		  .button:where(:has(.icon)) {
+		    display: flex;
+		    gap: 0.5em;
+		    align-items: center;
+		  }
+		  .button:where(:not(:has(.icon))) {
+		    text-align: center;
+		    min-inline-size: 10ch;
+		  }
+		  ```
 	- [Prevent Transitions as a Page is Loading](https://chriscoyier.net/2023/04/05/prevent-transitions-as-a-page-is-loading/) #CSS
 	  id:: 642e31ea-abb1-4bb0-afc9-154b63cf0d08
 		- ```
