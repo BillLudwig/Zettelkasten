@@ -2,7 +2,7 @@ title:: The 10 Immutable Laws of Testing by telerik.com
 author:: telerik.com
 full-title:: "The 10 Immutable Laws of Testing"
 url:: https://www.telerik.com/blogs/10-immutable-laws-testing
-tags:: Dev
+tags:: Testing
 
 - ## Notes
 	- 1. The bug count measures what annoys our users the most.

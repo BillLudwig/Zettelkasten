@@ -21,4 +21,17 @@ tags:: Dev
 		  logseq.order-list-type:: number
 			- ((6490c517-25fb-4875-b561-3b62ae60710e))
 			  logseq.order-list-type:: number
-			- logseq.order-list-type:: number
+			- ((6490c672-65c4-4ea0-8ffb-6b94dc197878))
+			  logseq.order-list-type:: number
+		- Don’t include unused dependencies
+		  logseq.order-list-type:: number
+		- Support #A11y
+		  logseq.order-list-type:: number
+		- Use semantic markup
+		  logseq.order-list-type:: number
+		- Avoid unnecessary re-rendering
+		  logseq.order-list-type:: number
+		- Sanitize user inputs
+		  logseq.order-list-type:: number
+		- Make your code as clean as possible
+		  logseq.order-list-type:: number

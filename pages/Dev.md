@@ -1,0 +1,3 @@
+- ## References
+	- [9 Senior Developer Mental Models Every Programmer Should Master](https://dev.to/dragosnedelcu/9-senior-developer-mental-models-every-programmer-should-master-1jlk) by Dragos Nedelcu #Dev
+		-

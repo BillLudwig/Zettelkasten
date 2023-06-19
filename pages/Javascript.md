@@ -45,3 +45,5 @@ tags:: Dev
 	  id:: 642b6cbf-efad-442d-8185-031755ad92dd
 	- [DgrmJS](https://github.com/AlexeyBoiko/DgrmJS) [[Javascript]] library for creating SVG flow diagrams
 	  id:: 642b6cc0-fb09-4d71-8b65-2e7311efb1a2
+	- [BundlePhobia](https://bundlephobia.com/) - # find the cost of adding a npm package to your bundle. #Javascript
+	  id:: 6490c672-65c4-4ea0-8ffb-6b94dc197878
