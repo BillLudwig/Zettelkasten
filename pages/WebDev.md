@@ -19,4 +19,6 @@ tags:: Dev
 	  id:: 6490c42e-4ecf-433d-85c5-58bd7c959dcb
 		- Minimize bundle size
 		  logseq.order-list-type:: number
+			- ((6490c517-25fb-4875-b561-3b62ae60710e))
+			  logseq.order-list-type:: number
 			- logseq.order-list-type:: number
