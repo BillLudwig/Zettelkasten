@@ -15,3 +15,8 @@ tags:: Dev
 		- Web Socket: Establishes an open and persistent two-way connection between the browser and server to send and receive messages over a single connection triggered by events.
 		- Web Worker: Allows scripts to run in the background in separate threads to prevent scripts from blocking one another on the main thread.
 		- Service Worker: A type of Web Worker that creates a background service that acts middleware for handling network requests between the browser and server, even in offline situations.
+	- [Before your next frontend pull request, use this checklist](https://evilmartians.com/chronicles/before-your-next-frontend-pull-request-use-this-checklist) - #WebDev checklist
+	  id:: 6490c42e-4ecf-433d-85c5-58bd7c959dcb
+		- Minimize bundle size
+		  logseq.order-list-type:: number
+			- logseq.order-list-type:: number

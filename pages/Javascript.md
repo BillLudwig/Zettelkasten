@@ -15,3 +15,7 @@ tags:: Dev
 		- tldr; showing an error message is the last resort
 	- [Modern Errors] - small library for error handling #Javascript
 	  id:: 641a5183-6764-4436-9553-8247334687ee
+	- [Size-Limit](https://github.com/ai/size-limit) - Calculate the real cost to run your #Javascript app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.
+	- ((645da9c5-9b41-4e47-8827-fd49f3f0f714))
+	- ((644b3ef4-dcc6-4e09-bda7-81ec59304e67))
+	-
