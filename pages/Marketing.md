@@ -7,7 +7,7 @@
 			- Ask for votes
 			- Announce Winner
 		- Opportunity to get signups to [[Newsletter]] at each stage
-	- [[Pressure Reducing Phrases in Marketing]]
+	- [[Pressure Reducing Phrases]]
 - ## Misc Tools
 	- [Namelix](https://namelix.com/) - Business name generator based on keywords #Marketing
 	  id:: 64093f06-3ddf-4a05-b5ca-1bdace23facb
