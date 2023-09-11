@@ -65,6 +65,7 @@
 		- The Key - Kryx System, The Key Space Station
 	- Starter Ship Loadout
 		- 4x Disruptor 3300 Electron Beam (Might need to go to New Homestead)
+		- Spark 750 Suppressor
 		- Magellan C1 Cockpit (flip and put landing gear under cockpit)
 		- Deimos Companionway 1x1
 		- Deimos 2x1 Control Station
