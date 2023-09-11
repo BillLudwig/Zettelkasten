@@ -1,5 +1,6 @@
 - ## Character Stuff
-	- Removing Traits::1
+	- Removing Traits [^1]
+	  collapsed:: true
 		- | Alien DNA | Pay 10,000 Credits at a medical facility, i.e. Reliant Medical |
 		  | Dream Home | Sell the house at the Galbank Office in New Atlantis |
 		  | Empath | Pay 10,000 Credits at a medical facility, i.e. Reliant Medical |
@@ -63,3 +64,6 @@
 		- The Red Mile - Porrima System, Porrima III
 		- The Den - Wolf System, The Den
 		- The Key - Kryx System, The Key Space Station
+-
+- Links
+	- 1:: https://progameguides.com/starfield/how-to-remove-all-traits-in-starfield/
