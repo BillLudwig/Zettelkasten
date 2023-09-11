@@ -1,0 +1,5 @@
+- Weapon Tiers & Rarity
+	- Tier is roughly based on character level
+		- Base > Calibrated > Refined > Advanced
+	- Rarity just adds traits which doesn't guarantee a better weapon
+		- Common = 0 > Rare = 1 > Epic = 2 > Legendary = 3
