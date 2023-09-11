@@ -51,7 +51,6 @@
 		  | Staggering | Small chance to **stagger** enemies. |
 		  | Titanium Build | Premium build materials make this weapon **light as a feather**. |
 - ## Ships
-  collapsed:: true
 	- Ship Factory Locations
 		- New Atlantis - Alpha Centauri System, Jemison
 		- Akila City - Cheyenne System, Akila
@@ -64,6 +63,7 @@
 		- The Red Mile - Porrima System, Porrima III
 		- The Den - Wolf System, The Den
 		- The Key - Kryx System, The Key Space Station
--
+	- Starter Ship Loadout
+		- 4x Disruptor 3300 Electron Beam
 - Links
 	- 1:: https://progameguides.com/starfield/how-to-remove-all-traits-in-starfield/
