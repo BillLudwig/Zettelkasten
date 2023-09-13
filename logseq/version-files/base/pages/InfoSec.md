@@ -1,0 +1,5 @@
+- ## Resources
+	- [Awesome Sec Challenges](https://github.com/mikeprivette/awesome-sec-challenges) - A curated list of Awesome Security Challenges.
+- ## Tools
+	- ((63a3a25a-d9c6-404e-93fb-c5702aaf17bd))
+	- [Bomber](https://github.com/devops-kung-fu/bomber) - Open Source SBOM scanner for security vulnerabilities #InfoSec

@@ -1,5 +1,3 @@
-tags:: CSS
-
 - Source: https://www.bennadel.com/blog/4360-using-picture-and-source-tags-to-prevent-loading-hero-image-on-mobile-devices.htm
 - ```
   <!---

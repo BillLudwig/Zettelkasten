@@ -2,7 +2,7 @@ title:: Hacking Your Offensive Security Career by munrobotic.com
 author:: munrobotic.com
 full-title:: "Hacking Your Offensive Security Career"
 url:: https://www.munrobotic.com/p/hacking-your-offensive-security-career
-tags:: InfoSec
+tags:: OffSec
 
 - ## Notes
 	- Consistent personal development is not unique to our field; however, it is one of the most important elements. The motivation for learning needs to come from you and be supported by your employer and/or mentors.

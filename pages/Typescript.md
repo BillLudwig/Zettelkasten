@@ -31,6 +31,4 @@
 		- [File watching improvements](https://github.com/tc39/proposal-grouped-and-auto-accessors)
 		- Finally added remove unused/sort imports command for IDEs
 	-
-- ## References
-	- [Understanding TypeScript's Powerful Type Assertions Through Practical Examples](https://peterkellner.net//2023/06/15/Understanding-TypeScript-Type-Assertions/) by Peter G. Kellner #Typescript
-	  id:: 64909fd3-0384-4aa5-ae95-bbc16048b194
+-

@@ -1,5 +1,9 @@
 tags:: WebDev
 
+- ## Reference Videos
+- ## Media Queries
+	- [Personalize It!](https://css-tricks.com/personalize-it/) Using preference-query [[CSS]] for [[A11y]] by Una Kravets
+	  id:: 6377c180-d2eb-437a-919d-fd2a58ce8c02
 - ## Tips and Tricks
 	- [Style a parent element based on its number of children using CSS `:has()`](https://www.bram.us/2022/11/17/style-a-parent-element-based-on-its-number-of-children-using-css-has)
 	  id:: 637963df-b27f-4cd6-adcc-7312ed841ca2
@@ -28,18 +32,6 @@ tags:: WebDev
 	- You can style the button portion of input[type=file] with `::file-selector-button`
 	- [[Using Picture And Source Tags To Prevent Loading Hero Image On Mobile Devices]] #CSS
 	  id:: 641a4e8a-d968-4070-9010-037ef3d67753
-	- Style buttons with/without an icon differently using `:where` and `.has`
-		- ```
-		  .button:where(:has(.icon)) {
-		    display: flex;
-		    gap: 0.5em;
-		    align-items: center;
-		  }
-		  .button:where(:not(:has(.icon))) {
-		    text-align: center;
-		    min-inline-size: 10ch;
-		  }
-		  ```
 	- [Prevent Transitions as a Page is Loading](https://chriscoyier.net/2023/04/05/prevent-transitions-as-a-page-is-loading/) #CSS
 	  id:: 642e31ea-abb1-4bb0-afc9-154b63cf0d08
 		- ```
@@ -54,12 +46,11 @@ tags:: WebDev
 		    animation-duration: 0.001s !important; 
 		  }
 		  ```
-	- Use `:has` and `:nth-child(x) for quantity detection and styling`
-- ## Visibility
-	- `: hidden` - Keeps height and width
-	- `: none` - Hides everything within a container
-	- use `content-visibility: hidden` to hide the contents of a container without keeping their height and width
-	-
+	- ### Visibility
+		- `: hidden` - Keeps height and width
+		- `: none` - Hides everything within a container
+		- use `content-visibility: hidden` to hide the contents of a container without keeping their height and width
+		-
 - ## References
 	- [What CSS Do You Absolutely Have to Know in 2022](https://css-tricks.com/what-css-do-you-absolutely-have-to-know-in-2022/) by Geoff Graham #[[November 8th, 2022]]
 	- [Practical CSS Guide for Busy Developers](https://codefrontend.com/css-guide/) by Vincas Stonys #[[October 28th, 2022]]
@@ -69,8 +60,3 @@ tags:: WebDev
 	  id:: 6377ab8f-e56d-4bf1-a484-1df9a3d7791c
 	- [What should someone learn if they last boned up during CSS3](https://css-tricks.com/whats-new-since-css3/) by Chris Coyier. #[[August 25th, 2022]]
 	  id:: 6377be6b-89e0-4885-933a-9b418e9824aa
-	- [Modern CSS For Dynamic Component-Based Architecture](https://moderncss.dev/modern-css-for-dynamic-component-based-architecture/) by Stephanie Eckles #CSS
-	  id:: 64909307-ba8f-43f8-989e-a61deb4eafd4
-	- [Standardizing Focus Styles With CSS Custom Properties](https://css-tricks.com/standardizing-focus-styles-with-css-custom-properties/) by Stephanie Eckles #CSS
-	- [Rebuilding a comment component with modern CSS](https://ishadeed.com/article/comment-component) by Ahmad Shadeed #CSS
-	  id:: 6490e1c3-90af-4a41-b9e4-d9c30d3043d5

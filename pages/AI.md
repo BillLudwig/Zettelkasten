@@ -20,7 +20,7 @@
 - ## Video
 	- [Pictory](https://pictory.ai/) - AI Video generator that works from long form text content. Currently $23 a month for 30 videos. #AI #Video
 	  id:: 642e3a27-1e76-4dcd-9048-cff97a111a8b
-	- [Scrip AI](https://scripai.com/) - Free tool for generating 30/60 second video scripts with #AI #Video
+	- [Scrip AI](https://scripai.com/) - Free tool for generating 30/60 second video scripts with #AI
 	  id:: 642b6cbe-aebc-419b-8204-532817103ab3
 - ## Audio
 	- [MURF.AI](https://murf.ai/) - #AI powered text to voice service

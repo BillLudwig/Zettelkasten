@@ -33,13 +33,11 @@
 	- LATER [OSINT Beginners Course](https://training.kapsuungroup.com/courses/osint-beginners-course) – basics of OSINT, Internet collection, tools, social media and more. Ran by the Kapsuun Group who have another basic course on operational security that can go hand in hand with the OSINT one – [How to Keep Safe Online](https://training.kapsuungroup.com/courses/how-to-keep-safe-online).
 	- LATER [OSINT Dojo](https://www.osintdojo.com/ranks/) – learn by doing, so not exactly a training course per se, but the hands on practice in completing tasks to achieve each rank can earn you some cool digital badges.
 	- LATER [OSINT Mini](https://courses.thecyberinst.org/courses/osintmini) – courtesy of the Cyber Institute. Taught by an experienced former law enforcement professional from South Africa.
-	- LATER [[Maltego]] Foundations 1
-	- LATER [[Maltego]] Foundations 2
-	- LATER [[Maltego]] Advanced
+	- LATER Maltego Foundations 1
+	- LATER Maltego Foundations 2
+	- LATER Maltego Advanced
 - # #[[Project Management]]
 	- ((6387f45f-e23d-4e98-88b7-ca17ba883bf3))
-- ## #SEO
-	- ((6490a492-c8ab-421b-a870-5fcc52d0b036))
 - # #Windows
 	- ((6387f45f-c478-4f15-aa10-a28ae0268db3))
 -
