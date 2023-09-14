@@ -55,6 +55,7 @@
 		- Aluminum = 14, Beryllium = 2, Cobalt = 10, Fiber = 2, Iron = 20, Nickel = 15, Tungsten = 16, Zero Wire = 2
 		- Bessel > Bessel 111-b > Biome between mountains, hills, and desert
 		- Look for Aluminum, Iron, Cobalt, and Nickel
+		- Wind turbine x2 for power > 1 Aluminum Extractor & bed > sleep > Nickel & Cobalt > sleep > Iron Extractor > sleep > workbench >
 - ## Ships
   collapsed:: true
 	- Ship Factory Locations
