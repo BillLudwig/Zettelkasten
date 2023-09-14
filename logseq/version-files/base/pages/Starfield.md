@@ -1,4 +1,4 @@
-- ## Character Stuff
+## Character Stuff
 	- Removing Traits [^1]
 	  collapsed:: true
 		- | Alien DNA | Pay 10,000 Credits at a medical facility, i.e. Reliant Medical |
@@ -50,7 +50,13 @@
 		  | Space-Adept | +30% damage **while in space**, and -15% damage **while on a planet**. |
 		  | Staggering | Small chance to **stagger** enemies. |
 		  | Titanium Build | Premium build materials make this weapon **light as a feather**. |
+- ## Outposts
+	- XP Farm Outpost
+		- Aluminum = 14, Beryllium = 2, Cobalt = 10, Fiber = 2, Iron = 20, Nickel = 15, Tungsten = 16, Zero Wire = 2
+		- Bessel > Bessel 111-b > Biome between mountains, hills, and desert
+		- Look for Aluminum, Iron, Cobalt, and Nickel
 - ## Ships
+  collapsed:: true
 	- Ship Factory Locations
 		- New Atlantis - Alpha Centauri System, Jemison
 		- Akila City - Cheyenne System, Akila
