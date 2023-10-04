@@ -42,7 +42,9 @@ tags:: CSS
 		  }
 		  ```
 - ## Resources
-	- [My Custom CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/) by Josh Comeau
+	- ~~[My Custom CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/) by Josh Comeau~~
+	- Andy Bell released a [(more) Modern CSS Reset](https://docs.google.com/document/d/1r07qSL2lhu36qILXzNIGr9D_m0GPqjsQub4lXl4CJG4/edit?usp=sharing) that I'll be using on all my new projects. #[[CSS Reset]]
+	  id:: 651cc728-1ca7-4672-a236-805320b272cf
 - Sources:
 	- 1:: https://moderncss.dev/modern-css-for-dynamic-component-based-architecture
 	  2:: https://css-irl.info/reducing-complexity-in-front-end-development
