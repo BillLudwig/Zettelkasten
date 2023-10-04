@@ -1,5 +1,6 @@
 tags:: Marketing, Email Marketing
 
+- ## [[Email Templates]]
 - ## Cold Email Marketing
 	- Increasing Response Rate
 		- Research Your Recipient’s Pain Points and include answers in your content
