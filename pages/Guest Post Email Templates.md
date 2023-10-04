@@ -1,4 +1,4 @@
-tags:: Email Marketing, Email Templates, Guest Posting
+tags:: Email Templates, Guest Posting
 
 - ## I can help you rank for [keyword]
 	- ```
