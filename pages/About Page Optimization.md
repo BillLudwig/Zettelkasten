@@ -10,6 +10,6 @@ tags:: Conversion Rate Optimization, WebDev
 	- ### Story
 		- Should explain the history, current status, and future goals
 	- ### Social Proof
-		-
+		- Include testimonials, partner logos, etc.
 - ## References
 	- 1:: https://marketinginsidergroup.com/content-marketing/create-the-perfect-about-us-page
