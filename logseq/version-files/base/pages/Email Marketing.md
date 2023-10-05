@@ -1,5 +1,13 @@
 tags:: Marketing, Email Marketing
 
+- ## Increasing Open Rate
+	- Words that correlate with higher open rates
+		- "Most Popular"
+		- "Emoji"
+		- "Pre-Black Friday"
+		- "Holiday"
+		- "Just In"
+		- "Back in Stock"
 - ## Cold Email Marketing
 	- Increasing Response Rate
 		- Research Your Recipient’s Pain Points and include answers in your content
