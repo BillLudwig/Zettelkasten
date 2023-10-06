@@ -86,8 +86,4 @@ tags:: WebDev
 			  ```
 - ## References
 	- [What CSS Do You Absolutely Have to Know in 2022](https://css-tricks.com/what-css-do-you-absolutely-have-to-know-in-2022/) by Geoff Graham #[[November 8th, 2022]]
-	- [Practical CSS Guide for Busy Developers](https://codefrontend.com/css-guide/) by Vincas Stonys #[[October 28th, 2022]]
-	- [Keeping Your CSS Small: scopes, containers, and other new stuff](https://www.youtube.com/watch?v=bz0sMsCiU1c) [[CSS]] [[Video]] by Tab Atkins-Bittner Sept, 9 2022
-	  id:: 6373dc00-ac71-44a7-818f-015a3a05f561
-	- [What should someone learn if they last boned up during CSS3](https://css-tricks.com/whats-new-since-css3/) by Chris Coyier. #[[August 25th, 2022]]
-	  id:: 6377be6b-89e0-4885-933a-9b418e9824aa
+	- [Practical CSS Guide for Busy Developers](https://codefrontend.com/css-guide/) by Vincas Stonys
