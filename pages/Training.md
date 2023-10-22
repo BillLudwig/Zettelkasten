@@ -10,7 +10,7 @@
 	- LATER [PowerShell for Beginners](https://www.youtube.com/watch?v=UVUd9_k9C6A) – full tutorial from scratch on using PowerShell for various task management needs.
 	- ((63898d7f-fcd6-4606-92e3-e913d6b35dad))
 - # #DevSec
-	- DOING [APISec University](https://university.apisec.ai/) - dedicated to providing training courses for application Security professionals.
+	- DOING [APISec University](https://university.apisec.ai/) - dedicated to providing training courses for application Security professionals. [[API Security Course Notes]]
 	  id:: 642b6cc2-5535-4dc1-9f30-1735b4bb8fd7
 	- ((6387f45f-08d1-422c-a784-2a7d4c97c77c))
 	- LATER [CISCO Introduction to Cybersecurity](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity) - beginner level; 15h of self paced content; focuses on cyber trends, threats and some recent industry developments. No prerequisites required.

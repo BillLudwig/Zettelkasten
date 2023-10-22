@@ -46,4 +46,3 @@ tags:: Dev
 	  id:: 6387f45f-6d84-4667-8bda-e5bb5353a033
 	- DONE [Intro to Defensive Security](https://tryhackme.com/room/defensivesecurity) At TryHackMe.com
 	  id:: 6387f45f-23c7-401b-a730-c5feeb3fa204
-	- DOING [[API Security Course Notes]]
