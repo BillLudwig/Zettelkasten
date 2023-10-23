@@ -13,6 +13,24 @@ link:: https://university.apisec.ai/products/api-security-fundamentals
 				- Enforces security
 			- Components
 				- Awareness
+					- Know Your APIs
+						- Get full inventory APIs
+						- Purpose, owner, documentation
+						- Standardize and enforce API deployment process
+						- Existence of "shadow/rogue" APIs sign of weak governance
+						- APIs only deployed in approved ways, with proper validation
+						- Enforce governance at Gateway, Marketplace
+						- Mandate API Documentation
+						- Make sure APIs are consistent and reusable
+						- Define documentation requirements
+						- Create API Development standards
+						- Style guides, authentication requirements, versioning, PII tracking
+					- Know Your Risks — Threat Modeling
+						- Identify: APIs, business flows, data, access paths
+						- Assess: vulnerabilities, logic flaws, access controls, 3rd party risk
+						- Probability: examine the likelihood of an attack
+						- Impact: understand the damage, loss, consequences of an attack
+						- Mitigation: develop a plan to address the risk
 				- Policy & Process
 		- #### Testing
 		- #### Monitoring
