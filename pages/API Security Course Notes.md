@@ -77,22 +77,40 @@ id:: 65359126-88ed-40b5-8345-0ff39bded37e
 				- Pen-testing
 		- #### Monitoring
 			- Runtime Protection
+			  collapsed:: true
 				- Policy enforcement
 				- Authentication
 				- Traffic filtering
 			- Threat Detection
+			  collapsed:: true
 				- Fraudulent traffic
 				- Distributed attacks
 				- Incident response
 			- Control Validation
+			  collapsed:: true
 				- Verify API controls
 				- Uncover anomalies
 			- Types of Monitoring
 				- Proactive: Blocking
+				  collapsed:: true
 					- API Gateway
 					- Web App Firewall
 				- Reactive: Alerting
+				  collapsed:: true
 					- Logging, SIEM
 					- Runtime API Threat Management
+				- API Discovery
+				  collapsed:: true
+					- Monitoring can aid API inventory efforts
+						- Identify API endpoints in use
+						- Discover undocumented/unknown APIs
+					- Comprehensive discovery requires more sources:
+						- API Gateway, Web Application Firewall
+						- Code repository
+						- Application testing, crawling
+					- Reliance on traffic based-discovery misses:
+						- Internal API traffic not seen by traffic analysis tool
+						- Pre-production APIs
+						- Unexercised endpoints
 - ## Footnotes
 	- [^1]: https://university.apisec.ai/products/api-security-fundamentals
