@@ -46,6 +46,7 @@ id:: 65359126-88ed-40b5-8345-0ff39bded37e
 						- Versioning — when to increment, when not, types of versions
 						- Units, Formats, Standards — date/time formats, timezones
 		- #### Testing
+		  collapsed:: true
 			- "Standard playbook" test categories offer limited value
 				- Cross-site scripting, injection, buffer overflow
 				- Important to run these tests to avoid bot-based attacks
@@ -75,5 +76,23 @@ id:: 65359126-88ed-40b5-8345-0ff39bded37e
 				- Role-based access control
 				- Pen-testing
 		- #### Monitoring
+			- Runtime Protection
+				- Policy enforcement
+				- Authentication
+				- Traffic filtering
+			- Threat Detection
+				- Fraudulent traffic
+				- Distributed attacks
+				- Incident response
+			- Control Validation
+				- Verify API controls
+				- Uncover anomalies
+			- Types of Monitoring
+				- Proactive: Blocking
+					- API Gateway
+					- Web App Firewall
+				- Reactive: Alerting
+					- Logging, SIEM
+					- Runtime API Threat Management
 - ## Footnotes
 	- [^1]: https://university.apisec.ai/products/api-security-fundamentals
