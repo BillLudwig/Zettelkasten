@@ -1,5 +1,6 @@
 tags:: Cyber
 link:: https://university.apisec.ai/products/api-security-fundamentals
+id:: 65359126-88ed-40b5-8345-0ff39bded37e
 
 - ## API Security Fundamentals [^1]
 	- ### OWASP API Security Top 10
@@ -25,6 +26,7 @@ link:: https://university.apisec.ai/products/api-security-fundamentals
 						- Define documentation requirements
 						- Create API Development standards
 						- Style guides, authentication requirements, versioning, PII tracking
+					- Know Your Data
 					- Know Your Risks — Threat Modeling
 						- Identify: APIs, business flows, data, access paths
 						- Assess: vulnerabilities, logic flaws, access controls, 3rd party risk
@@ -32,6 +34,15 @@ link:: https://university.apisec.ai/products/api-security-fundamentals
 						- Impact: understand the damage, loss, consequences of an attack
 						- Mitigation: develop a plan to address the risk
 				- Policy & Process
+					- Engineering Processes
+					- Design Guides: Promote Governance, Consistency
+						- Authentication — type (basic, token, certificate), how to implement
+						- Authorization — who has access to what, where enforced
+						- Naming Conventions — URIS as nouns, Methods as verbs, pluralization, hierarchy, case, language, no jargon/abbreviations
+						- Error Codes — status codes, reference ID, human readable messages
+						- Versioning — when to increment, when not, types of versions
+						- Units, Formats, Standards — date/time formats, timezones
+					-
 		- #### Testing
 		- #### Monitoring
 - ## Footnotes
