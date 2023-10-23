@@ -91,6 +91,7 @@ id:: 65359126-88ed-40b5-8345-0ff39bded37e
 				- Verify API controls
 				- Uncover anomalies
 			- Types of Monitoring
+			  collapsed:: true
 				- Proactive: Blocking
 				  collapsed:: true
 					- API Gateway
@@ -112,5 +113,17 @@ id:: 65359126-88ed-40b5-8345-0ff39bded37e
 						- Internal API traffic not seen by traffic analysis tool
 						- Pre-production APIs
 						- Unexercised endpoints
+			- Limitations of Monitoring
+			  collapsed:: true
+				- Difficult to get full visibility
+					- Requires sensors on every network segment
+				- High false positives on threat detection
+					- Live traffic contains limited context
+					- Difficult to identify data access violations in real-time
+					- API monitoring tools typically used in alert only
+				- SaaS-based monitoring requires sharing traffic with 3rd parties
+					- Privacy concerns
+					- Bandwidth requirements
+				- Traffic blocking solutions can add latency
 - ## Footnotes
 	- [^1]: https://university.apisec.ai/products/api-security-fundamentals
