@@ -16,16 +16,16 @@ id:: 65359126-88ed-40b5-8345-0ff39bded37e
 				- Awareness
 					- Know Your APIs
 						- Get full inventory APIs
-						- Purpose, owner, documentation
+							- Purpose, owner, documentation
 						- Standardize and enforce API deployment process
-						- Existence of "shadow/rogue" APIs sign of weak governance
-						- APIs only deployed in approved ways, with proper validation
-						- Enforce governance at Gateway, Marketplace
+							- Existence of "shadow/rogue" APIs sign of weak governance
+							- APIs only deployed in approved ways, with proper validation
+							- Enforce governance at Gateway, Marketplace
 						- Mandate API Documentation
-						- Make sure APIs are consistent and reusable
-						- Define documentation requirements
+							- Make sure APIs are consistent and reusable
+							- Define documentation requirements
 						- Create API Development standards
-						- Style guides, authentication requirements, versioning, PII tracking
+							- Style guides, authentication requirements, versioning, PII tracking
 					- Know Your Data
 					- Know Your Risks — Threat Modeling
 						- Identify: APIs, business flows, data, access paths
@@ -35,6 +35,8 @@ id:: 65359126-88ed-40b5-8345-0ff39bded37e
 						- Mitigation: develop a plan to address the risk
 				- Policy & Process
 					- Engineering Processes
+					- API Documentation
+						- Just Use Swagger!!
 					- Design Guides: Promote Governance, Consistency
 						- Authentication — type (basic, token, certificate), how to implement
 						- Authorization — who has access to what, where enforced
@@ -42,7 +44,6 @@ id:: 65359126-88ed-40b5-8345-0ff39bded37e
 						- Error Codes — status codes, reference ID, human readable messages
 						- Versioning — when to increment, when not, types of versions
 						- Units, Formats, Standards — date/time formats, timezones
-					-
 		- #### Testing
 		- #### Monitoring
 - ## Footnotes
