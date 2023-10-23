@@ -51,6 +51,29 @@ id:: 65359126-88ed-40b5-8345-0ff39bded37e
 				- Important to run these tests to avoid bot-based attacks
 				- API breaches rarely exploit these
 				- Major breaches typically business logic flaws
+			- API Security
+				- Endpints
+				- Authentication exploits
+				- Enumeration
+				- App DOS, rate limiting
+				- Missing TLS, SSL issues
+				- Injection, fuzzing
+				- Fuzzing, input validation
+				- Server-side resource forgery
+				- Server properties leaks
+			- Data Security
+				- Access control
+				- Excessive data
+				- Sensitive data
+				- Personal. health, bank data
+				- File, directory
+				- Encryption at rest
+				- Data exfiltration
+			- Business Logic
+				- Cross-æcount access
+				- Apr function abuse
+				- Role-based access control
+				- Pen-testing
 		- #### Monitoring
 - ## Footnotes
 	- [^1]: https://university.apisec.ai/products/api-security-fundamentals
