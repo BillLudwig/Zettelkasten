@@ -7,6 +7,7 @@ id:: 65359126-88ed-40b5-8345-0ff39bded37e
 		- [[OWASP Top Ten]]
 	- ### 3 Pillars of API Security
 		- #### Governance
+		  collapsed:: true
 			- Benefits
 				- Consistancy
 				- Sets expectations for engineering team
@@ -45,6 +46,7 @@ id:: 65359126-88ed-40b5-8345-0ff39bded37e
 						- Versioning — when to increment, when not, types of versions
 						- Units, Formats, Standards — date/time formats, timezones
 		- #### Testing
+		  collapsed:: true
 			- "Standard playbook" test categories offer limited value
 				- Cross-site scripting, injection, buffer overflow
 				- Important to run these tests to avoid bot-based attacks
@@ -74,6 +76,7 @@ id:: 65359126-88ed-40b5-8345-0ff39bded37e
 				- Role-based access control
 				- Pen-testing
 		- #### Monitoring
+		  collapsed:: true
 			- Runtime Protection
 			  collapsed:: true
 				- Policy enforcement
@@ -123,5 +126,26 @@ id:: 65359126-88ed-40b5-8345-0ff39bded37e
 					- Privacy concerns
 					- Bandwidth requirements
 				- Traffic blocking solutions can add latency
+		- #### Best Practices
+			- Enforce API governance and establish central API control
+				- Gateway, marketplace platform
+				- No API goes live without passing gates (docs, testing, security)
+			- Create comprehensive testing program
+				- Test every endpoint across all OWASP attack types and more
+				- Evaluate every data object, user type and function for logic flaws
+				- Leverage automation for comprehensive test coverage
+		- #### API Do's and Don'ts
+			- Don't trust anything (inputs/network)
+			- Do validate all inputs (not just user)
+			- Don't confuse obfuscation with security — keep sensitive stuff out of code
+			- Don't hardcode keys/tokens
+			- Don't reveal useful info in error messages
+			- Don't have hidden/unadvertised features
+			- Don't filter data in IJI — control at app level
+			- Don't confuse authentication with authorization
+			- Do use Gateways to control access, traffic
+			- Do require API documentation
+			- Do expect users/hackers to find and use undocumented endpoints
+			- Do continuously test — attack simulate, test configs, fuzzing, injections, auth, ...
 - ## Footnotes
 	- [^1]: https://university.apisec.ai/products/api-security-fundamentals
