@@ -7,6 +7,7 @@ id:: 65359126-88ed-40b5-8345-0ff39bded37e
 		- [[OWASP Top Ten]]
 	- ### 3 Pillars of API Security
 		- #### Governance
+		  collapsed:: true
 			- Benefits
 				- Consistancy
 				- Sets expectations for engineering team
@@ -45,6 +46,11 @@ id:: 65359126-88ed-40b5-8345-0ff39bded37e
 						- Versioning — when to increment, when not, types of versions
 						- Units, Formats, Standards — date/time formats, timezones
 		- #### Testing
+			- "Standard playbook" test categories offer limited value
+				- Cross-site scripting, injection, buffer overflow
+				- Important to run these tests to avoid bot-based attacks
+				- API breaches rarely exploit these
+				- Major breaches typically business logic flaws
 		- #### Monitoring
 - ## Footnotes
 	- [^1]: https://university.apisec.ai/products/api-security-fundamentals
