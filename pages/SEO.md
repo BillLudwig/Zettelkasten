@@ -2,6 +2,7 @@ tags:: Marketing
 
 - ## Fundamentals
 	- [[SEO Basics]]
+	- [[SEO Tools]]
 	- [[Keyword Research]]
 		- [[SEO Google Dorks]]
 	- [[Competitor Analysis]]
@@ -12,6 +13,7 @@ tags:: Marketing
 	- [[SEO Audit]]
 	- [[Internal Linking]]
 	- [[Structured Data]]
+		- [[Schema Markup]]
 	- [[Featured Snippets]]
 - ## Content
 	- [[Blogging]]
