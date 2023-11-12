@@ -3,12 +3,12 @@ tags:: OSINT
 - ## Workflows
 	- ### Finding Information on License Plate Number
 		- Google for the plate number. Use both spaces and without spaces.
-		- Use ((63741902-b1b1-4cdd-b1a4-66ffbbca4888)) For Plate Number
+		- Use  For Plate Number
 		- Use Facebook Search for plate number
 		- Use [[SkipTracer]] plate search
 	- ### Finding Information on VIN Numbers
 		- Google for the VIN number
-		- Use ((63741902-b1b1-4cdd-b1a4-66ffbbca4888)) For VIN
+		- Use  For VIN
 		-
 - ## Tools
 	- [Poctra](https://poctra.com/) - Salvage car auction history with great search (includes VIN number)
