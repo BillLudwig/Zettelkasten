@@ -22,9 +22,9 @@ tags:: Marketing
 	- Use a pre-CTA on social media with a preview of what the next issue will cover the day before it goes out [^3]
 - ## Links
   collapsed:: true
-	- [ConvertKit Creator Network](https://convertkit.com/features/creator-network) - Collaboration platform for #Newsletter growth
+	- [ConvertKit Creator Network](https://convertkit.com/features/creator-network) - Collaboration platform for #Newsletters growth
 	  id:: 644f41fc-c677-4f24-8e83-bb5f8f98305a
-	- [How to Set Up a Reactivation Campaign to Win Back Inactive Email Subscribers](https://inboxcollective.com/how-to-set-up-a-reactivation-campaign-to-win-back-inactive-email-subscribers) for #Newsletter
+	- [How to Set Up a Reactivation Campaign to Win Back Inactive Email Subscribers](https://inboxcollective.com/how-to-set-up-a-reactivation-campaign-to-win-back-inactive-email-subscribers) for #Newsletters
 - ## Platforms
   collapsed:: true
 	- [Beehiiv](https://www.beehiiv.com/) - Lots of cool stuff and a free starter tier. What I use for #Adventureite.com

@@ -1,3 +1,3 @@
-tags:: Marketing, Blogging
+tags:: Blogging
 
 -
