@@ -5,7 +5,7 @@ tags:: Marketing
 	- [[SEO Tools]]
 	- [[SEO Training]]
 	- [[Keyword Research]]
-		- [[SEO Google Dorks]]
+	- [[SEO Google Dorks]]
 	- [[Competitor Analysis]]
 	- [[Link Building]]
 	- [[Content Optimization]]
