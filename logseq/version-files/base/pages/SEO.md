@@ -3,6 +3,7 @@ tags:: Marketing
 - ## Fundamentals
 	- [[SEO Basics]]
 	- [[SEO Tools]]
+	- [[SEO Training]]
 	- [[Keyword Research]]
 		- [[SEO Google Dorks]]
 	- [[Competitor Analysis]]
