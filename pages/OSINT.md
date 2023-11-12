@@ -12,8 +12,6 @@
 	  id:: 6446f68f-c555-43f7-b9f7-47fc61d98e20
 - ## Online Search Resources
   id:: 63741902-b1b1-4cdd-b1a4-66ffbbca4888
-	- ### Public Records
-		- [InfoTracer](https://infotracer.com/)
 	- ### Telephone Numbers
 		- [Free Carrier Lookup](https://www.freecarrierlookup.com/): Get carrier for any given phone number
 	- ### Other Search Engines
