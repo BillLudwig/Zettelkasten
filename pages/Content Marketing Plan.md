@@ -12,7 +12,9 @@ tags:: Content Marketing
 		- [[Email Marketing]]
 - ## How to Create
 	- Start with a [[Content Strategy]] to determine the Why/What/Who
-	- Use [[Keyword Research]] to find target keywords and build [[Topical Authority]]
+	- Use [[Keyword Research]] to find target keywords and build [[Topical Authority]] clusters
 	- Do [[Competitor Analysis]] to find weaknesses and further build out topic clusters
 	- Create [[Content Briefs]]
-	-
+	- Create an [[Editorial Calendar]]
+	- Create an [[Editorial Checklist]]
+	- Create a plan to promote/distribute content

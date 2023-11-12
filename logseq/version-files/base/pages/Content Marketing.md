@@ -1,5 +1,1 @@
-tags:: Blogging
-
-- [[Content Strategy]]
-- [[Content Marketing Plan]]
--
+tags:: Marketing

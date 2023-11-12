@@ -1,4 +1,4 @@
-tags:: Marketing
+tags:: Content Marketing
 
 - ## Content Types
 	- [[How-To Blog Posts]]
