@@ -6,7 +6,9 @@ tags:: SEO
 	- Topic Clusters and Map
 		- Organize keywords and topics into related clusters of pillar content and sub-topics
 	- Publish content optimized for each topic and keyword
-	- Structure blog content around the pillar content with interlinking
+		- Match searcher intent for the keyword
+	- Structure blog content around the pillar content with interlinking between related articles
+	- Build contextually related backlinks from external websites and resources
 - # References
 	- [Importance of Topical Authority: A Semantic SEO Case Study](https://www.oncrawl.com/technical-seo/importance-topical-authority-semantic-seo/)
 	  collapsed:: true
