@@ -11,6 +11,8 @@ tags:: Content Marketing
 		- *Sources*
 			- [How to create how-to content in 7 steps](https://searchengineland.com/create-how-to-content-395618) - Step by step guide for creating a "how to" article. #Blogging
 	- [[Round-Up Blog Posts]]
+	- Can You Do [X] With [Y]
+	- Best [X] For [Y]
 - ## Traffic Sources
 	- [[Content Syndication]]
 	- [[Content Marketing]]
