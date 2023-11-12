@@ -1,4 +1,4 @@
-tags:: OSINT, SOCMINT, Social
+tags:: Social Media
 
 - > I use this more than Twitter, but that's not saying much. You can follow me at https://infosec.exchange/@GhostMaker
 -

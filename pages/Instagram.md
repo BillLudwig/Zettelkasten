@@ -1,4 +1,4 @@
-tags:: OSINT, SOCMINT, Social
+tags:: Social Media
 
 - > I've been meaning to take up photography as a hobby (and an excuse to get outdoors more). When I do I'll post them to https://www.instagram.com/billludwignm/
 - ## Page Optimization
