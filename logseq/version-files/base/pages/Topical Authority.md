@@ -9,6 +9,12 @@ tags:: SEO
 		- Match searcher intent for the keyword
 	- Structure blog content around the pillar content with interlinking between related articles
 	- Build contextually related backlinks from external websites and resources
+- ## Sites for Topical Research
+	- Wikipedia
+	- Competitor Websites
+	- Related Forums
+	- Reddit
+	- Google
 - # References
 	- [Importance of Topical Authority: A Semantic SEO Case Study](https://www.oncrawl.com/technical-seo/importance-topical-authority-semantic-seo/)
 	  collapsed:: true
