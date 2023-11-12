@@ -6,4 +6,10 @@ tags:: Content Marketing
 	- Provides a detailed reference to help find gaps in the content strategy
 - ## Components of a Content Marketing Plan
 	- [[Content Strategy]]
+	- Content Procedures
+	- Content Distribution Plan
+		- [[Social Media]]
+		- [[Newsletters]]
+		- [[Email Marketing]]
+- ## How to Create
 	-
