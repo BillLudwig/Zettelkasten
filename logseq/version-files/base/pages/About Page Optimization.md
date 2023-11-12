@@ -1,4 +1,4 @@
-tags:: Conversion Rate Optimization, WebDev
+tags:: Conversion Rate Optimization, Blogging
 
 - ## Notes
 	- Users that visit the About page spend 22% more time on your site and are 5X more likely to purchase
