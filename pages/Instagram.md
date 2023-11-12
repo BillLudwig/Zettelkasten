@@ -7,7 +7,7 @@ tags:: Social Media
 - ## OSINT Tools
 	- ((63a38a02-6648-4b37-9281-944f29a3a6da))
 - ## Other Links
-	- [Instagram now allows 5 links in bio](https://searchengineland.com/instagram-now-allows-up-to-5-links-in-bio-395742) - Good for #[[Link Building]] and #SEO
+	- [Instagram now allows 5 links in bio](https://searchengineland.com/instagram-now-allows-up-to-5-links-in-bio-395742) - Good for #[[Link Building]] and #SEO. #Instagram
 		- “Edit profile,” then “Links,” then “Add eternal link.”
 		- Didn't appear for me when I checked for #Adventureite.com so I'll try again
 			- TODO Add additional links to #Instagram profile for #Adventureite.com
