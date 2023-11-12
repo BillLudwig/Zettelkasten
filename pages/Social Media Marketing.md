@@ -2,7 +2,7 @@ tags:: Social Media, Marketing
 
 - ## Strategy
 	- [[Creating a Social Media Content Marketing Strategy]]
-- ## Creating a Social Media Content Marketing Strategy
+- ## Creating a Social Media Strategy
 	- Identify your goals
 		- Gathering followers or impressions should not be goals, just a means to achieve them.
 	- Clarify target audience

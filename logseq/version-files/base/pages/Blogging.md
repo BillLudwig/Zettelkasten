@@ -12,12 +12,13 @@ tags:: Marketing
 			- [How to create how-to content in 7 steps](https://searchengineland.com/create-how-to-content-395618) - Step by step guide for creating a "how to" article. #Blogging
 	- [[Round-Up Blog Posts]]
 - ## Traffic Sources
-	- [[SEO]]
-	- [[Social Media]]
 	- [[Content Syndication]]
+	- [[Content Marketing]]
 	- Collaboration
 		- [[Guest Posting]]
 		- [[Influencer Marketing]]
 	- [[Email Marketing]]
+	- [[SEO]]
+	- [[Social Media]]
 - ## Links
 	- [How to create a resource page](https://searchengineland.com/create-resource-page-398815) By Julia McCoy
