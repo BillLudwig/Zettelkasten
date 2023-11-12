@@ -1,6 +1,6 @@
 tags:: Marketing
 
-- ## Content
+- ## Content Types
 	- [[How-To Blog Posts]]
 	  collapsed:: true
 		- Goal: Teaching/Education
@@ -10,8 +10,13 @@ tags:: Marketing
 			- Consider their needs/wants
 		- *Sources*
 			- [How to create how-to content in 7 steps](https://searchengineland.com/create-how-to-content-395618) - Step by step guide for creating a "how to" article. #Blogging
-- ## Traffic
+	- [[Round-Up Blog Posts]]
+- ## Traffic Sources
+	- [[SEO]]
 	- [[Social Media]]
-	-
+	- [[Content Syndication]]
+	- Collaboration
+		- [[Guest Posting]]
+		- [[Influencer Marketing]]
 - ## Links
 	- [How to create a resource page](https://searchengineland.com/create-resource-page-398815) By Julia McCoy
