@@ -13,4 +13,6 @@ tags:: Content Marketing
 - ## How to Create
 	- Start with a [[Content Strategy]] to determine the Why/What/Who
 	- Use [[Keyword Research]] to find target keywords and build [[Topical Authority]]
+	- Do [[Competitor Analysis]] to find weaknesses and further build out topic clusters
+	- Create [[Content Briefs]]
 	-
