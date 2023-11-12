@@ -18,5 +18,6 @@ tags:: Marketing
 	- Collaboration
 		- [[Guest Posting]]
 		- [[Influencer Marketing]]
+	- [[Email Marketing]]
 - ## Links
 	- [How to create a resource page](https://searchengineland.com/create-resource-page-398815) By Julia McCoy

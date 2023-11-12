@@ -1,4 +1,4 @@
-tags:: Marketing, Email Marketing
+tags:: Marketing
 
 - ## Increasing Open Rate
 	- Words that correlate with higher open rates

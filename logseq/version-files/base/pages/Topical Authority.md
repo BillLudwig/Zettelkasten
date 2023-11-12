@@ -5,8 +5,8 @@ tags:: SEO
 		- Do topical authority keyword research to build up a list of related keywords and topics
 	- Topic Clusters and Map
 		- Organize keywords and topics into related clusters of pillar content and sub-topics
-	- Publish content optimized for each topic and keyword
-	- Structure blog content around the pillar content with interlinking
+		-
+	-
 - # References
 	- [Importance of Topical Authority: A Semantic SEO Case Study](https://www.oncrawl.com/technical-seo/importance-topical-authority-semantic-seo/)
 	  collapsed:: true
