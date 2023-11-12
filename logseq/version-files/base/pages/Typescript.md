@@ -1,7 +1,8 @@
 tags:: Dev
 
 - ## [[Typescript Decorators]]
-	- ((64470ff6-8fd7-4686-91d5-31279a479e22))
+	- [TypeScript Decorators: A complete guide](https://deadsimplechat.com/blog/typescript-decorators-a-complete-guide) - Decorators apply re-usable behaviors to classes, method, and properties in #Typescript
+	  id:: 64470ff6-8fd7-4686-91d5-31279a479e22
 - ## [[ Typescript Assignment Operators]]
 	- [[Typescript]] v4.0 supports three new assignment operators  for logical and `&&=`, logical or `||=`, and nullish coaliscing `??=`. This is perfect for writing more ~~confusing~~ concise code.
 	  id:: 63936b73-9316-4975-8049-a60fd1e78b7d
